@@ -1,15 +1,9 @@
-title: jovsa.github.io
+title: 🍱
 author:
   name: Jovan Sardinha
-description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-show_excerpts: false # set to true to show excerpts on the homepage
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
+  # (further reference)[https://shopify.github.io/liquid/filters/date/]
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
@@ -19,6 +13,8 @@ minima:
     linkedin: JovanSardinha
     medium: jovansardinha
     email: jovan.sardinha@gmail.com
+
+google_analytics: UA-167534363-1
 
 theme: minima
 
