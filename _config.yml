@@ -1,7 +1,6 @@
 title: jovsa.github.io
 author:
   name: Jovan Sardinha
-  email: jovan.sardinha@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -19,6 +18,7 @@ minima:
     github:  jovsa
     linkedin: JovanSardinha
     medium: jovansardinha
+    email: jovan.sardinha@gmail.com
 
 theme: minima
 
