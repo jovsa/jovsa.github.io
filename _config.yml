@@ -1,12 +1,13 @@
-title: 🍱
+title: 🧵
 author:
   name: Jovan Sardinha
 
+theme: minima
 minima:
   # (further reference)[https://shopify.github.io/liquid/filters/date/]
   date_format: "%b %-d, %Y"
 
-  # generate social links in footer
+  # footer social links
   social_links:
     twitter: JovanSardinha
     github:  jovsa
@@ -16,8 +17,10 @@ minima:
 
 google_analytics: UA-167534363-1
 
-theme: minima
-
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+url: "https://jovsa.github.io/"
+disque:
+  shortname: jovansardinha
