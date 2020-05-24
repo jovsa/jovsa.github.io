@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
-categories: junk
+title: "A Template Post"
+categories: template
+modified_date: "May 23, 2020"
 author:
 - Bart Simpson
 - Nelson Mandela Muntz
+- Jovan Sardinha
 meta: "Springfield"
 ---
 
