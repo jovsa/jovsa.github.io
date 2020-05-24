@@ -21,6 +21,6 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-url: "https://jovsa.github.io/"
 disque:
-  shortname: jovansardinha
+  shortname: jovsa-github-io
+url: "https://jovsa.github.io"
