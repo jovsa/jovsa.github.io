@@ -5,11 +5,13 @@ author:
 - Jovan Sardinha
 ---
 
-In march 2017, OpenAI released a paper[^1] and a blog post[^2] showing that Evolution Strategies (ES) was a scalable alternative to [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning). Running a computing cluster of 80 machines and 1,440 CPU cores, their implementation was able to train a 3D MuJoCo humanoid walker in only 10 minutes[^2]. Furthermore, using 720 cores they obtained comparable performance to A3C on Atari while cutting down the training time from 1 day to 1 hour[^2].
+In march 2017, OpenAI released a paper[1] and a blog post[2] showing that Evolution Strategies (ES) was a scalable alternative to [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning). Running a computing cluster of 80 machines and 1,440 CPU cores, their implementation was able to train a 3D MuJoCo humanoid walker in only 10 minutes[2]. Furthermore, using 720 cores they obtained comparable performance to A3C on Atari while cutting down the training time from 1 day to 1 hour[2].
 
 This post details my initial exploration in ES within the context of Neural Networks (NN). More specifically, the objectives can be defined as follows:
 >1 — Implement evolution strategies from scratch and use it to optimize the weights of a neural network on the task of [MNIST](http://yann.lecun.com/exdb/mnist/) [digit](http://colah.github.io/posts/2014-10-Visualizing-MNIST/) [recognition](https://www.tensorflow.org/get_started/mnist/pros).
+
 >2 — Find a good set of hyperparameters of the algorithm that achieves the best results after 12 hours of training.
+
 >3 — Distribute the above across the cores of a computer (going to 4 cores). Analyze the speedup observed when going from 1 core to a 4 core implementation.
 
 ```
@@ -54,7 +56,13 @@ K.set_session(session)
 
 The overall training process is illustrated by the digram below:
 
-![Figure 1: Overall process of training a MNIST classifier with ES](/assets/MNIST_classification_with_ES.png)
+{% include image.html file="es/MNIST_classification_with_ES.png" caption="Figure 1: Overall process of training a MNIST classifier with ES" %}
+
+The overall algorithm implemented is detailed below:
+
+
+{% include image.html file="es/algo_1.png" %}
+
 
 
 ## Reference
