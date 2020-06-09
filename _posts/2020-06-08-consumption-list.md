@@ -17,7 +17,7 @@ The following page attempts to list artifacts from all the various information s
 
 ### Courses
 
-> A list of online courses I have done for **fun** in the recent years to augment my **actual** engineering education at the University of Toronto
+> A list of online courses I have done to augment my engineering education at the University of Toronto
 
 * Neural Networks at Univeristy of Toronto [my personal copy of lectures and recordings](https://drive.google.com/drive/folders/0B7ZfXv12rlh6dTlnaUJSUnZ4Qms?usp=sharing) by Geoffrey Hinton, Nitish Srivastava and Kevin Swersky. `2014`
 * Bitcoin and Cryptocurrency Technologies by Princeton University [on Coursera](https://www.coursera.org/learn/cryptocurrency) `2016`
@@ -47,7 +47,6 @@ The following page attempts to list artifacts from all the various information s
 * [Wait by Why](https://waitbutwhy.com/) by Tim Urban
 * [Slate Star Codex](https://slatestarcodex.com/)
 * [Patrick Collison's Personal Blog](https://patrickcollison.com/)
-
 
 
 <div align="center">Something I missed that you enjoy? Send me a note</div>
