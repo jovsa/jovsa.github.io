@@ -28,15 +28,17 @@ The following page attempts to list artifacts from all the various information s
 * Self-Driving Car Nanodegree (1/3) [by Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)`2018`
 * Deep Reinforcement Learning [CS 294-112 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/) `2018`
 * Portfolio Selection and Risk Management at [Coursera](https://www.coursera.org/learn/portfolio-selection-risk-management)
-* [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/) `2018`
+* [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi and Andrea Arpaci-Dusseau `2018`
 * Malcom Gladwell on Writing [by Masterclass](https://www.masterclass.com/classes/malcolm-gladwell-teaches-writing) `2019`
 * Bob Iger on  Business Strategy and Leadership [by Masterclas](https://www.masterclass.com/classes/bob-iger-teaches-business-strategy-and-leadership/enrolled)`2019`
+* Distributed Systems by Tim Berglund on [O'Reilly](https://www.oreilly.com/library/view/distributed-systems-in/9781491924914/) `2019`
 * Maximum Entropy Methods [by Complexity Explorer](https://www.complexityexplorer.org/courses/33-maximum-entropy-methods/segments/3781?summary)`2020`
 * Fundamentals of NetLogo [by Complexity Explorer](https://www.complexityexplorer.org/courses/84-fundamentals-of-netlogo)`2020`
-* Deep Unsupervised Learning [CS294-158-SP20 at UC Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp20/home) `[in progresses] 2020`
-* Data-Driven Algorithm Design [CS 159 at California Institute of Technology](https://sites.google.com/view/cs-159-spring-2020/lectures) `[in progress] 2020`
+* Deep Unsupervised Learning [CS294-158-SP20 at UC Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp20/home) `2020 [in progress]`
+* Data-Driven Algorithm Design [CS 159 at California Institute of Technology](https://sites.google.com/view/cs-159-spring-2020/lectures) `2020 [in progress]`
 
 ### Long Form
+> Not exhaustive, but some of my evergreen favourites
 
 * [The Investors Field Guide](http://investorfieldguide.com/) by Patrick O’Shaughnessy
 * [The Portal](https://podcasts.apple.com/us/podcast/the-portal/id1469999563) by Eric Weinstein
@@ -47,4 +49,5 @@ The following page attempts to list artifacts from all the various information s
 * [Patrick Collison's Personal Blog](https://patrickcollison.com/)
 
 
-> Something I missed that you enjoy? Send me a note
+
+<div align="center">Something I missed that you enjoy? Send me a note</div>
