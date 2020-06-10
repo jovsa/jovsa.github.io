@@ -49,4 +49,4 @@ The following page attempts to list artifacts from all the various information s
 * [Patrick Collison's Personal Blog](https://patrickcollison.com/)
 
 
-<div align="center">Something I missed that you enjoy? Send me a note</div>
+<div align="center">Something you enjoy that is not on this list? Send me a note</div>
