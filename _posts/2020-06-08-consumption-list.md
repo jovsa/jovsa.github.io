@@ -7,7 +7,8 @@ author:
 ---
 The following page attempts to list artifacts from all the various information sources I consume.
 
-### Books
+### [Books](#books)
+> Fiction and non-fiction reading list
 
 * Books I [have read](https://www.goodreads.com/review/list/14624432-jovan-sardinha?shelf=read)
 * Books I [want to read](https://www.goodreads.com/review/list/14624432-jovan-sardinha?shelf=to-read)
@@ -15,9 +16,8 @@ The following page attempts to list artifacts from all the various information s
 * Books I often [re read](https://www.goodreads.com/review/list/14624432-jovan-sardinha?shelf=re-read)
 * Books I occasionally [reference](https://www.goodreads.com/review/list/14624432-jovan-sardinha?shelf=reference-books)
 
-### Courses
-
-> A list of online courses I have done to augment my engineering education at the University of Toronto
+### [Courses](#courses)
+> A list of online courses I have done to augment my formal education
 
 * Neural Networks at Univeristy of Toronto [my personal copy of lectures and recordings](https://drive.google.com/drive/folders/0B7ZfXv12rlh6dTlnaUJSUnZ4Qms?usp=sharing) by Geoffrey Hinton, Nitish Srivastava and Kevin Swersky. `2014`
 * Bitcoin and Cryptocurrency Technologies by Princeton University [on Coursera](https://www.coursera.org/learn/cryptocurrency) `2016`
@@ -38,7 +38,7 @@ The following page attempts to list artifacts from all the various information s
 * Data-Driven Algorithm Design [CS 159 at California Institute of Technology](https://sites.google.com/view/cs-159-spring-2020/lectures) `2020 [in progress]`
 
 
-### Long Form
+### [Long Form](#long_form)
 > Not exhaustive, but some of my evergreen favourites
 
 * [The Investors Field Guide](http://investorfieldguide.com/) by Patrick O’Shaughnessy
