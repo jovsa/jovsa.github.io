@@ -2,116 +2,76 @@
 layout: post
 title: "A Template Post"
 categories: template
-modified_date: "May 23, 2020"
+modified_date: "July 11, 2020"
 author:
-- Bart Simpson
-- Nelson Mandela Muntz
 - Jovan Sardinha
-meta: "Springfield"
+metadata:
+  related idea:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
-## Some great heading (h2)
+---
+**Title**
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+**Thumbnail**
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+## The story
 
-## Another great heading (h2)
+1. **Who** is the character?
+  * List
+2. **What** do they want?
+  * List
+3. **Why** can’t they get what they want?
+  * List
+4. What are the **stakes**? Ie: What will happen if they don’t get what they want?
+  * List
+5. Who or what **helps** them?
+  * List
+6. **How** do they get what they want?
+  * List
+7. How are they **transformed** by this experience?
+  * List
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+## The essay
 
-### Some great subheading (h3)
+> The first 15 seconds should immediately reinforce the value proposition that was promised in the title + thumbnail. We no longer want an extended 'welcome back to the channel my name is ali i'm a junior doctor working in cambridge blah blah'. We need a snappy hook that tells people "this video will deliver on what I was promised". This is arguably the most important part of the video.
+> "Hey friends welcome back to the channel. Today we're talking about abc" is the longest that the intro should be. In an ideal world, we'd design a hook that doesn't even have a 'welcome back to the channel', it just launches straight into delivering value.
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+**Intro**
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+**Value (aiming for 50% retention by the end)**
 
-### Some great subheading (h3)
+**Point to a custom playlist / video**
+> The objective of the ending is to keep them watching by pointing them to a custom playlist of 3-4 other videos that they might be interested in. Eg: "if you liked this video you'll love this custom playlist i've made for you that has my most popular videos about how to study that have apparently changed people's lives. Thanks for watching, and see you later".
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+## References
+### Story Structure
+**Hero's Journey**
 
-> This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
+{% include image.html file="template_post/hero_journey.png" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
+**Three Act Structure**
+{% include image.html file="template_post/three_act_structure.png" %}
+1. External Order
+    1. Who is the character and what does normal look like?
+    2. In what way does life feel incomplete?
+    3. What prompts the character to take action?
+2. External Chaos
+    1. At what point is the character no longer in the status quo and why?
+    2. In what ways does the character adapt to new surroundings?
+    3. How does he / she get help navigating challenges?
+3. Internal Chaos
+    1. What does the ‘final test’ look like?
+    2. Does the character prevail?
+    3. What internal realisation does the character have?
+4. Internal Order
+    1. At what point is the character not back in the status quo and why?
+    2. How is the character clearly different?
+    3. In what ways does he change the world?
 
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
-
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-##### Could be a smaller sub-heading, `pacman` (h5)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-###### Small yet significant sub-heading  (h6)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
+## Publishing Checklist
+- [ ] Publish on Medium
+- [ ] SBTLOM
+- [ ] Share on Twitter
+- [ ] SBTLOT
+- [ ] Answer initial comments
