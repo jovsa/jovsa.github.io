@@ -12,7 +12,7 @@ The following page attempts to list artifacts from all the various information s
 * Books I [have read](https://www.goodreads.com/review/list/14624432-jovan-sardinha?shelf=read)
 * Books I [want to read](https://www.goodreads.com/review/list/14624432-jovan-sardinha?shelf=to-read)
 * Books I am [currently reading](https://www.goodreads.com/review/list/14624432-jovan-sardinha?shelf=currently-reading)
-* Books so good that I often [re read](https://www.goodreads.com/review/list/14624432-jovan-sardinha?shelf=re-read)
+* Books I often [re read](https://www.goodreads.com/review/list/14624432-jovan-sardinha?shelf=re-read)
 * Books I occasionally [reference](https://www.goodreads.com/review/list/14624432-jovan-sardinha?shelf=reference-books)
 
 ### Courses
@@ -36,6 +36,7 @@ The following page attempts to list artifacts from all the various information s
 * Fundamentals of NetLogo [by Complexity Explorer](https://www.complexityexplorer.org/courses/84-fundamentals-of-netlogo)`2020`
 * Deep Unsupervised Learning [CS294-158-SP20 at UC Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp20/home) `2020 [in progress]`
 * Data-Driven Algorithm Design [CS 159 at California Institute of Technology](https://sites.google.com/view/cs-159-spring-2020/lectures) `2020 [in progress]`
+
 
 ### Long Form
 > Not exhaustive, but some of my evergreen favourites
