@@ -75,3 +75,17 @@ metadata:
 - [ ] Share on Twitter
 - [ ] SBTLOT
 - [ ] Answer initial comments
+
+
+## Stages
+- [ ] Idea
+- [ ] Research
+- [ ] First Thougts
+- [ ] Storyline
+- [ ] Images
+- [ ] Clean Wording
+- [ ] Publish 1
+- [ ] Twitter thread
+
+
+
