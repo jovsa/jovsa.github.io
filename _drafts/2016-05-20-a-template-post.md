@@ -79,13 +79,16 @@ metadata:
 
 ## Stages
 - [ ] Idea
+- [ ] How does it relate to your value prop? Potential for Differentitaion?
 - [ ] Research
-- [ ] First Thougts
-- [ ] Storyline
-- [ ] Images
-- [ ] Clean Wording
-- [ ] Publish 1
+- [ ] First Thoughts
+- [ ] Storyline (figure out which structure)
+- [ ] Clean Wording - review from POV of self
+- [ ] update images
+- [ ] review from POV of fan
+- [ ] Review from the POV of critic
 - [ ] Twitter thread
+- [ ] update based on feedback
 
 
 
