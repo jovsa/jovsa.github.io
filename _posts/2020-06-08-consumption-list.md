@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Consumption List"
-modified_date: "July 11, 2020"
+modified_date: "July 14, 2020"
 author:
 - Jovan Sardinha
 ---
@@ -39,15 +39,16 @@ The following page attempts to list artifacts from all the various information s
 
 
 ### [Long Form](#long_form)
-> Not exhaustive, but some of my evergreen favourites
+> Not exhaustive, but some of my evergreen favourites (in no perticular order)
 
 * [The Investors Field Guide](http://investorfieldguide.com/) by Patrick O’Shaughnessy
+* [Personal website](https://www.gwern.net) by Gwern Branwen
 * [The Portal](https://podcasts.apple.com/us/podcast/the-portal/id1469999563) by Eric Weinstein
 * [The Knowledge Project](https://fs.blog/knowledge-project/) by Shane Parrish
 * [Stratechery](https://stratechery.com/) by Ben Thompson
 * [Wait by Why](https://waitbutwhy.com/) by Tim Urban
 * [Slate Star Codex](https://slatestarcodex.com/)
-* [Patrick Collison's Personal Blog](https://patrickcollison.com/)
+* [Personal blog](https://patrickcollison.com/)by Patrick Collison
 
 
 <div align="center">Something you enjoy that is not on this list? Send me a note</div>
