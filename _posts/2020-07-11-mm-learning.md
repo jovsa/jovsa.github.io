@@ -136,6 +136,14 @@ Don't think you need to do either or, but task weighted stuff is more scalable.
  - People really want to start reading into multi-task learning (give lunach in points)
  - People really want to know a playbook in prod
  - idea: use wording in ML guild presentation to write
+ - talk about the difference between this and transfer learning
+   - specifically from the POV of engieering and product
+ - more compelling WHY? -> would not encourage @Rebecca to go and try this out over the weekeing
+  - don't think most directors will invest with so little WHY
+ - Provide a hook for more resources to get started (also ties to motivation)
+ - Provide more value proposition for engineering / product and how this simplifies their life too
+ - explain initial digram of rube goldberg more! -> think from the POV of rebecca
+ - the gradient pictures definately helped
 
 
 
