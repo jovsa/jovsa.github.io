@@ -135,6 +135,7 @@ Don't think you need to do either or, but task weighted stuff is more scalable.
  - People didn't understand that you can train on tasks that are not realted (ex. Garret's quetions)and they don't realize that it's much better
  - People really want to start reading into multi-task learning (give lunach in points)
  - People really want to know a playbook in prod
+ - idea: use wording in ML guild presentation to write
 
 
 
