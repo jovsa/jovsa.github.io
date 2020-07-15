@@ -82,6 +82,9 @@ Looking at history
      - the distribution of users while they comment on a post
      - the distribution of users when they consume from a newsfeed
      .... etc..
+```
+state assumptions: on dependence of params and tasks
+```
 But multi-task learning is just a special case of meta-learning where we learn params of the meta distribution for a predefined set of taks.
 `add derivations from C. Finn see slides`
 
@@ -111,12 +114,30 @@ Don't think you need to do either or, but task weighted stuff is more scalable.
 
 ## Implications for Production Systems
  - Cheap to experiment on new cases; since we can quickly apply to another task
+  - You can decouple data generation ML eng + ML infra
  - Changes this from a Data -> compute (given that we have an algorithm) (reference OpenAI)
  - Ability of small players to come in and get started quickly (because they can bootstrap off larger models)
+
  - Ability to quickly collaborate with others (PM, designers, etcc.) [for ex. what's happening with GPT-3] experiment. This will allow ML relegated to a few ML "experts".
 
-In Summary:
+
+## In Summary:
   - @TODO
+
+
+## Feedback from ML Guild
+ - What is the differance between this and fine tuning?
+ - Reddit will have an advantage in Meta learning models becaues they have interaction data
+ - If you have a design decision that is implimneted by a human it's only a matter of time until it become a bottleneck in generalization
+ - Stress on the ML + ML infra values
+  - It's a gradient multi-task -> meta-learning (Garret's quetions)
+ - A lot of questions on negative transfer (maybe with respect to Adversarial training)
+ - People didn't understand that you can train on tasks that are not realted (ex. Garret's quetions)and they don't realize that it's much better
+ - People really want to start reading into multi-task learning (give lunach in points)
+ - People really want to know a playbook in prod
+
+
+
 
 
 
