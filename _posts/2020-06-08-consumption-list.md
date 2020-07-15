@@ -48,7 +48,7 @@ The following page attempts to list artifacts from all the various information s
 * [Stratechery](https://stratechery.com/) by Ben Thompson
 * [Wait by Why](https://waitbutwhy.com/) by Tim Urban
 * [Slate Star Codex](https://slatestarcodex.com/)
-* [Personal blog](https://patrickcollison.com/)by Patrick Collison
+* [Personal blog](https://patrickcollison.com/) by Patrick Collison
 
 
 <div align="center">Something you enjoy that is not on this list? Send me a note</div>
