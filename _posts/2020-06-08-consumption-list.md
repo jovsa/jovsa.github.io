@@ -27,7 +27,7 @@ The following page attempts to list artifacts from all the various information s
 * Natural Language Processing with Deep Learning [CS224n at Stanford](http://web.stanford.edu/class/cs224n/)`2018`
 * Self-Driving Car Nanodegree (1/3) [by Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)`2018`
 * Deep Reinforcement Learning [CS 294-112 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/) `2018`
-* Portfolio Selection and Risk Management at [Coursera](https://www.coursera.org/learn/portfolio-selection-risk-management)
+* Portfolio Selection and Risk Management at [Coursera](https://www.coursera.org/learn/portfolio-selection-risk-management)`2018`
 * [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi and Andrea Arpaci-Dusseau `2018`
 * Malcom Gladwell on Writing [by Masterclass](https://www.masterclass.com/classes/malcolm-gladwell-teaches-writing) `2019`
 * Bob Iger on  Business Strategy and Leadership [by Masterclas](https://www.masterclass.com/classes/bob-iger-teaches-business-strategy-and-leadership/enrolled)`2019`
