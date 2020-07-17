@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Case for Meta-Learning in Production"
+title: "A Case for Meta-Learning in Production"
 categories: machine-learning
 author:
 - Jovan Sardinha
@@ -8,17 +8,14 @@ metadata:
   related idea:
 ---
 ## Background
-Situtaion: Building ML systemes is great (when they work) -> From simple huristics, regression to massive nets. This is because we have figured out how to close the cycle time from resrearch idea -> prod.
-Compliation: Bulding ML systems is quite tedious and requires too much domain knowledge.
- - Change model type and a few assumptions
-  - Is tedious with a lot of redundant steps/choices
-  - Requires too much domain knowledge
-  - High chance of failure and wasted effort
-  - High maintainance overhead
+Machine learning systems works really well in production. This is because the field has figured out a way to tighten the cycle time from research to production. However, building ML systems:
+* Is tedious: There are a lot of choices around approach, data, metrics, architecutre for every system. The multitude of choices inevitably allows for more chance to make mistakes.
+* Requires a lot of domain knowledge: Around the data, what are the best metrics and what are the weak points of the current model.
+* High chance of failure: Most projects fail <sup>[1]</sup>. This inevitably means there is wasted effort and time.
+* High maintenance overhead: After you get past the above barriers, you have to maintain this beast on live traffic.
 
- - Too much for everyone to do it (silent failures)
-Q: Having been working in the field and talking to a lot of people - Is there a better way or are we stuck in this tedious hell?
-A: Yes, meta-learning via multi-taks learning
+In addition to facing a lot of these issues first hand over the past few years, I have been spending a lot of time talking to other in the field facing similar problems. I wanted to know if there is a better way or are we stuck in this tedious world?
+
 ```
 https://xkcd.com/1425/
 ```
@@ -126,26 +123,37 @@ Don't think you need to do either or, but task weighted stuff is more scalable.
 
 
 ## Feedback from ML Guild
+
+**transfer learning**
  - What is the differance between this and fine tuning?
- - Reddit will have an advantage in Meta learning models becaues they have interaction data
- - If you have a design decision that is implimneted by a human it's only a matter of time until it become a bottleneck in generalization
- - Stress on the ML + ML infra values
-  - It's a gradient multi-task -> meta-learning (Garret's quetions)
- - A lot of questions on negative transfer (maybe with respect to Adversarial training)
- - People didn't understand that you can train on tasks that are not realted (ex. Garret's quetions)and they don't realize that it's much better
- - People really want to start reading into multi-task learning (give lunach in points)
- - People really want to know a playbook in prod
- - idea: use wording in ML guild presentation to write
  - talk about the difference between this and transfer learning
    - specifically from the POV of engieering and product
- - more compelling WHY? -> would not encourage @Rebecca to go and try this out over the weekeing
-  - don't think most directors will invest with so little WHY
+
+
+**Negative transfer**
+ - People didn't understand that you can train on tasks that are not realted (ex. Garret's quetions)and they don't realize that it's much better
+ - A lot of questions on negative transfer (maybe with respect to Adversarial training)
+
+**better WHY**
+ - People really want to know a playbook in prod
+  - transfer learning -> multi-task learning -> meta learning
+ - Reddit will have an advantage in Meta learning models becaues they have interaction data
+ - If you have a design decision that is implimneted by a human it's only a matter of time until it become a bottleneck in generalization
+ - Stress on the ML + ML infra values; especially how you can decouple ideas.
+
+ *ml + infra values*
+  - more compelling WHY? -> would not encourage @Rebecca to go and try this out over the weekeing
+    - don't think most directors will invest with so little WHY
+  - Provide more value proposition for engineering / product and how this simplifies their life too
+
+**More getting started resources**
  - Provide a hook for more resources to get started (also ties to motivation)
- - Provide more value proposition for engineering / product and how this simplifies their life too
  - explain initial digram of rube goldberg more! -> think from the POV of rebecca
  - the gradient pictures definately helped
+ - People really want to start reading into multi-task learning (give lunach in points)
 
 
+ - idea: use wording in ML guild presentation to write
 
 
 
@@ -153,6 +161,8 @@ Don't think you need to do either or, but task weighted stuff is more scalable.
 Given 1 more test shape from the IQ test (image 2)
 
 
+## References
+[1] https://www.prnewswire.com/news-releases/pactera-white-paper-reveals-85-percent-of-ai-projects-ultimately-fail-300871826.html
 
 ```
 **Title**
