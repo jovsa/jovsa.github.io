@@ -16,61 +16,92 @@ Machine learning systems works really well in production. This is because the fi
 
 In addition to facing a lot of these issues first hand over the past few years, I have been spending a lot of time talking to other in the field facing similar problems. I wanted to know if there is a better way or are we stuck in this tedious world?
 
-```
-https://xkcd.com/1425/
-```
+<div style="text-align: center">
+  <img src="/assets/post_assets/mm-prod/xkdc_opening.png" width="300" />
+  <figcaption>Fig.1 - obligatory xkdc post</figcaption>
+</div>
 
-## Motivating Example
- - Motivating exmaple: use mensa IQ test (http://www.graduatewings.co.uk/classic-abstract-test-patterns/) (image 1)
-  - Give 1 hint and see if scores improves
+### A Motivating Example
 
-How did you accomplish this?
+Before we dive deep into the detials, let's use a motivating example to drive our thinking.
+
+If your brain was a machine learning model, that has been trained over the years of your life, could you take the 12 new training samples and try to guess which class the 1 test sample falls in?
+
+<div style="text-align: center">
+  <img src="/assets/post_assets/mm-prod/motivating_example.png"/>
+  <figcaption>Fig.2 - motivating example<sup>[2]</sup></figcaption>
+</div>
+
+Thing about how did you accomplish this?
  - You havd a lot of existing knowledge and you could levarage it to make choices
- - The hint definately helped
 
 Just like how your previous knowledge helped solve this problem, does this give us hints on how we can build systems that can better generalize to realted tasks?
 
-```
-Agenda:
+How come our neural nets need so many examples, yet, you from 12 examples was able to come up with the right answer?
+
+To see how humans this, maybe we have a strong prior that we can use to solve the problem at hand. This is exactly what happened when you try to solve the `motivating problem`. Can we take this approach with our ML systems?
+
+The correct answer is `Set A`.
+
+
+These set of questions is something that I have spend a lot of time recently. In additonal to facing these problems in places that I work at, after talking to colleages in the industry, I noticed that these are similar problems that others in the industry face. If these set of questions are something that interest you, I have structed my research in the following way:
+
+## Agenda
  - State of the Ecosystem
- - What  is multi-task and meta learning
+ - Meta-learning basics
+ - Literature review
  - Why this matters in the bigger picture
-```
+
 
 ## State of the Ecosystem
-[trend graphs](https://hai.stanford.edu/sites/default/files/ai_index_2019_report.pdf)
-[also use these ](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling)
-[also chip's](https://huyenchip.com/2020/06/22/mlops.html)
+
+<div style="text-align: center">
+  <img src="/assets/post_assets/mm-prod/ecosystem_state.png" width="800" />
+  <figcaption>Fig.3 - The state of machine learning systems<sup>[3][4]</sup></figcaption>
+</div>
+
+
 **The production ecosystem**
- - Supervised learning is becoming more and more easy
-  - tools are getting better
-  - show trends of usage going up
-  - But it's tedious and error prone and takes a long time
+ - Supervised learning is becoming more and more easy and the realated tools are getting better [5]
+ - But it's tedious and error prone and takes a long time
 
 **The research ecosystem**
- - Research is collecting more building block (ala Jeff Clune)
-    - show number of papers published
-    - show number of components created
-      - Show compoenents of Papers who Code
-    - But it's tedious and error prone and takes a long time
+ - Research is collecting more building blocks [6][7]
+ - But it's tedious and error prone and takes a long time
 
- = Rube Goldberg contraptions (the real value is in the components systems)
+**But in reality**
  - High activation energy
  - High investment costs
  - Lack of expertise
  - hard to collaborate
+ Assembling these building blocks is like assembling legos
 
 
 ## Learning from History
-Looking at history
- - If you were to build a system for the IQ test task how will you do it?
-  - past examples and categorize
-  - Features
-  - etc...
+Hand-designed things are ultimately outperformed by learned solutions
 
- - this trend suggests that there is a better way to do things. We also know that as we scale compute+data+models we can learn more and mre sopisticated sutff
+Features
+ - HOG/SIFT -> Deep Learning
 
-## Meta Learning Nomenclature
+Architectures
+ - Hand designed -> Learned
+
+Hyperparameters
+ - Manually tuned -> Learned
+
+This trend suggests that there is a better way to do things: If you have a design decision that is implimneted by a human it's only a matter of time until it become a bottleneck in the overall system.
+We also know that as we scale compute+data along with model complexity you see improvements in performance [8][9]
+
+## Meta Learning
+Deep neural network models in production do a good job of learning data distributions. For a lot of machine learning teams this is their bread and butter. Although tedious, there is good enough expertise around this area.
+
+ - talk about gradients
+
+<div style="text-align: center">
+  <img src="/assets/post_assets/mm-prod/supervised_2_meta.png"/>
+  <figcaption>Fig.3 - The state of machine learning systems<sup>[3][4]</sup></figcaption>
+</div>
+
  - Supervised learning 1 line deifinition
  - Meta learning 1 line definition
   - Learn a broader definition of taks so that we can just fine tune on the subset of the distribution
@@ -153,8 +184,8 @@ Don't think you need to do either or, but task weighted stuff is more scalable.
  - People really want to start reading into multi-task learning (give lunach in points)
 
 
- - idea: use wording in ML guild presentation to write
-
+**Need more storyline**
+ - We have this awesome tools called ML. However, it's getting hard and tedious to impliment -> build something along the lines of a hero's narrative.
 
 
 
@@ -163,6 +194,22 @@ Given 1 more test shape from the IQ test (image 2)
 
 ## References
 [1] https://www.prnewswire.com/news-releases/pactera-white-paper-reveals-85-percent-of-ai-projects-ultimately-fail-300871826.html
+
+[2] http://www.graduatewings.co.uk/classic-abstract-test-patterns/
+
+[3] [AI research trend graphs](https://hai.stanford.edu/sites/default/files/ai_index_2019_report.pdf)
+
+[4] [ML tools ecosystem](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling)
+
+[5] [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)
+
+[6] [Notes from Danny Britz](https://twitter.com/dennybritz/status/1262682676709990401)
+
+[7] [Components - Papers with Code](https://paperswithcode.com/methods)
+
+[8] [An Empirical Model of Large-Batch Training](https://arxiv.org/pdf/1812.06162.pdf)
+
+[9] [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
 
 ```
 **Title**
