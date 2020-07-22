@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Case for Meta-Learning in Production"
+title: "A Case for Multi-Task and Meta Learning in Production"
 categories: machine-learning
 author:
 - Jovan Sardinha
@@ -223,3 +223,23 @@ Given 1 more test shape from the IQ test (image 2)
 **Thumbnail**
 
 ```
+lorel epsum lorel epsumlorel epsumlorel epsumlorel epsumlorel epsumlorel epsumlorel epsum
+<style>
+.caseStudy {
+  border: 0.5px outset;
+  background-color: lightgrey;
+  text-align: center;
+  width: 95%;
+  box-shadow: 2px 2px 4px #000000;
+}
+</style>
+
+<div class="caseStudy">
+  <h2>This is a heading in a div element</h2>
+  This is normal text
+
+</div>
+
+
+sdfsdfsdf
+sdfsdfsdf
