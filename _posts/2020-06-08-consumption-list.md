@@ -49,6 +49,7 @@ The following page attempts to list artifacts from all the various information s
 * [Wait by Why](https://waitbutwhy.com/) by Tim Urban
 * [Slate Star Codex](https://slatestarcodex.com/)
 * [Personal blog](https://patrickcollison.com/) by Patrick Collison
+* [Ribbonfarm](https://www.ribbonfarm.com/) by Venkatesh Rao
 
 
 <div align="center">Something you enjoy that is not on this list? Send me a note</div>
