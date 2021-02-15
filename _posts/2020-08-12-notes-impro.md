@@ -21,7 +21,6 @@ author:
 
 ### Masks and trance
 
-
 ## References
 
 * [Ebook and Audio](https://archive.org/details/pdfy-KIkLrSPi_3lzPl5v)
