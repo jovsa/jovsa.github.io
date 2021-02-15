@@ -37,9 +37,6 @@ author:
 
 ### 14: The founder's paradox
 
-
 ## References
 
 * Notes by [Blake Masters](https://blakemasters.com/peter-thiels-cs183-startup)
-
-
