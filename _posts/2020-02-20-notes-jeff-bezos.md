@@ -13,13 +13,8 @@ author:
 
 #### 1997: It's all about the long term
 
-```
-“We first measure ourselves in terms of the metrics most indicative of our market leadership: customer and revenue growth, the degree to which our customers continue to purchase from us on a repeat basis, and the strength of our brand. We have invested and will continue to invest aggressively to expand and leverage our customer base, brand, and infrastructure as we move to establish an enduring franchise.
-
-Because of our emphasis on the long term, we may make decisions and weigh tradeoffs differently than some companies.”
-
-```
-
+* “We first measure ourselves in terms of the metrics most indicative of our market leadership: customer and revenue growth, the degree to which our customers continue to purchase from us on a repeat basis, and the strength of our brand. We have invested and will continue to invest aggressively to expand and leverage our customer base, brand, and infrastructure as we move to establish an enduring franchise.
+* Because of our emphasis on the long term, we may make decisions and weigh tradeoffs differently than some companies.”
 * `It’s All About the Long Term`.
     * Play in fields that are growing
     * Focus relentessly on cusotmers.
@@ -34,6 +29,7 @@ Because of our emphasis on the long term, we may make decisions and weigh tradeo
 * Bring on shareholders who align with your values
 
 #### 1998: Obsessions
+
 * Stay terrified of your customers
 * If you’re expending effort trying to follow your rivals’ every move, you’re losing the big picture. Ex. using PE to attact investments but loosing in the end (ex. fast food industry).
 * Questions as your hire
@@ -42,6 +38,7 @@ Because of our emphasis on the long term, we may make decisions and weigh tradeo
     * Along what dimention might this person be a superstar?
 
 #### 1999: Building for the long term
+
 * $2B in annulized sales
     * $0.22B in inventory
     * $0.318B in fixed assets
@@ -50,9 +47,42 @@ Because of our emphasis on the long term, we may make decisions and weigh tradeo
 * Growth in the both the number of our customers and the strength of the relationship we have with each of them and growing our relationships with partners.
 * Build on top of infrastructure that's improving on it's own
 
+#### 2000: Taking the long view
 
+* Real estate doesn't obey moore's law
+* Focusing on free cash flow or otherwise giving your business some form of cash moat (whether through outside equity, debt stakes, or tight operations) will help ride out difficult times when customers aren’t buying and/or financing has dried up.
+* If you’re able to maintain composure while others fall, you have the opportunity to come out ahead and capture a much bigger market share.
+
+#### 2001: The customer franchise is our most valuable asset
+
+* Measure your company by your free cash flow. FCF more than any other single variable, seem to do the best job of explaining a company's stock over the long term.
+* Communication is a critical (and often undervalued) way to highlight progress. Sticking to traditional templates (SEC filings, press releases) don't usually allow for much space for subtleties which are critical here. (Think about the quetsion: *I own x number of shares of Amazon, what do I own?*)
+
+#### 2002: What's good for the customer is good for the shareholder
+* Build your business on your fixed costs
+* Companies driven by technology have an incredible advantage because much of their value hinges on fixed costs.
+    *
+* If you want to provide the best possible customer experience and the lowest possible prices in your industry, it's only possible if you can make more of your customers expenses fixed.
 
 ### Life and Work
+
+* [We are what we choose](https://www.youtube.com/watch?v=vBmavNoChZc)
+    * No compliments to self.
+    * A little self-depricating when he explained the story with his grandparents
+    * He asked a few rethorical questions at the end [negative]
+    * Granular wisdom: Gifts are easy, choices are not. Make good choices. *Regret minimization framework*
+    * Did not talk about the parents.
+    * No elevator converations (ex. weather, time).
+    * Spoke asif he was speking to friends.
+    * No emotion [negative]
+    * Did not describe the world that the graduates were entering, but gave them a fresh perspective.
+    * Very quotable.
+    * Very short -> Almost as short as the introduction.
+    > Using the 13 rules of Storyworthy
+
+* [Jeff Bezos at Regan Foundation](https://www.youtube.com/watch?v=u2LusJWZ6c4)
+
+
 
 ## References
 
