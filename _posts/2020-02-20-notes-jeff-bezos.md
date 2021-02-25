@@ -64,6 +64,15 @@ author:
     *
 * If you want to provide the best possible customer experience and the lowest possible prices in your industry, it's only possible if you can make more of your customers expenses fixed.
 
+#### 2003: Long-term thinking is rooted in ownership
+
+* Long term thinking is both a requirement and an outcome of ownership.
+* If you want to build a successful company for the long term, build a company of owners.
+* With the mentality of a service provider, you will seek short-term gains and sacrifice future growth.
+* With the mentality of an owner, you will always act in the best interests of your customers and your team. In the end, the work you do acting as an owner will coincide with the interests of your shareholders.
+
+
+
 ### Life and Work
 
 * [We are what we choose](https://www.youtube.com/watch?v=vBmavNoChZc)
