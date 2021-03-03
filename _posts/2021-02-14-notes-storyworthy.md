@@ -117,8 +117,11 @@ Lies that benefit the listener:
     * Essays
     All of these the audience does not have a contigious movie in their mind.
 * Storytelling vs essays:
-    * Version 1: My grandmother's name is Odelie Dicks, which probably explains why she is who she is. She's a crooked old lady in both body and mind. She wears only dark colors and likes to serve food that has stewed in pots for days. I like to imagine that there was a time in her life where she smiled - or at least didn't scowl - but if that time existed, it was long before me.
-    * Version 2: I'm standing at the edge of my grandmother's garden, what her relentlessly pull weeds from the unforgiving soil. My grandmother's name is Odelie Dicks, which probably explains why she is who she is. She's crooked old lady both in body and mind. She wears only dark colors and lies to serve food that has been stewed in pots for days. I like to imagine there was a time in her life where she smiled - or at least didn't scowl - but if that time existed, it was long before me.
+    * `version 1`: My grandmother's name is Odelie Dicks, which probably explains why she is who she is. She's a crooked old lady in both body and mind. She wears only dark colors and likes to serve food that has stewed in pots for days. I like to imagine that there was a time in her life where she smiled - or at least didn't scowl - but if that time existed, it was long before me.
+    * `version 2`: I'm standing at the edge of my grandmother's garden, what her relentlessly pull weeds from the unforgiving soil. My grandmother's name is Odelie Dicks, which probably explains why she is who she is. She's crooked old lady both in body and mind. She wears only dark colors and lies to serve food that has been stewed in pots for days. I like to imagine there was a time in her life where she smiled - or at least didn't scowl - but if that time existed, it was long before me.
+    * If `version 1` was a movie, then it would open on a black screen. `version 2` would make a nice movie.
+*
+
 
 
 #### Chapter 12: The principles of **but** and **therefore**
