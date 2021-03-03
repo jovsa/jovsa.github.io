@@ -31,6 +31,7 @@ The last school year went by in the blink of an eye.
 I can't even remember what I did last Thursday.
 I feel like my twenties went by in a flash.
 ```
+
 * Story tool: 1 of 3
 
 #### `Story Break`: Naked in Brazil
@@ -38,20 +39,21 @@ I feel like my twenties went by in a flash.
 #### Chapter 4: Dreaming at the end of your pen
 
 * Crash and burn
-    * Rule 1: You must not get attached to one idea.
-    * Rule 2: You must not judge any thought/idea that appears in your mind.
-    * Rule 3: You cannot allow the pen to stop moving.
+  * Rule 1: You must not get attached to one idea.
+  * Rule 2: You must not judge any thought/idea that appears in your mind.
+  * Rule 3: You cannot allow the pen to stop moving.
 * Story tool: 2 of 3
 
 #### `Story Break`: Storytelling instructions can apparently be romantic
 
 #### Chapter 5: First Last Best Worst
+
 * Table
-    * x-axis: `Prompt` `First` `Last` `Best` `Worst` ; * y-axis: Prompts (ex. Car, Injury, etc...)
+  * x-axis: `Prompt` `First` `Last` `Best` `Worst` ; * y-axis: Prompts (ex. Car, Injury, etc...)
 * Post Exercise:
-    * Do any of these appear more than once (the signal of a likely story)?
-    * Could I turn any of these entries into useful anecdotes?
-    * Could I turn any of these entries into fully realized stories?
+  * Do any of these appear more than once (the signal of a likely story)?
+  * Could I turn any of these entries into useful anecdotes?
+  * Could I turn any of these entries into fully realized stories?
 * As a beginner, this helps develop your lense for identifying stories.
 * Story tool: 3 of 3
 
@@ -76,17 +78,19 @@ I once felt this, but now I feel this.
 ```
 
 * Rules of beginnigs:
-    * Try to start your story with forward movement whenever possible.
-    * Don't start by setting expectations.
+  * Try to start your story with forward movement whenever possible.
+  * Don't start by setting expectations.
 * If you've found the right place to begin your story - a place that represents the opposite of your five-second momet, and one as close to the ending as possible - you've established a clear frame and an arc in your story. You've identified the direction your story is headed in, and you and your audience probably have a good sense of where that my be.
 * Be carefull of your opening scence - not simply chosing the first thing that comes to mind but instead ask yourself what the opening scene needs to gra the attention of the audience off the bat.
 
 #### `Story Break`: Thirteen rules for an effective commencement address
+
 * Good list
 
 #### Chapter 9: Five ways to keep your stories compelling
 
 Ways to increase steaks:
+
 * Elephant
 * Backpacks
 * Breadcrumbs
@@ -99,6 +103,7 @@ Ways to increase steaks:
 #### Chapter 10: The five permissible lies of true story telling
 
 Lies that benefit the listener:
+
 * Omission
 * Compression
 * Assumption
@@ -113,14 +118,13 @@ Lies that benefit the listener:
 * A great storyteller creates a movie in the mind of the listeners. Listeners should be able to see the story in their mind's eye at all times.
 * Always provide a physical location for every moment of your story.
 * Things that are not storytelling:
-    * Lecturing
-    * Essays
+  * Lecturing
+  * Essays
     All of these the audience does not have a contigious movie in their mind.
 * Storytelling vs essays:
-    * `version 1`: My grandmother's name is Odelie Dicks, which probably explains why she is who she is. She's a crooked old lady in both body and mind. She wears only dark colors and likes to serve food that has stewed in pots for days. I like to imagine that there was a time in her life where she smiled - or at least didn't scowl - but if that time existed, it was long before me.
-    * `version 2`: I'm standing at the edge of my grandmother's garden, what her relentlessly pull weeds from the unforgiving soil. My grandmother's name is Odelie Dicks, which probably explains why she is who she is. She's crooked old lady both in body and mind. She wears only dark colors and lies to serve food that has been stewed in pots for days. I like to imagine there was a time in her life where she smiled - or at least didn't scowl - but if that time existed, it was long before me.
-    * If `version 1` was a movie, then it would open on a black screen. `version 2` would make a nice movie.
-*
+  * `version 1`: My grandmother's name is Odelie Dicks, which probably explains why she is who she is. She's a crooked old lady in both body and mind. She wears only dark colors and likes to serve food that has stewed in pots for days. I like to imagine that there was a time in her life where she smiled - or at least didn't scowl - but if that time existed, it was long before me.
+  * `version 2`: I'm standing at the edge of my grandmother's garden, what her relentlessly pull weeds from the unforgiving soil. My grandmother's name is Odelie Dicks, which probably explains why she is who she is. She's crooked old lady both in body and mind. She wears only dark colors and lies to serve food that has been stewed in pots for days. I like to imagine there was a time in her life where she smiled - or at least didn't scowl - but if that time existed, it was long before me.
+  * If `version 1` was a movie, then it would open on a black screen. `version 2` would make a nice movie.
 
 
 
