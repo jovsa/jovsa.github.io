@@ -61,7 +61,6 @@ author:
 #### 2002: What's good for the customer is good for the shareholder
 * Build your business on your fixed costs
 * Companies driven by technology have an incredible advantage because much of their value hinges on fixed costs.
-    *
 * If you want to provide the best possible customer experience and the lowest possible prices in your industry, it's only possible if you can make more of your customers expenses fixed.
 
 #### 2003: Long-term thinking is rooted in ownership

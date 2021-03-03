@@ -97,6 +97,7 @@ Ways to increase steaks:
 #### `Story Break`: Zombie brother
 
 #### Chapter 10: The five permissible lies of true story telling
+
 Lies that benefit the listener:
 * Omission
 * Compression
@@ -104,7 +105,21 @@ Lies that benefit the listener:
 * Progression
 * Conflation
 
-#### Chapter 11: Cinema of the mind
+#### `Story Break`: Doubt is the Enemy of Every Storyteller
+
+#### Chapter 11: Cinema of the mind (aka "Where the hell are you"?)
+
+* Stories are not suppose to start with the thesis statement or universal truth.
+* A great storyteller creates a movie in the mind of the listeners. Listeners should be able to see the story in their mind's eye at all times.
+* Always provide a physical location for every moment of your story.
+* Things that are not storytelling:
+    * Lecturing
+    * Essays
+    All of these the audience does not have a contigious movie in their mind.
+* Storytelling vs essays:
+    * Version 1: My grandmother's name is Odelie Dicks, which probably explains why she is who she is. She's a crooked old lady in both body and mind. She wears only dark colors and likes to serve food that has stewed in pots for days. I like to imagine that there was a time in her life where she smiled - or at least didn't scowl - but if that time existed, it was long before me.
+    * Version 2: I'm standing at the edge of my grandmother's garden, what her relentlessly pull weeds from the unforgiving soil. My grandmother's name is Odelie Dicks, which probably explains why she is who she is. She's crooked old lady both in body and mind. She wears only dark colors and lies to serve food that has been stewed in pots for days. I like to imagine there was a time in her life where she smiled - or at least didn't scowl - but if that time existed, it was long before me.
+
 
 #### Chapter 12: The principles of **but** and **therefore**
 
