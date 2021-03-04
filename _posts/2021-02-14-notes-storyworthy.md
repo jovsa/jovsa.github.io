@@ -191,26 +191,59 @@ Lies that benefit the listener:
   2. Babies and Blenders:
     * Two things that should not be together
 
-
-
-
 #### Chapter 17 Finding the frayed ending of your story
 
+* Storytellers seek to constantly make meaning from their lives. We contextualize events, find satisfying endings to periods of our lives, abd struggle to explain how our lives make sense and fit into a larger story.
+
+
 #### `Story Break`: Connecting with my mean old elementary school principle
+
 
 ### Part III: Telling Your Story
 
 #### Chapter 18: The present tense is king
 
+* By using the present tense, you bring the audience closer to the what is happening in the story.
+* Use the past tense as a setup but the present tense helps add the most attention.
+
 #### `Story Break`: A storyteller and a magician
 
 #### Chapter 19: The two ways of telling a hero story
 
+* Sometimes, when you want to tell a success story:
+  * Marginalize yourself
+  * Marginalize your accomplishments
+* Human beings love underdog stories.
+* Human beings prefer stores of small steps over long time. Most accomplishments, both great and small are not composed of singular moments, but rather many small moments.
+
+#### Chapter 20: Storytelling is Time Travel
+
+* The goal of a storyteller is to make the audience forget that the present moment exists but transport them into the time of the story.
+* Whenever you pop that bubble, the audience will realize you are just telling them a story.
+* Techniques to avoid popping the bubble:
+  * Don't ask rhetorical questions
+  * Don't address the audience or acknowledge their existance
+  * No props
+  * Avoid refering to objects that are time specific and that don't exist today.
+  * Don't mention the word *story* in your story.
+  * Downplay your physical attire/look as much as possible.
+
 #### `Story Break`: *Fine* is apparently not a good way to describe my sex life
 
 #### Chapter 21: Words to say, words to avoid
+* Avoid:
+  * Profanity
+  * Vulgarity
+  * Other people's real name
+  * Celebrity and pop culture references
+  * Accents
 
 #### Chapter 22: Time to perform
+* Memorize the following parts:
+  1. The first few sentences. Always start strong.
+  2. The last few sentences. Always end strong.
+  3. The scenes of you story.
+    * Most stories should have at most 7 scences. 7 is from the number of amount of info short term memory can hold.
 
 #### `Story Break`: The solitude of a storyteller
 
