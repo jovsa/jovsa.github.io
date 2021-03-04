@@ -126,9 +126,12 @@ Lies that benefit the listener:
   * `version 2`: I'm standing at the edge of my grandmother's garden, what her relentlessly pull weeds from the unforgiving soil. My grandmother's name is Odelie Dicks, which probably explains why she is who she is. She's crooked old lady both in body and mind. She wears only dark colors and lies to serve food that has been stewed in pots for days. I like to imagine there was a time in her life where she smiled - or at least didn't scowl - but if that time existed, it was long before me.
   * If `version 1` was a movie, then it would open on a black screen. `version 2` would make a nice movie.
 
-
-
 #### Chapter 12: The principles of **but** and **therefore**
+
+* `but` and `therefore` signify change. However, most peple use `and` and combine sentences making it monotonous.
+
+* `version 1`: My cousin Lisa came over for a sleepover, and we went to bed on time and we didn't sleep. When everyone was asleep we snuck downstairs and watched TV. And my parents heard us, and thought the voices on the TV were burglars robbing the house and they called the police. They didn't wake us up because they didn't want us to be scared and they didn't check my room. My dad waited upstairs with a baseball bat. The police came to the house and saw us watching TV though the window. They called my parents and told them that it was us downstairs and we got in so much trouble.
+* `version 2`: My cousin Lisa came over for a sleepover **but** we had no intention of sleeping.We went to bed on time **but** we didn't close our eyes. **Instead** we snuck downstairs when everyone was asleep to watch TV. **But** my parents heard us, **except it** wasn't us they head. It was the TV. They heard strange voices from the television program. **Instead** of investigating the voices, they assumed **(therefore)** assumed that burglars were robbing the house, so they called the police. The police came to the house, **but instead** of finding burglars they found us watching TV. **(Therefore)** they called my parents and told them it was us downstairs. **(As a result)** we got in so much trouble.
 
 #### `Story Break`: Storytelling makes you just like family
 
@@ -136,11 +139,60 @@ Lies that benefit the listener:
 
 #### Chapter 14: The secret to the big story
 
+* Find the small moment in the big story.
+* Because most people can't relate with the big story but they can with the small moment.
+* Big stories are hard to tell and for audience to relate.
+
 #### `Story Break`: Brevity is the soul of wit
+
+* "Come hear out pastor. He's not very good, but he's quick"
+* Brevity takes time, because brevity is always better.
+* The longer your speak, the more perfect and precise you need to be.
 
 #### Chapter 15: There is only one way to make someone cry
 
+* Surprise is the only way to elicit emotional reaction from your audience.
+* Use contrast to *prime the pump* for surprise.
+* How to ruin surprise:
+  * Presenting a thesis statement prior to the suprise. Storytelling is the opposite of the 5 paragraph essay.
+  * In storytelling our job is to describe action, dialogue and thought.
+* Failing to hide critical information in the story: If you can't hide critical information from the audience, they see it from the a mile away.
+  * Techniques:
+    * *hiding the bomb in the clutter*
+    * *camouflage*
+      * Laughter is the best way to hide something.
+* To review:
+  * Avoid thesis statements
+  * Heighten the contrast between the suprise and the moment just before the surprise.
+  * Use steaks to increase surprise.
+  * Avoid giving away the surprise in your story by hiding important information that will pay off later (*planing bombs*). This is done by:
+    * Obscuring them in a list of other detials or examples.
+    * Placing them as far away from the surprise as possible.
+    * When possible, building a laugh around them to *camouflage* the importance.
+
 #### Chapter 16: Milk cans and baseball, babies and blenders
+
+* Humor is an enormous asset is most stories, but it is not required and must be used strategically whenever possible.
+* Here are four strategic ways:
+  1. Start with a laugh
+    * A laugh at the begining does the following things:
+      * "I am a good storyteller. I know what I am doing, you can relax".
+      * It indicates that you have the floor and grabs everyone's attention.
+      * "I made you laugh. Everything is fine. Whenever horror i'm about to tell you about, it's in the past."
+  2. Make them laugh before you make them cry
+    * contrast is the king is storytelling, and laughter can provide a fantastic contrast to something authentically awefull.
+  3. Take a breadth
+  4. Stop crying so you can feel something else again.
+* End your story on hart and not a laugh. The goal of all storytellers is to make it memorable. Laughter does not make things memorable.
+* Humor is all about surprise, but the two ways to acheive humor are:
+  1. Milk Cans and Baseballs:
+    * Setup and tear down.
+    * This causes surprise.
+  2. Babies and Blenders:
+    * Two things that should not be together
+
+
+
 
 #### Chapter 17 Finding the frayed ending of your story
 
