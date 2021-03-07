@@ -80,7 +80,16 @@ author:
 
 #### 2005: Don’t get fixated on short-term numbers
 
-*
+* Math-based decisions command wide agreement, whereas judgment-based decisions are rightly debated and often controversial, at least until put into practice and demonstrated. Any institution unwilling to endure controversy must limit itself to decisions of the first type. In our view, doing so would not only limit controversy — it would also significantly limit innovation and long-term value creation.
+* Some decisions can be made with data, but many of the important business decisions can only be made with judgment.
+* Many opportunities with fantastic upside won’t make sense in the short-term — to identify these, you have to think about what makes the most sense for your customers.
+* Failure should help build judgement that you can use in long term value.
+* [The Structure of 'Unstructured' Decision Process](https://pdfs.semanticscholar.org/699d/a9ee4cc772e8f8a8a273d40b56301487a560.pdf?_ga=2.264513292.2065806509.1615079967-1910542862.1615079967): This is a 1976 paper by Henry Mintzberg et al. where they look at how institutions make "unstructured" decisions as opposed to "operating" decisions.
+
+#### 2006: Nurture your seedlings to build big lines of business
+
+
+
 
 
 ### Life and Work
