@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Storyworthy by Matthew Dicks"
 categories: notes
-modified_date: "Feb 19, 2021"
+modified_date: "May 14, 2021"
 author:
 - Jovan Sardinha
 ---
@@ -253,3 +253,5 @@ Lies that benefit the listener:
 ## References
 
 * [This is Going to Suck](https://www.youtube.com/watch?v=U9v0O0oEmpQ&t)
+* [Story Structure by Dan Harmon](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
+* [Analysis of Dark Knight using Story Circle](https://www.youtube.com/watch?v=-XGUVkOmPTA)
