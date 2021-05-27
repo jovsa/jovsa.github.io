@@ -29,3 +29,6 @@ author:
 
 ## References
 * [Shien case stype by Jeffrey Towson](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS81OTMwODYucnNz/episode/QnV6enNwcm91dC04NTgyNzkz?sa=X&ved=0CAUQkfYCahcKEwjYn9mH9-XwAhUAAAAAHQAAAAAQGA)
+* [Decision-Making: Agrawal, Gans & Goldfarb](https://www.youtube.com/watch?v=xr8mOXK4eLQ&list=PLuCLRVi6Lc6cCzu7nwxUqKwJMykfFklZ3&index=7)
+* [Competing on the Rate of Learning](https://image-src.bcg.com/Images/BCG-Competing-on-the-Rate-of-Learning-Sep-2018_tcm9-203195.pdf)
+* [Shein: The TikTok of Ecommerce](https://twitter.com/JovanSardinha/status/1398007859984490497)
