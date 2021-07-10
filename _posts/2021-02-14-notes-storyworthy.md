@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Storyworthy by Matthew Dicks"
 categories: notes
-modified_date: "May 14, 2021"
+modified_date: "July 10, 2021"
 author:
 - Jovan Sardinha
 ---
@@ -80,7 +80,7 @@ I once felt this, but now I feel this.
 * Rules of beginnigs:
   * Try to start your story with forward movement whenever possible.
   * Don't start by setting expectations.
-* If you've found the right place to begin your story - a place that represents the opposite of your five-second momet, and one as close to the ending as possible - you've established a clear frame and an arc in your story. You've identified the direction your story is headed in, and you and your audience probably have a good sense of where that my be.
+* If you've found the right place to begin your story - a place that represents the opposite of your five-second moment, and one as close to the ending as possible - you've established a clear frame and an arc in your story. You've identified the direction your story is headed in, and you and your audience probably have a good sense of where that my be.
 * Be carefull of your opening scence - not simply chosing the first thing that comes to mind but instead ask yourself what the opening scene needs to gra the attention of the audience off the bat.
 
 #### `Story Break`: Thirteen rules for an effective commencement address
@@ -88,14 +88,31 @@ I once felt this, but now I feel this.
 * Good list
 
 #### Chapter 9: Five ways to keep your stories compelling
+Stakes - A way to keep the audience so they ask what will happen next?
 
 Ways to increase steaks:
 
 * Elephant
+  * Every story must have an elephant.
+  * The elephant is the thing signifies where the story is headed.
+  * It should appear in the beginning as possible.
+  * Elephants can change color - Flat tire in the beginning, loliness in the end. "Laugh, laugh, laugh, cry" strategy.
 * Backpacks
+  * Increases the audience's anticipation about an upcoming event. It does two things
+    * Make the audience wonder what will happen next.
+    * Makes the audience experience the same emotion that the storyteller experienced.
+  * To mount a backpack, you need to load up the audience with as much detail so they feel like they are in the same place.
+  * Backpacks help with audience relate with the character, they want the character to suceed but they don't really want the character to succeed. It's struggle and strife that make great stories.
+  * Perfect plans executed perfectly never make good stories.
 * Breadcrumbs
+  * hint at a future event but only reveal enough to keep the audience guessing.
+  * "..... I see a crumpled unifor on the backseat and I suddenly have an idea".
+    * There are many things that can be done with the uniform (sell, work, etc...)
+  * Only effective when something truely unexpected happens.
 * Hourglass
+  * Find the moment in your story that everyone is waiting for. Then flip that hourglass and let the sand run
 * Crystal Balls
+  * A false prediction made by the storyteller to wonder if the prediction will prove to be true.
 * Humor
 
 #### `Story Break`: Zombie brother
