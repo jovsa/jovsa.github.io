@@ -77,7 +77,7 @@ I once thought this, but now I think this.
 I once felt this, but now I feel this.
 ```
 
-* Rules of beginnigs:
+* Rules of beginigs:
   * Try to start your story with forward movement whenever possible.
   * Don't start by setting expectations.
 * If you've found the right place to begin your story - a place that represents the opposite of your five-second moment, and one as close to the ending as possible - you've established a clear frame and an arc in your story. You've identified the direction your story is headed in, and you and your audience probably have a good sense of where that my be.
@@ -92,28 +92,30 @@ Stakes - A way to keep the audience so they ask what will happen next?
 
 Ways to increase steaks:
 
-* Elephant
+* **Elephant**
   * Every story must have an elephant.
   * The elephant is the thing signifies where the story is headed.
   * It should appear in the beginning as possible.
   * Elephants can change color - Flat tire in the beginning, loliness in the end. "Laugh, laugh, laugh, cry" strategy.
-* Backpacks
+* **Backpacks**
   * Increases the audience's anticipation about an upcoming event. It does two things
     * Make the audience wonder what will happen next.
     * Makes the audience experience the same emotion that the storyteller experienced.
   * To mount a backpack, you need to load up the audience with as much detail so they feel like they are in the same place.
   * Backpacks help with audience relate with the character, they want the character to suceed but they don't really want the character to succeed. It's struggle and strife that make great stories.
   * Perfect plans executed perfectly never make good stories.
-* Breadcrumbs
+* **Breadcrumbs**
   * hint at a future event but only reveal enough to keep the audience guessing.
   * "..... I see a crumpled unifor on the backseat and I suddenly have an idea".
     * There are many things that can be done with the uniform (sell, work, etc...)
   * Only effective when something truely unexpected happens.
-* Hourglass
+* **Hourglass**
   * Find the moment in your story that everyone is waiting for. Then flip that hourglass and let the sand run
-* Crystal Balls
+* **Crystal Balls**
   * A false prediction made by the storyteller to wonder if the prediction will prove to be true.
-* Humor
+* **Humor**
+  * Doesn't give your audience reason to listing to the next sentence. It doesn't add stakes. However, it's a way to keep your audience's attention.
+  * Humore is optional. Stakes are nonnegotiable.
 
 #### `Story Break`: Zombie brother
 
@@ -133,7 +135,7 @@ Lies that benefit the listener:
 
 * Stories are not suppose to start with the thesis statement or universal truth.
 * A great storyteller creates a movie in the mind of the listeners. Listeners should be able to see the story in their mind's eye at all times.
-* Always provide a physical location for every moment of your story.
+* *Always provide a physical location for every moment of your story.*
 * Things that are not storytelling:
   * Lecturing
   * Essays
@@ -168,7 +170,7 @@ Lies that benefit the listener:
 
 #### Chapter 15: There is only one way to make someone cry
 
-* Surprise is the only way to elicit emotional reaction from your audience.
+* *Surprise* is the only way to elicit emotional reaction from your audience.
 * Use contrast to *prime the pump* for surprise.
 * How to ruin surprise:
   * Presenting a thesis statement prior to the suprise. Storytelling is the opposite of the 5 paragraph essay.
