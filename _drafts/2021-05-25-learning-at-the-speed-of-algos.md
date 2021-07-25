@@ -8,6 +8,9 @@ author:
 ---
 ## Notes
 * Types of learning
+In the first generation learning organizations business learned how to execute existing processes more efficiently.The best example of this is the "experience curve" from Bruce Henderson observed back in 1960s - firms ten to reduce their costs at a constant and predictable rate as their cumilative experience increases. For example, in the early 20th century cost of the Model T consistently fell by about 25% every time the cumulative product volume doubled.
+
+
   * Type 1: Ford: Some advantage in process as you increase the number of outputs (by some doubling)
   * Type 2: Apple (Every new product allows you to build a newer product that's better)
   * Type 3: Algos
