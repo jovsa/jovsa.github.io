@@ -26,7 +26,8 @@ author:
 
 **Benifits**:
   * Eliminate the data sparcity problem. In this case, the number of labelled data in each task is insufficient.
-  * Related to [transfer learning](https://jovsahttps://jovsa.github.io/notes/2020/07/01/notes-meta-learning.htmlhttps://arxiv.org/pdf/2004.05439.pdf), [life-long learning](https://jovsa.github.io/notes/2021/04/10/notes-continual-lifelong-learning.html)
+  * Related to [transfer learning](https://jovsa.github.io/notes/2020/05/15/notes-transfer-learning.html)
+  * Pre-requisites for [meta learning](https://jovsa.github.io/notes/2020/07/01/notes-meta-learning.html) and [life-long learning](https://jovsa.github.io/notes/2021/04/10/notes-continual-lifelong-learning.html)
 
 
 **Drawbacks**:
