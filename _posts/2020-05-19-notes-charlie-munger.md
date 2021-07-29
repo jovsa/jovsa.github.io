@@ -29,7 +29,6 @@ author:
     * Then use the [investing principles checklist](https://twitter.com/CharlieMunger00/status/1176011795405799424) as a second track.
     * Once the decision is make: objectively view the whole process and asses so you can improve the next time.
 * Honesty is the best policy.
-    * TODO (jovsa): 92/552
 * It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.
 *  We don't claim  to have perfect morals .... I'd like to believe that we've made extra money from doing the right thing.
 * Berkshire is a hell of a business
@@ -38,7 +37,7 @@ author:
 * Bershire's future
     * We're so big - It limits our investment options to more competitive areas that are  examined by other smart people. All large aggregations of capital eventually find it hell on earth to grow and thus find lower returns. The one thing that we've always guaranteed is that the future will be a lot worse than than the past.
     * *Culture*: old-fashioned and conservative. Modelled off Ben Franklin and Andrew Cargenie. Invest a lot in building a disaster-resistant base.
-
+TODO (jovsa): Page 105/552
 
 
 
