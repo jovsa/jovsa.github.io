@@ -20,6 +20,7 @@ google_analytics: UA-167534363-1
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-last-modified-at
 
 disque:
   shortname: jovsa-github-io
