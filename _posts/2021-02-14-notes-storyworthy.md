@@ -2,7 +2,6 @@
 layout: post
 title: "Notes: Storyworthy by Matthew Dicks"
 categories: notes
-modified_date: "July 10, 2021"
 author:
 - Jovan Sardinha
 ---

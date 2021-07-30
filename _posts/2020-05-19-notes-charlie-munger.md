@@ -2,7 +2,6 @@
 layout: post
 title: "Notes: Charlie Munger"
 categories: notes
-modified_date: "Jul 29, 2021"
 author:
 - Jovan Sardinha
 ---

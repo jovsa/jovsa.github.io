@@ -2,7 +2,6 @@
 layout: post
 title: "Notes: Multi-task Learning"
 categories: notes
-modified_date: "July 17, 2021"
 author:
 - Jovan Sardinha
 ---

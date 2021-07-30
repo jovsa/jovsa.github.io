@@ -2,7 +2,6 @@
 layout: post
 title: "Notes: Meta Learning"
 categories: notes
-modified_date: "July 25, 2021"
 author:
 - Jovan Sardinha
 ---

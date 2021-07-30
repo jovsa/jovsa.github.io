@@ -2,7 +2,6 @@
 layout: post
 title: "Notes: 7 Powers"
 categories: notes
-modified_date: "May 23, 2021"
 author:
 - Jovan Sardinha
 ---

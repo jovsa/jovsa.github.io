@@ -2,7 +2,6 @@
 layout: post
 title: "Notes: Jeff Bezos"
 categories: notes
-modified_date: "March 05, 2021"
 author:
 - Jovan Sardinha
 ---

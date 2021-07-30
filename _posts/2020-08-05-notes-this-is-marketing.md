@@ -2,7 +2,6 @@
 layout: post
 title: "Notes: This is Marketing by Seth Godin"
 categories: notes
-modified_date: "Feb 15, 2021"
 author:
 - Jovan Sardinha
 ---

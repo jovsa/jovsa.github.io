@@ -2,7 +2,6 @@
 layout: post
 title: "Notes: Carlota Perez"
 categories: notes
-modified_date: "May 16, 2021"
 author:
 - Jovan Sardinha
 ---

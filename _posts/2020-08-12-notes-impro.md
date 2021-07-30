@@ -2,7 +2,6 @@
 layout: post
 title: "Notes: Impro - Improvisation and the Theatre by Keith Johnstone"
 categories: notes
-modified_date: "Feb 15, 2021"
 author:
 - Jovan Sardinha
 ---

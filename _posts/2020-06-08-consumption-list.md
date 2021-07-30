@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Consumption List"
-modified_date: "July 14, 2020"
 author:
 - Jovan Sardinha
 ---
