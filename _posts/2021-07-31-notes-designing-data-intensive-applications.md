@@ -39,6 +39,11 @@ author:
    * latency is the the duration that a request is waiting to be serviced.
 TODO (jovsa): p. 14
 
+#### References
+  * [Full list](https://github.com/ept/ddia-references/blob/master/chapter-01-refs.md) of references.
+  * [How complex systems fail](https://how.complexsystems.fail/)
+  * [Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
+
 ## References
 * [Poster](https://dataintensive.net/poster.html)
 * [References by Chapter](https://github.com/ept/ddia-references)
