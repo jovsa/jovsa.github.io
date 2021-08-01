@@ -44,6 +44,8 @@ TODO (jovsa): p. 14
   * [How complex systems fail](https://how.complexsystems.fail/)
   * [Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
 
+### Chapter 2
+
 ## References
 * [Poster](https://dataintensive.net/poster.html)
 * [References by Chapter](https://github.com/ept/ddia-references)
