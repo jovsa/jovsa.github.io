@@ -37,7 +37,7 @@ author:
 * What is the difference between latency and response time?
    * Response time is the what the clinet observes; beside the time it takes to service the request (service time).
    * latency is the the duration that a request is waiting to be serviced.
-TODO (jovsa): P. 14
+TODO (jovsa): p. 14
 
 ## References
 * [Poster](https://dataintensive.net/poster.html)
