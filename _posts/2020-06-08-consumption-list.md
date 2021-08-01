@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Consumption List"
-modified_date: "July 14, 2020"
+modified_date: "July 31, 2021"
 author:
 - Jovan Sardinha
 ---
@@ -38,8 +38,8 @@ The following page attempts to list artifacts from all the various information s
 * Data-Driven Algorithm Design [CS 159 at California Institute of Technology](https://sites.google.com/view/cs-159-spring-2020/lectures) `2020 [in progress]`
 
 
-### [Long Form](#long_form)
-> Not exhaustive, but some of my evergreen favourites (in no perticular order)
+### [Blogs](#blogs)
+> Not exhaustive, but some of my evergreen favourite (in no particular order)
 
 * [The Investors Field Guide](http://investorfieldguide.com/) by Patrick O’Shaughnessy
 * [Personal website](https://www.gwern.net) by Gwern Branwen
@@ -50,6 +50,19 @@ The following page attempts to list artifacts from all the various information s
 * [Slate Star Codex](https://slatestarcodex.com/)
 * [Personal blog](https://patrickcollison.com/) by Patrick Collison
 * [Ribbonfarm](https://www.ribbonfarm.com/) by Venkatesh Rao
+* [Essays] (http://www.paulgraham.com/articles.html) by Paul Graham
+* [Money Talk](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) by Matt Levine
+* [Personal website](https://www.robkhenderson.com/past-newsletter) by Rob Henderson
+
+### [Essays & Memos](#essays_&_memos)
+* [We Don't Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d) by Stewart Butterfield
+* [The Playing Field](https://grahamduncan.blog/the-playing-field/) by Graham Duncan
+* [What's going on here, with this human](https://grahamduncan.blog/whats-going-on-here/) by Graham Duncan
+* [The Peanut Butter Memo](https://sriramk.com/memos/garlinghouse-peanut-butter.pdf) by Brad Garlinghouse
+* [Word 1.0 Post-Mortem](https://sriramk.com/memos/msft-word-1-0-postmortem.pdf) by Peter Jackson
+* [Computing at Cornell and the Internet](https://sriramk.com/memos/CU-NET.pdf) by Steven Sinofsky
+* [Windows: The Next Killer Application on the Internet](https://sriramk.com/memos/KillerApp.pdf) by J. Allard
+* [Memos](https://sriramk.com/memos.html) by Sriram Krishnan
 
 
-<div align="center">Something you enjoy that is not on this list? Send me a note</div>
+
