@@ -37,7 +37,7 @@ author:
 * Bershire's future
     * We're so big - It limits our investment options to more competitive areas that are  examined by other smart people. All large aggregations of capital eventually find it hell on earth to grow and thus find lower returns. The one thing that we've always guaranteed is that the future will be a lot worse than than the past.
     * *Culture*: old-fashioned and conservative. Modelled off Ben Franklin and Andrew Cargenie. Invest a lot in building a disaster-resistant base.
-TODO (jovsa): Page 105/552
+TODO (jovsa): Page 179/552
 
 
 
