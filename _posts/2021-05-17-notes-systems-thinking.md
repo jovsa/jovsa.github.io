@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Systems Thinking"
 categories: notes
-modified_date: "May 16, 2021"
+modified_date: "Aug 6, 2021"
 author:
 - Jovan Sardinha
 ---
