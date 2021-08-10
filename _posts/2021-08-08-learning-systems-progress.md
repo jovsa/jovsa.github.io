@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tracking Progress in Planning Systems"
+title: "Tracking Progress in Learning Systems"
 categories: notes
 modified_date: "Aug 10, 2021"
 author:
