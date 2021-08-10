@@ -21,6 +21,8 @@ author:
     * [AlphaFold: a solution to a 50-year-old grand challenge in biology post](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
     * [AlphaFold: Using AI for scientific discovery post](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
     * [Putting the power of AlphaFold into the world’s hands post](https://deepmind.com/blog/article/putting-the-power-of-alphafold-into-the-worlds-hands)
+    * [AlphaFold2 Explained](https://www.youtube.com/watch?v=nGVFbPKrRWQ)
+
 * Alpha Star
     * [AlphaStar: Grandmaster level in StarCraft II using multi-agent reinforcement learning post](https://deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning)
 * OpenAI Five
