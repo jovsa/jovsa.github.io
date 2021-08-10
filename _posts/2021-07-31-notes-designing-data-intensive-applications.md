@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Designing Data-Intensive Applications"
 categories: notes
-modified_date: "Aug 1, 2021"
+modified_date: "Aug 10, 2021"
 author:
 - Jovan Sardinha
 ---
@@ -32,12 +32,38 @@ author:
   * *Reliability*: The system should continue to work correctly even in the face of adversity.
   * *Scalability*: As the system grows (data volume, traffic volume, complexity, etc...), there should be reasonable ways of dealing with such growth.
   * *Maintainability*: Over time, different people will work on the system and they need to be able to contribute productively.
-* Define load parameters?
-  * Load on an online or offline system can be described by a few numbers which we call *load parameters*. In batch (offline) systems we usually care about throughput (i.e. the number of requests we can process per second). However, in online systems we care about the service's response time (the time ebtwee a client sending a request and receiving a response).
-* What is the difference between latency and response time?
-   * Response time is the what the clinet observes; beside the time it takes to service the request (service time).
-   * latency is the the duration that a request is waiting to be serviced.
-TODO (jovsa): p. 14
+
+#### Reliability
+
+* Things that can go wrong are called `faults`. Systems that anticipate faults and can copy with them are called `fault-tolerant` or `resiliant`. A `failure` is when the systems as a whole stops providing service to it's customers.
+* Types of faults and faulures:
+  * **Hardware Faults**
+  * **Software Errors**
+  * **Human Errors**
+
+#### Scalability
+
+* Two types of scalability issues:
+  * **Load**: Params that best describe the stocks (storage) and flows (read/writes) in the system.
+  * **Performance**: Best scribed in percentiles (Pxx) of service response time.
+* Approaches for dealing with load:
+  * [Horizontal scaling vs. vertical scaling](https://en.wikipedia.org/wiki/Scalability#Horizontal_(scale_out)_and_vertical_scaling_(scale_up))
+  * Elasticity: See section on *partitioning*
+
+#### Maintainability
+
+* Design principles of software maintainability:
+  * Operability: How easy is it for operations teams to keep the system running smoothly?
+    * Understand what *tasks* the operations teams are responsible for (see p. 19-20 for suggestions).
+    * What tools would help the operations team with the above tasks (see p. 20 for suggestions).
+  * Simplicity: How easy is it for new engineers to contribute?
+    * Related: Brian Foote and Joseph Yoder: “Big Ball of Mud,” at 4th Conference on Pattern Languages of Programs (PLoP), September 1997. from the `refrences` section.
+  * Evolvability: How easy is it to change the system in the future?
+    * No good framework provided here.
+    * Might want to dig in more in other books (example. [Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com/_/dp/1491986360?tag=oreilly20-20))
+
+
+
 
 #### References
   * [Full list](https://github.com/ept/ddia-references/blob/master/chapter-01-refs.md) of references.
