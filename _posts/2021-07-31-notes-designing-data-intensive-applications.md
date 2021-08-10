@@ -57,12 +57,20 @@ author:
     * Understand what *tasks* the operations teams are responsible for (see p. 19-20 for suggestions).
     * What tools would help the operations team with the above tasks (see p. 20 for suggestions).
   * **Simplicity**: How easy is it for new engineers to contribute?
-    * Related: Brian Foote and Joseph Yoder: “Big Ball of Mud,” at 4th Conference on Pattern Languages of Programs (PLoP), September 1997. from the `refrences` section.
+    * Related: Brian Foote and Joseph Yoder: “Big Ball of Mud,” at 4th Conference on Pattern Languages of Programs (PLoP), September 1997. from the `references` section.
   * **Evolvability**: How easy is it to change the system in the future?
     * No good framework provided here.
     * Might want to dig in more in other books (example. [Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com/_/dp/1491986360?tag=oreilly20-20))
 
 
+*General Notes*:
+* If you were to build one of these large internet companies from scratch, this chapter outlines what *roadblocks* one would hit in you were to start from stratch.
+* It might be usefull to think about this framework not only on things that you maintain, but also on things that you depend on.
+* How do you think about tech debt?
+  * When the interest payments on the debt start getting too large. Interest payments in this context could relate to any of the *reliablity*, *scalability* or *maintainability* (mainly). However, you can think of interest payments mainly from the perspective of getting to use the system.
+  * Irrational Exuberance on [tech debt](https://lethain.com/migrations/)
+* It's impossible to have 100% uptime.
+  * Example user's wifi might be off. However, when the wifi is off,  ask on slack
 
 
 #### References
