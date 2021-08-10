@@ -53,12 +53,12 @@ author:
 #### Maintainability
 
 * Design principles of software maintainability:
-  * Operability: How easy is it for operations teams to keep the system running smoothly?
+  * **Operability**: How easy is it for operations teams to keep the system running smoothly?
     * Understand what *tasks* the operations teams are responsible for (see p. 19-20 for suggestions).
     * What tools would help the operations team with the above tasks (see p. 20 for suggestions).
-  * Simplicity: How easy is it for new engineers to contribute?
+  * **Simplicity**: How easy is it for new engineers to contribute?
     * Related: Brian Foote and Joseph Yoder: “Big Ball of Mud,” at 4th Conference on Pattern Languages of Programs (PLoP), September 1997. from the `refrences` section.
-  * Evolvability: How easy is it to change the system in the future?
+  * **Evolvability**: How easy is it to change the system in the future?
     * No good framework provided here.
     * Might want to dig in more in other books (example. [Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com/_/dp/1491986360?tag=oreilly20-20))
 
