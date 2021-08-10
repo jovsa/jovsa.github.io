@@ -1,18 +1,12 @@
 ---
 layout: post
-title: "Breaking down Deep Reinforcement Learning Systems"
+title: "Tracking Progress in Planning Systems"
 categories: notes
 modified_date: "Aug 8, 2021"
 author:
 - Jovan Sardinha
 ---
 
-
-
-
-
-
-## References
 * AlphaGo:
     * [Deep Mind Blog Post](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
     * [Paper from Nature](http://airesearch.com/wp-content/uploads/2016/01/deepmind-mastering-go.pdf)
@@ -20,7 +14,7 @@ author:
     * [AlphaGo Zero: Starting from scratch post](https://deepmind.com/blog/article/alphago-zero-starting-scratch)
 * MuZero:
     * [Deep Mind Blog Post](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules)
-    *
+    * [Paper: Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf)
 * Alpha Fold
     * [AlphaFold: a solution to a 50-year-old grand challenge in biology post](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
     * [AlphaFold: Using AI for scientific discovery post](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
