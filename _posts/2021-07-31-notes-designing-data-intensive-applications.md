@@ -69,8 +69,7 @@ author:
 * How do you think about tech debt?
   * When the interest payments on the debt start getting too large. Interest payments in this context could relate to any of the *reliablity*, *scalability* or *maintainability* (mainly). However, you can think of interest payments mainly from the perspective of getting to use the system.
   * Irrational Exuberance on [tech debt](https://lethain.com/migrations/)
-* It's impossible to have 100% uptime.
-  * Example user's wifi might be off. However, when the wifi is off,  ask on slack
+* It's impossible to have 100% uptime. However, as you have downtime, the used case of *chrome  dinosaur* is a great used case of good user experience.
 
 
 #### References
