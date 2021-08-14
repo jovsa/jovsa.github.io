@@ -7,6 +7,16 @@ author:
 - Jovan Sardinha
 ---
 
+
+
+
+
+* TD Gammon
+* Samuel's Checkers Player
+    * First slef-play system
+* Watson's Daily-Double Wagering
+* Optimizing Memory Control
+* Human-level video game play
 * AlphaGo:
     * [Deep Mind Blog Post](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
     * [Paper from Nature](http://airesearch.com/wp-content/uploads/2016/01/deepmind-mastering-go.pdf)
