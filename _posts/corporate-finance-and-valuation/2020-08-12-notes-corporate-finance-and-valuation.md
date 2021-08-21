@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Notes: Corporate Finance & Valuation"
+title: "Notes: Corporate Finance & Valuation Class"
 categories: notes
-modified_date: "Aug 16, 2021"
+modified_date: "Aug 21, 2021"
 author:
 - Jovan Sardinha
 ---
