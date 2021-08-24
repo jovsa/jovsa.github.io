@@ -64,8 +64,6 @@ TODO: Seession 8
   * Dividend Policy
   * Assessing Cash Returned to Stockholders
 
-* Valuation
-
 
 ## Valuation
 
