@@ -29,3 +29,5 @@ Hence,
 $$P(Survive) = \frac{2P(Reproduce)-1}{P(Reproduce)}$$
 
 $$P(Survive) = \frac{2}{3}$$
+
+TODO(jovsa): Can this be solved as a biased random walk?
