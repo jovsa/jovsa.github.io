@@ -12,7 +12,7 @@ author:
 || Intuitive Probability | What is Probability | Likely Surprises | Basic Probability | Geometric Probability | Combinatorics | Conditional Probability | Expectations | Recurrences and Markov Chains | Sampling of American Mathematics Competition Problems | Elementary Statistics |
 |--- |--- |--- |---|---|---|---|---|---|---|---|---|
 | 1  |  🔘 | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 |
-| 2  |  🔘 | ⚫ | 🔘 | ✅ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 |
+| 2  |  🔘 | ⚫ | 🔘 | ✅ | 🔘 | 🔘 | 🔘 | 🔘 | 👀 | 🔘 | 🔘 |
 | 3  |  🔘 | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 👀 | 🔘 | 🔘 | 🔘 | 🔘 |
 | 4  |  🔘 | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 |
 | 5  |  🔘 | ⚫ | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 |
