@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Designing Data-Intensive Applications"
 categories: notes
-modified_date: "Aug 10, 2021"
+modified_date: "Aug 31, 2021"
 author:
 - Jovan Sardinha
 ---
@@ -78,7 +78,28 @@ author:
   * [Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
 
 ### Chapter 2
+#### Relational vs. Document Models
+* Data is organized into `relations`, where each record is an unordered collection of tuples.
+* One-to-many relationship:
+  * The mismatch between relations and objects has given rise to no-sql DBs.
+  * `impedance mismatch`: The disconnect between the data model and the business logic layer.
+  * [Star schema](https://en.wikipedia.org/wiki/Star_schema): used by SQL DBs to solve the one-to-many relationship problem. Most SQL data models can be organized in a tree structure.
+  * JSON representation in no-sql has better locality than multi-table star schema in SQL DBs.
+* Many-to-one relationship:
+  * When you have many versions of a ID (ex. `1234` = {'GTA', 'Toronto', ...})
+  * This incurs write overheads and risks inconsistencies (where some copies of the information are updated but not others).
+  * These also require complex SQL queries since you have to join on all version of the ID.
+  * Removing such duplications is the key ideas behind *normalization* in databases.
+  * This is not ideal for SQL or No-SQL DBs.
+* Many-to-many relationship:
+  * Graph DBs
 
-## References
+
+#### Query Language for Data
+#### Graph-Like Data Models
+
+
+
+## Overall References
 * [Poster](https://dataintensive.net/poster.html)
 * [References by Chapter](https://github.com/ept/ddia-references)
