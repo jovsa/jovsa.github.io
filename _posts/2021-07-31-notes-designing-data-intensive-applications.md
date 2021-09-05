@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Designing Data-Intensive Applications"
 categories: notes
-modified_date: "Aug 31, 2021"
+modified_date: "Sept 1, 2021"
 author:
 - Jovan Sardinha
 ---
