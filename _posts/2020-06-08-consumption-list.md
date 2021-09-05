@@ -53,6 +53,7 @@ The following page attempts to list artifacts from all the various information s
 * [Essays] (http://www.paulgraham.com/articles.html) by Paul Graham
 * [Money Talk](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) by Matt Levine
 * [Personal website](https://www.robkhenderson.com/past-newsletter) by Rob Henderson
+* [Marginal Revolution](https://marginalrevolution.bulletin.com/) by Tyler Cowen
 
 ### [Essays & Memos](#essays_&_memos)
 * [We Don't Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d) by Stewart Butterfield
