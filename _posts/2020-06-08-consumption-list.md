@@ -50,7 +50,7 @@ The following page attempts to list artifacts from all the various information s
 * [Slate Star Codex](https://slatestarcodex.com/)
 * [Personal blog](https://patrickcollison.com/) by Patrick Collison
 * [Ribbonfarm](https://www.ribbonfarm.com/) by Venkatesh Rao
-* [Essays] (http://www.paulgraham.com/articles.html) by Paul Graham
+* [Essays](http://www.paulgraham.com/articles.html) by Paul Graham
 * [Money Talk](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) by Matt Levine
 * [Personal website](https://www.robkhenderson.com/past-newsletter) by Rob Henderson
 * [Marginal Revolution](https://marginalrevolution.com/) by Tyler Cowen
