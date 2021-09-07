@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Skin in the Game by Nassim Taleb"
 categories: notes
-modified_date: "Feb 15, 2021"
+modified_date: "Sept 6, 2021"
 author:
 - Jovan Sardinha
 ---
