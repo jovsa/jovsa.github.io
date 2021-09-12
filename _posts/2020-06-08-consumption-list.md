@@ -42,18 +42,23 @@ The following page attempts to list artifacts from all the various information s
 > Not exhaustive, but some of my evergreen favourite (in no particular order)
 
 * [The Investors Field Guide](http://investorfieldguide.com/) by Patrick O’Shaughnessy
-* [Personal website](https://www.gwern.net) by Gwern Branwen
+* [Personal website](https://www.gwern.net) and [Newsletter](https://gwern.substack.com/) by Gwern Branwen
 * [The Portal](https://podcasts.apple.com/us/podcast/the-portal/id1469999563) by Eric Weinstein
 * [The Knowledge Project](https://fs.blog/knowledge-project/) by Shane Parrish
 * [Stratechery](https://stratechery.com/) by Ben Thompson
 * [Wait by Why](https://waitbutwhy.com/) by Tim Urban
-* [Slate Star Codex](https://slatestarcodex.com/)
 * [Personal blog](https://patrickcollison.com/) by Patrick Collison
 * [Ribbonfarm](https://www.ribbonfarm.com/) by Venkatesh Rao
 * [Essays](http://www.paulgraham.com/articles.html) by Paul Graham
 * [Money Talk](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) by Matt Levine
 * [Personal website](https://www.robkhenderson.com/past-newsletter) by Rob Henderson
 * [Marginal Revolution](https://marginalrevolution.com/) by Tyler Cowen
+* [Irrational Exuberance](https://lethain.com/) by Will Larson
+* [Hardcore Software](https://hardcoresoftware.learningbyshipping.com/) by Steven Sinofsky
+* [Astral Codex Ten](https://astralcodexten.substack.com/) by Slate Star Codex
+* [Roaring 20s](https://roaring20s.substack.com/) by Tate
+* [Incerto](https://medium.com/incerto) by Nassim Nicolas Taleb
+
 
 ### [Essays & Memos](#essays_&_memos)
 * [We Don't Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d) by Stewart Butterfield
