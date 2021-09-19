@@ -10,30 +10,30 @@ author:
 [Steve Jobs President & CEO, NeXT Computer Corp and Apple. MIT Sloan Distinguished Speaker Series](https://www.youtube.com/watch?v=Gk-9Fd2mEnI&t)
 
 ### Question List
-5:13 Comparing management vs. operational productivity in software
-9:25 Rapid development of application software using NeXT
-10:30 Desktop publishing on the Macintosh
-15:25 Problems with consultants
-18:03 Should NeXT just become a software company
-24:38 Who are NeXT's competitors, Sun Solaris, Microsoft NT, Taligent
-27:41 NeXTSTEP operating environment, "the code that never breaks is the code that you don't
+* 5:13 Comparing management vs. operational productivity in software
+* 9:25 Rapid development of application software using NeXT
+* 10:30 Desktop publishing on the Macintosh
+* 15:25 Problems with consultants
+* 18:03 Should NeXT just become a software company
+* 24:38 Who are NeXT's competitors, Sun Solaris, Microsoft NT, Taligent
+* 27:41 NeXTSTEP operating environment, "the code that never breaks is the code that you don't
       write...so write less code", benefits of object-oriented programming
-30:59 NEXT's growth dependent on application developers
-33:25 reflecting on separating from Apple and the struggles at Apple focusing on consumer electronics
-37:27 Big achievements and management organization at NEXT
-41:45 How technology windows open in the market, Apple II, DOS, Lisa, Macintosh, NeXT Cube,
+* 30:59 NEXT's growth dependent on application developers
+* 33:25 reflecting on separating from Apple and the struggles at Apple focusing on consumer electronics
+* 37:27 Big achievements and management organization at NEXT
+* 41:45 How technology windows open in the market, Apple II, DOS, Lisa, Macintosh, NeXT Cube,
       "I think object-oriented technology is the biggest technical breakthrough I have seen since
       the early 80's with graphical user interfaces and I think it's bigger actually."
-46:40 Should you develop applications or objects and tools, "the brightest people are writing objects"
-48:23 Developing products with higher education, Project Athena
-51:22 What I Learned at Apple, taking a longer-term view on people
-53:01 Management style and resolving conflict
-56:18 Macintosh and PC and challenges with portability, processor speed, disk space, high speed
+* 46:40 Should you develop applications or objects and tools, "the brightest people are writing objects"
+* 48:23 Developing products with higher education, Project Athena
+* 51:22 What I Learned at Apple, taking a longer-term view on people
+* 53:01 Management style and resolving conflict
+* 56:18 Macintosh and PC and challenges with portability, processor speed, disk space, high speed
       networking, true color displays, power
-58:45 Manufacturing systems Macintosh vs. NeXT, removing warehouses with Just in Time processes,
+* 58:45 Manufacturing systems Macintosh vs. NeXT, removing warehouses with Just in Time processes,
       factories as software with interesting I/O devices (robots)
-1:06:11 Using manufacturing to improve time to market, product and process simultaneously
-1:11:57 Growth of Apple and the Macintosh market
+* 1:06:11 Using manufacturing to improve time to market, product and process simultaneously
+* 1:11:57 Growth of Apple and the Macintosh market
 
 
 ### Transcript
