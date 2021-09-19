@@ -9,7 +9,7 @@ author:
 
 [Steve Jobs President & CEO, NeXT Computer Corp and Apple. MIT Sloan Distinguished Speaker Series](https://www.youtube.com/watch?v=Gk-9Fd2mEnI&t)
 
-
+### Question List
 5:13 Comparing management vs. operational productivity in software
 9:25 Rapid development of application software using NeXT
 10:30 Desktop publishing on the Macintosh
@@ -36,7 +36,7 @@ author:
 1:11:57 Growth of Apple and the Macintosh market
 
 
-
+### Transcript
 [MUSIC PLAYING] Good afternoon, ladies and gentlemen, and welcome to the second [INAUDIBLE] presentation by the Distinguished Speakers Series [INAUDIBLE]. We are honored to have with us today Steve Jobs, the president and chief executive officer of NeXT Computer Corporation. Steve has consistently been one of the computer industry's foremost entrepreneurs. Along with partner Steve Wozniak, their entrance into the industry was by the traditional entrepreneurial route of building computers in a garage. [INAUDIBLE] auspicious start, however, [INAUDIBLE] the creation of Apple, a formidable challenge to IBM in the personal computer market. A true visionary, Steve was known at an early age for his belief that a PC could be put on every desk and made simple enough for use. Educationally, he had the right credentials to make it big in the computer industry, because he dropped out of Reed College. [LAUGHTER] [INAUDIBLE] and the growing corporate culture diverged, both eventually left Apple to establish their entrepreneurial roots. In 1985, Steve founded another computer company, NeXT Corporation, to design a revolutionary computer called the Cube. Targeting the high end workstation market, NeXT has found the going tough against [INAUDIBLE] competitors, such as Sun Microsystems. However, with 1991 revenues hitting $127 million, business has grown substantially. With the backing of Ross Perot, NeXT shouldn't be short of funds in the future. Or in a more unlikely scenario, a friendly year in the White House.The current plans for NeXT computer involve a public offering, possibly in the next 14 months. We hope to hear today just what a good investment that should be. Steve has consistently been recognized for his contribution to America's largest high tech industry. Most recently, he was appointed to the president's Export Council last August, with the role to advise on government policies and programs that affect trade performance. Outside of work, Steve is married to Laurene, previously an MBA student at Stanford University, and also a sister of one of our classmates, Brad Powell. The couple met when Steve gave a similar speech to this afternoon's at Stanford, days before the Bay Area earthquake. Let's hope that history doesn't repeat itself. [LAUGHTER] Ladies and gentlemen, we are extremely grateful for Steve to giving up his time to be with us this afternoon. Could you please give a warm welcome to our distinguished guest, Steve Jobs.
 
 
