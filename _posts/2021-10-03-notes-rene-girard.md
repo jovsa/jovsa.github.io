@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: René Girard"
 categories: notes
-modified_date: Oct 03, 2021
+modified_date: Oct 24, 2021
 author:
 - Jovan Sardinha
 ---
@@ -18,17 +18,11 @@ author:
   * Example: Shakeshpere, Aristotle
 * Competition is inherint in imitation. Once it begins, it is self-sustaining. Because the conflict will be the main source of attraction. The competitor will become the main source of attraction. Ex. arguments as an everyday example, War is another brutal example. In other words, the point of fact that started the conflict is long forgot - scandal. The rivals grow alike with each attempt to be different. The is a reinforcing loop. However, the rivals only focus on the differences - `runaway immitation`.
 * The self - Pushed by a collection of desires.
-*
-
 
 ## Scapegoat: The Ritual Sacrifice
 ## The Apocalypse
 ## The Adversary
 ## The Atonement
-
-
-
-
 
 ## References
 * [René Girard CBC interview part 1 of 5](https://www.youtube.com/watch?v=g8Y8dVVV4To)
