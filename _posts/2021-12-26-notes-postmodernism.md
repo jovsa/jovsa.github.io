@@ -2,10 +2,13 @@
 layout: post
 title: "Notes: Postmodernism"
 categories: notes
-modified_date: Dec 26, 2021
+modified_date: Dec 27, 2021
 author:
 - Jovan Sardinha
 ---
+
+
+* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/postmodernism/)
 
 
 ## Jaques Lecan
