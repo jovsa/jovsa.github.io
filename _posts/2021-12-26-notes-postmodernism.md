@@ -35,7 +35,7 @@ author:
 * System of Objects:
   * [The System of Objects](https://www.youtube.com/watch?v=jkhaBDY3nz4)
   * [American Psycho, Baudrillard and the Postmodern Condition](https://www.youtube.com/watch?v=RJfurfb5_kw)
-  * ![PDF Book](https://drive.google.com/drive/folders/1rpO2id28F2VI74l6Isk9Q0ZITJLWG5gh?usp=sharing)
+  * [PDF Book](https://drive.google.com/drive/folders/1rpO2id28F2VI74l6Isk9Q0ZITJLWG5gh?usp=sharing)
 
 
 ## Guy Debord
