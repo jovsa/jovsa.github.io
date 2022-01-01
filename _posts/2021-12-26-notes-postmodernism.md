@@ -2,14 +2,14 @@
 layout: post
 title: "Notes: Postmodernism"
 categories: notes
-modified_date: Dec 27, 2021
+modified_date: Jan 1, 2022
 author:
 - Jovan Sardinha
 ---
 
 
 * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/postmodernism/)
-
+* [Internet Encyclopeida of Philosophy](https://iep.utm.edu/)
 
 ## Jaques Lecan
 
@@ -19,8 +19,10 @@ author:
 * [Lacan - The Mirror Stage, The Imaginary, and Social Media (How am I not myself?)](https://www.youtube.com/watch?v=50k_IUMrehU&list=PLx5jMl5-m5ZQRE7k-ajzCQzhxs_Z2wZ1g&index=7)
 * [A Tour of Lacan's Graph of Desire](https://www.youtube.com/watch?v=67d0aGc9K_I&t)
 * [Imaginary-Symbolic-Real Triad](https://www.youtube.com/watch?v=aMAju-xHu7I&t)
+* [Jacques Lacan (1901—1981) Bio](https://iep.utm.edu/lacweb/)
+  * [References and further reading](https://iep.utm.edu/lacweb/#H5)
 
-## Jean Boullard
+## Jean Baudrillard
 
 * Simulacra & Simulation
   * [Audiobook by Educative Audiobook](https://www.youtube.com/watch?v=k-BXojBZ6is&list=PLxADjVAiHQzVMh4vLXWdlU-TybIqfa5gJ)
@@ -30,14 +32,30 @@ author:
   * [Skeleton Key 2](https://www.youtube.com/watch?v=DLK8nnlMQIQ)
 * [Cyberwar: The Gulf War Did Not Take Place](https://www.youtube.com/watch?v=JgJhmvzcb28&list=PLx5jMl5-m5ZQRE7k-ajzCQzhxs_Z2wZ1g&index=2)
 * [The Hyperreal Commodity: Baudrillard on Sign Exchange](https://www.youtube.com/watch?v=ruACD6V6rTg&list=PLx5jMl5-m5ZQRE7k-ajzCQzhxs_Z2wZ1g&index=6)
-* [The System of Objects](https://www.youtube.com/watch?v=jkhaBDY3nz4)
+* System of Objects:
+  * [The System of Objects](https://www.youtube.com/watch?v=jkhaBDY3nz4)
+  * [American Psycho, Baudrillard and the Postmodern Condition](https://www.youtube.com/watch?v=RJfurfb5_kw)
+  * ![PDF Book](https://drive.google.com/drive/folders/1rpO2id28F2VI74l6Isk9Q0ZITJLWG5gh?usp=sharing)
+
 
 ## Guy Debord
 
 * [Influencers](https://www.youtube.com/watch?v=lM6Uf0UxKuw&list=PLx5jMl5-m5ZQRE7k-ajzCQzhxs_Z2wZ1g&index=4)
 
+## Mark Fisher
 
-## After Postmodernism
+* [Mark Fisher](https://en.wikipedia.org/wiki/Mark_Fisher)
+  * [Capitalist Realism](https://en.wikipedia.org/wiki/Mark_Fisher#Capitalist_realism)
+  * [Hauntology](https://en.wikipedia.org/wiki/Mark_Fisher#Hauntology)
+  * [The Weird and the Eerie](https://en.wikipedia.org/wiki/Mark_Fisher#The_Weird_and_the_Eerie)
+  * [Acid Communism](https://en.wikipedia.org/wiki/Mark_Fisher#Acid_Communism)
+  * [On Vanishing Land](https://en.wikipedia.org/wiki/Mark_Fisher#On_Vanishing_Land)
+* [Playlist by Epoch Philosophy](https://www.youtube.com/watch?v=6Cb5XJH4NMI&list=PLMhB56cXTlLImZ_sg9Hek6O8O1PnetBlO)
+  * [Mark Fisher: Capitalist Realism and Business Ontology](https://www.youtube.com/watch?v=6Cb5XJH4NMI&list=PLMhB56cXTlLImZ_sg9Hek6O8O1PnetBlO&index=1)
+  * [Ghosts of Mark Fisher: Hauntology, Lost Futures, and Depression](https://www.youtube.com/watch?v=gFyaNG9xbEU&list=PLMhB56cXTlLImZ_sg9Hek6O8O1PnetBlO&index=2)
+* [Books and ferther reading](https://en.wikipedia.org/wiki/Mark_Fisher#Bibliography)
+
+## Misc
 
 * [After postmodernism series by Brendan Graham Dempsey](https://www.youtube.com/playlist?list=PLa_4sU5_wQrn_jYUwiVTCDigNys42eOHM)
 * [Defining metamodernism](https://www.youtube.com/watch?v=9BzD3wUEMaQ&t)
