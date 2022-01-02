@@ -56,6 +56,49 @@ author:
 
 ### Structres of Atmosphere
 
+#### Athmospheric Values: Color
+
+* Traditional color
+* 'Natural' color
+* 'Funtional' color
+* Hot and Cold
+
+#### Athmospheric Values: Meterials
+
+* The entire modern environment is thus transposed onto the level of a sign system, namely `ATMOSPHERE`, which is no longer produced by the way any particular element is handled, nor by the beauty or ugliness of that element. But under the present system the success of the whole occurs in the context of the constraints of abstraction and association.
+* The consistency here is not the natural consistency of a unified taste but the consistency of a cultural system of signs.
+* What nostalgia paints as an authentic whole object is still nothing but a combining variant, serves to reintroduce any conceivable element, whatever subjective associations it may carry, into the logic of the system.
+
+#### The Man of Relationship and Athmosphere
+
+* Natural wood/cultural wood
+* The logic of atmosphere
+* A model material: Glass
+
+#### The man of relationships and atmosphere
+
+* Seats
+* Cultural connotation and cencership
+  * The term 'refined' which, like 'functional', is a catchword of manipulated interior decoration - sums up this cultural constraint perfectly. Rooms have traded in the symbols of family for signs of social relationship.
+  * And this systematic cultural connotation at the level of objects is what I am calling *ATMOSPHERE*.
+
+#### Athmospheric Values: Gestural Systems and Forms
+
+* intro:
+  * All these tendencies are mediated practically and historically, at the level of objects, by the fundamental supersession of the gestural system of effort, by the great shift from a universal gestural *system of labour* to a universal gestural *system of control*.
+* The traditional gestural system: Effort
+* The functional gestural system: Control
+  * So the gestural system of control must be deemed indispensable - not to make the system work technically, for more advanced technology could (and no doubt will) make it unnecessary, but, rather, to make that system work psychologically.
+* A new operational field
+* Minituarization
+* Stylization, Manipulapabiliy, Envelopment
+  * Functionality is thus no longer the imposition of a real task, but simply the adaptation of one form to another (as of handle to hand) and the consequent supersession or omission of the actual processes of work.
+  * We are heading towards an absolutism of forms: only the form is called for, only the form is read, and at the deepest level it is the functionality of forms that defines 'style'.
+* The end of symbolic dimension
+  *
+
+### Conclusion: Neturaleness and Functionality
+
 ## The non-functional system, or subjective discourse
 
 ## The metafunctional and dysfunctional system
