@@ -66,6 +66,7 @@ patient's life.
 * If the clinician focuses more on their own reasons they believe the patient should change this would not come across as genuine to the patient and this would reduce the bond they made in the engaging process.
 
 4 - Planning
+
 * This step is also known as the `HOW?` of change.
 * They can help to strengthen the patient's commitment to changing, by supporting and encouraging when the patient uses "commitment talk" or words that show their commitment to change.
 * In doing this, they help to strengthen the patients motivation and support that they are capable of achieving this goal on their own.
