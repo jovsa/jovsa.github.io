@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Postmodernism"
 categories: notes
-modified_date: Jan 1, 2022
+modified_date: Jan 3, 2022
 author:
 - Jovan Sardinha
 ---
@@ -65,3 +65,4 @@ author:
   * [Essay](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazVHdHFacHZBYUxTdmhocG1yNFVJdWpJUWJFZ3xBQ3Jtc0ttdzJ4cENEY19NdWd2WHR6VTJFeWs1NTZpVDJKSkVxc01laFA5ejE1bDV1ZjVUbVZRakQyZzhPSU9scWdwaXRyVHlkek8wMUdHYWk2MlhZWF9YOUlTNUw3SERVcWppcVA4S3ZTMGtYNDNleWVUdFp3NA&q=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs542%2Fclient%2Fsnv%3FnoteGuid%3D46c636b6-b404-45df-ab0a-1f84c6fdc8c2%26noteKey%3D7c94233539b8258d72b395a063f3c589%26sn%3Dhttps%3A%2F%2Fwww.evernote.com%2Fshard%2Fs542%2Fsh%2F46c636b6-b404-45df-ab0a-1f84c6fdc8c2%2F7c94233539b8258d72b395a063f3c589%26title%3DThat%2BEssay%29Thiel)
   * [Audio version](https://drive.google.com/file/d/14WohfrEeTDOUW4mwTqycWq87FCYVniKd/view?usp=sharing)
   * [Discussion between Peter Robinson and Peter Theil in Uncommon Knowledge](https://www.youtube.com/watch?v=iRleB034EC8)
+  * [Hauntology - Derrida's Specters of Marx](https://www.youtube.com/watch?v=TJr0NwXWb6Q)
