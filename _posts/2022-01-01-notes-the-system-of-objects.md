@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: The System of Objects by Jean Baudrillard"
 categories: notes
-modified_date: Jan 1, 2022
+modified_date: Jan 3, 2022
 author:
 - Jovan Sardinha
 ---
@@ -91,11 +91,14 @@ author:
   * So the gestural system of control must be deemed indispensable - not to make the system work technically, for more advanced technology could (and no doubt will) make it unnecessary, but, rather, to make that system work psychologically.
 * A new operational field
 * Minituarization
-* Stylization, Manipulapabiliy, Envelopment
-  * Functionality is thus no longer the imposition of a real task, but simply the adaptation of one form to another (as of handle to hand) and the consequent supersession or omission of the actual processes of work.
-  * We are heading towards an absolutism of forms: only the form is called for, only the form is read, and at the deepest level it is the functionality of forms that defines 'style'.
+
+#### Stylization, Manipulapabiliy, Envelopment
+
+* Functionality is thus no longer the imposition of a real task, but simply the adaptation of one form to another (as of handle to hand) and the consequent supersession or omission of the actual processes of work.
+* We are heading towards an absolutism of forms: only the form is called for, only the form is read, and at the deepest level it is the functionality of forms that defines 'style'.
 * The end of symbolic dimension
-  *
+* The abstrctness of power
+  * objects have now become more complex than human behaviour relative to them.
 
 ### Conclusion: Neturaleness and Functionality
 
