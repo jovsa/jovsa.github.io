@@ -111,10 +111,27 @@ author:
   * For while speed has a phallic character, the speed evoked by tail fins is merely formal, fixed, and, as it were, visually edible.
   * Behind the functional self-realization of forms, traditional phallic symbolism has fallen apart. At the same time, regressively and narcissistically, it is content to let itelsef envelop by forms and their 'functionality'.
 * Form as camouflage
-  *
-
+  * The articulation of forms among themselves always conceals another, indirect discourse.
+  * Thus the form of the lighter relates to the form of the hand, but only by way of the sea, which 'has polished it'; and a car's tail fins relate to the distance covered only by way of the aeroplane, the shark, and so on.
+  * More precisely, it is the idea of the sea, the aeroplane or the shark that mediates.
+  * The extent that those forms constitute a system and thus re-create a kind of internal purposiveness, their reciprocal connotations are 'natural' - for nature remains the ideal point of reference of all goal-directedness.
+  * Naturalization, concealment, superimposition, décor - we are surrounded by objects whose form comes into play as a false answer to the self-contradictory manner in which the object is experience.
+  * Here the lexicon of advertising is telling. In this discourse a whole battery of emotionally laden words such as 'warmth', 'intimacy', 'radiance' and 'honesty' - a whole rhetoric of 'natural' values - goes hand in hand with thecareful calculation of forms and the promotion of 'functional style'.
 
 ### Conclusion: Neturaleness and Functionality
+
+* It will be clear from the foregoing discussion of the values of interior design and
+atmosphere that the entire system is founded on the concept of `FUNCTIONALITY`.
+* Colours, forms, materials, design, space - all are functional.
+* The term evokes all the virtues of modernity, yet it is perfectly ambiguous. With its reference to 'function' it suggests that the object fulfils itself in the precision of its relationship to the real world and to human needs.
+* But as our analysis has shown, 'functional' in no way qualifies what is adapted to a goal, merely what is adapted to an order or system: functionality is the ability to become integrated into an overall scheme.
+* An object's functionality is the very thing that enables it to transcend its main 'function' in the direction of a secondary one, to play a part, to become a combining element, an
+adjustable item, within a universal system of signs.
+* *The functional system is thus characterized, in a thoroughly ambiguous way, on the one hand by a transcendence of the traditional system under its three aspects - as the primary function of the object, as drives and primary needs, and as a set of symbolic relations between the two  - and on the other hand by a simultaneous disavowal of these three mutually reinforcing aspects of the traditional system.*
+  * The coherence of the functional system of objects depends on the fact that
+these objects no longer have any value of their own, but merely a universal value as signs.
+  * The always transcended presence of Nature. But at the same time the always denied presence of Nature makes the system into a system of disavowal.
+
 
 ## The non-functional system, or subjective discourse
 
