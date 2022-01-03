@@ -132,6 +132,13 @@ adjustable item, within a universal system of signs.
 these objects no longer have any value of their own, but merely a universal value as signs.
   * The always transcended presence of Nature. But at the same time the always denied presence of Nature makes the system into a system of disavowal.
 
+#### Addendum
+
+* Travel is a necessity and speed is a pleasure.
+* Movement is mearely the search for a response. Security founded on the sense of a world beyond or a world prior to this one is what nourishes car-induced euphoria, which has nothing of an active tonicity about it; rather, it is a passive satisfaction, albeit one accompanied by ever-changing scenery.
+* This 'dynamic euphoria' serves as an antithesis to the static joys of family life
+and immovable property, and opens a parenthesis in social reality.
+
 
 ## The non-functional system, or subjective discourse
 
