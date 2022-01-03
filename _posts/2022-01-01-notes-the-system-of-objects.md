@@ -139,8 +139,10 @@ these objects no longer have any value of their own, but merely a universal valu
 * This 'dynamic euphoria' serves as an antithesis to the static joys of family life
 and immovable property, and opens a parenthesis in social reality.
 
-
 ## The non-functional system, or subjective discourse
+
+### Marginal objects: Antiques
+
 
 ## The metafunctional and dysfunctional system
 
