@@ -69,8 +69,6 @@ author:
 * The consistency here is not the natural consistency of a unified taste but the consistency of a cultural system of signs.
 * What nostalgia paints as an authentic whole object is still nothing but a combining variant, serves to reintroduce any conceivable element, whatever subjective associations it may carry, into the logic of the system.
 
-#### The Man of Relationship and Athmosphere
-
 * Natural wood/cultural wood
 * The logic of atmosphere
 * A model material: Glass
@@ -97,8 +95,24 @@ author:
 * Functionality is thus no longer the imposition of a real task, but simply the adaptation of one form to another (as of handle to hand) and the consequent supersession or omission of the actual processes of work.
 * We are heading towards an absolutism of forms: only the form is called for, only the form is read, and at the deepest level it is the functionality of forms that defines 'style'.
 * The end of symbolic dimension
+  * Thus the handle of the flatiron gradually diminishes as it undergoes 'contouring' - the term is typical in its superficiality and abstractness; increasingly it suggests the very absence of gesture, and carried to its logical extreme this handle will no longer be manual - merely manipulable. At that point, the perfecting of the form will have relegated man to a pure contemplation of his power.
 * The abstrctness of power
   * objects have now become more complex than human behaviour relative to them.
+  * Man's technical power can thus no longer be mediated. Nor, by extension, can it any longer be symbolized: functional forms can do no more than connote it. Certainly they overburden it with meaning in their absolute consistency (aerodynamism, manipulability,automaticity, etc.), but at the same time they are formal expressions of the void that separates us from our power; in a sense they are the ritual that accompanies the miracle-working of the modern world.
+  * Objects are more and more highly differentiated - our gestures less and less so.
+  * To put it another way: objects are no longer surrounded by the theatre of gesture in which they used to be simply the various roles;instead their emphatic goaldirectedness has very nearly turned them into the actors in a global process in which man is merely the role, or the spectator.
+  * If the simulacrum is so well designed that it becomes an effective organizer of reality, then surely it is man, not the simulacrum, who is turned into an abstraction.
+* The functional myth
+  * 'Part of the feeing of the efficacy of primitive magic has survived in the unconditional belief in progress' writes Gilbert Simondon. This applies to a technological society as well as a the everyday environment, where the most insignificant gadgets may be the focal point of the techno-mythological realm of power.
+* functional form: the lighter
+  * The action of sea on stone is thus echoed by the hand creating fire; the lighter becomes a miraculous flint, and a prehistoric and craftsmanly purposiveness comes into play in the very practical essence of an industrial object.
+* functional connotation: tail fins
+  * The form does no more than signify the idea of the function. In other words, the form has become allegorical.
+  * For while speed has a phallic character, the speed evoked by tail fins is merely formal, fixed, and, as it were, visually edible.
+  * Behind the functional self-realization of forms, traditional phallic symbolism has fallen apart. At the same time, regressively and narcissistically, it is content to let itelsef envelop by forms and their 'functionality'.
+* Form as camouflage
+  *
+
 
 ### Conclusion: Neturaleness and Functionality
 
