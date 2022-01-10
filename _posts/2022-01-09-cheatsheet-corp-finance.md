@@ -10,6 +10,8 @@ author:
 
 ## Ratios
 
+![micro measures](/assets/post_assets/cheatsheet-corp-finance/micro_measures.png)
+
 ### Profitability Ratios
 
 ![1](/assets/post_assets/cheatsheet-corp-finance/profitability_1.png)
@@ -77,4 +79,5 @@ author:
 ![E1](/assets/post_assets/cheatsheet-corp-finance/coverage_and_liquidity_example.png)
 
 ## Usefull Data
+* https://aswathdamodaran.blogspot.com/2022/01 data-update-1-for-2022-it-is-moneyball.html
 * http://people.stern.nyu.edu/adamodar/New_Home_Page/dataarchived.html
