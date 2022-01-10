@@ -19,7 +19,7 @@ author:
 
 ### Color Harmony
 ![1](/assets/post_assets/color-and-light-theory/incorrect_1.png)
-![1](/assets/post_assets/color-and-light-theory/incorrect_2.png)
+![2](/assets/post_assets/color-and-light-theory/Incorrect_2.png)
 
 <!-- Photo Grid -->
 <div class="row">
