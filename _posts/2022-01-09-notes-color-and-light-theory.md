@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Color & Light Theory"
 categories: notes
-modified_date: Jan 9, 2022
+modified_date: Jan 10, 2022
 author:
 - Jovan Sardinha
 ---
@@ -19,7 +19,7 @@ author:
 
 ### Color Harmony
 ![1](/assets/post_assets/color-and-light-theory/incorrect_1.png)
-![2](/assets/post_assets/color-and-light-theory/Incorrect_2.png)
+![2](/assets/post_assets/color-and-light-theory/incorrect_2.png)
 
 <!-- Photo Grid -->
 <div class="row">
