@@ -205,7 +205,7 @@ Readings:
 6. Stephen R. Platt, "How Britain's First Mission to China Went Wrong," LA Review of Books China Channel, May 18, 2018; excerpt from Imperial Twilight: The Opium War and the End of China's Last Golden Age (New York: Knopf, 2018)
   * Link: <https://chinachannel.org/2018/05/18/macartney>
 
-7. Norman Angell, "The Great Illusion," Part | Chapter III (pp 28-49) in The Great Illusion (New York: Putnam, 1913)
+7. Norman Angell, "The Great Illusion," Part - Chapter III (pp 28-49) in The Great Illusion (New York: Putnam, 1913)
 
 8. Robert Gordon, "Is U.S. Economic Growth Over?" NBER Working Paper No. 18315, August 2012
 
