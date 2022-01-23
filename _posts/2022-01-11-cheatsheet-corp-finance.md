@@ -7,10 +7,22 @@ author:
 - Jovan Sardinha
 ---
 
+![index](/assets/post_assets/cheatsheet-corp-finance/index.png)
 
 ## The Objective
+> The `Why` - ex. max. value of the business
+
+![objective](/assets/post_assets/cheatsheet-corp-finance/objective.png)
+
+
+Some error cases
+
+![error cases](/assets/post_assets/cheatsheet-corp-finance/objective_error_cases.png)
+
+I would imagine there is a version where each stakeholder acts out of turn.
 
 ## The Investment Decision
+> `What` to invest in? -  Decisions around finding assets that earn a return greater than the minimum acceptable hurdle.
 
 ### Hurdle Rate
 
@@ -54,6 +66,7 @@ author:
 ### Valuation
 
 ## The Financing Decision
+> `How` to make it work? - Decisions around the right mix of debt and equity to fund your operations.
 
 ### Financing Mix
 
@@ -95,7 +108,13 @@ author:
 
 ![E1](/assets/post_assets/cheatsheet-corp-finance/coverage_and_liquidity_example.png)
 
+
+
+
+
 ## The Dividend Decision
+> `What` to do with returns?  - Decisions around how to return the returns to owners of your business. This should bookend the *investment decision*.
+
 
 ### Divident Policy
 
