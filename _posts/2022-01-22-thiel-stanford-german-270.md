@@ -13,7 +13,7 @@ author:
 
 The current historical moment appears to be marked by opposition to globalization, which has  emerged in many countries in the various forms of populism, restrictive trade policies, attacks on  “neo-liberalism,” protest parties and localism. These positions are sometimes accompanied by  appeals to national interests and cultural traditions. This new mood is viewed as a break with a  previous paradigm of international institutions and “world citizenship.”
 
-This seminar proceeds from this contemporary reassertion of state sovereignty against market  processes and internationalist claims in order to inquire into the historical, theoretical and cultural roots of the problem. Has the process of globalization stalled? What are the implications for the state and its aspiration for sovereignty? And how does technology, which contributed so much to the process of globalization, fit into this picture, especially in the guise of new technologies? This seminar therefore explores the tensions between state and market, their cultural contexts, technological innovation, and the importance of community belonging. Enrollment is limited: To be considered for enrollment in this course, please complete and submit the short application available at the Explore courses site by October 19, 2018, 11:59pm PST. Students accepted to participate in this course will be notified on October 26, 2018 by 6:00pm. Auditors are not permitted. Application: <http://web.stanford.edu/—conorato/german270.fb>
+This seminar proceeds from this contemporary reassertion of state sovereignty against market  processes and internationalist claims in order to inquire into the historical, theoretical and cultural roots of the problem. Has the process of globalization stalled? What are the implications for the state and its aspiration for sovereignty? And how does technology, which contributed so much to the process of globalization, fit into this picture, especially in the guise of new technologies? This seminar therefore explores the tensions between state and market, their cultural contexts, technological innovation, and the importance of community belonging. Enrollment is limited: To be considered for enrollment in this course, please complete and submit the short application available at the Explore courses site.
 
 ### Course Requirements
 
@@ -21,7 +21,7 @@ Deliverables:
 
 * A two-page (approx. 500 words) reading response each week on the current texts. Do not provide summaries but instead offer your thoughts on how these texts contribute to our inquiry into globalization, sovereignty and technology. Feel free to highlight problematic or difficult passages.
 * Each student will present one 10-15 minute oral presentation on the day’s readings. There will be multiple presentations at each session, so the presenters will be expected to coordinate among themselves so as not to be repetitive. Introduce the readings, explain their importance and offer your criticism and discussion questions.
-* A term paper due at the last session, March 12. Discuss the topic in advance with the instructors. You may write on any of the texts, providing closer interpretation. However you are also welcome to discuss current political, technological or cultural developments—in light of the seminar’s reflections— and offer your account.
+* A term paper due at the last session, March 12. Discuss the topic in advance with the instructors. You may write on any of the texts, providing closer interpretation. However you are also welcome to discuss current political, technological or cultural developments—in light of the seminar’s reflections — and offer your account.
 
 ## Modules
 
@@ -32,12 +32,13 @@ In the summer of 1989, just as tanks rolled through Tiananmen Square, but just b
 Readings:
 
 * Francis Fukuyama, “The End of History?” in The National Interest (1989) ~25pp
-* Kishore Mahbubani, Has the West Lost It? (2018) ~90pp Stephen R. Platt, "How Britain's First Mission to China Went Wrong" (2018) ~5 pp
+* Kishore Mahbubani, Has the West Lost It? (2018) ~90pp
+* Stephen R. Platt, "How Britain's First Mission to China Went Wrong" (2018) ~5 pp
 * Norman Angell, title chapter from The Great Illusion (first published 1909; fourth American edition 1913) ~25pp
 
 ### 2 - Universalism: From the Tower of Babel to the Last Things
 
-Would anybody ever have believed in a single destiny for the whole world without first having believed in a single deity? Philosopher Karl L6with's Meaning in History gives an answer while it reviews all the ways the West has understood history's meaning, from the Bible to Kant and Marx.
+Would anybody ever have believed in a single destiny for the whole world without first having believed in a single deity? Philosopher Karl Lowith's Meaning in History gives an answer while it reviews all the ways the West has understood history's meaning, from the Bible to Kant and Marx.
 
 Readings:
 
@@ -47,11 +48,7 @@ Readings:
 
 ### 3 - From 1914 to 1949: World War
 
-Carl Schmitt rebuts universal empire with a vision of friends
-versus enemies. Alain de Benoist suggests that even the most
-extreme enemies may come to resemble each other. How does a
-geopolitical reading of land and sea powers map onto questions of
-globalization, culture, and community?
+Carl Schmitt rebuts universal empire with a vision of friends versus enemies. Alain de Benoist suggests that even the mostextreme enemies may come to resemble each other. How does a geopolitical reading of land and sea powers map onto questions of globalization, culture, and community?
 
 Readings:
 
@@ -61,12 +58,8 @@ Readings:
 
 ### 4 - The 1950s: Toward a world state?
 
-Why not have a world government? If there is a single rational
-way to rule, why shouldn't rationality rule the world? Progressive
-Russian-French emigré Alexandre Kojéve, who helped lay the
-groundwork for the European Union, engages conservative
-German-American emigré Leo Strauss in a classic debate about
-the "universal and homogenous state."
+Why not have a world government? If there is a single rational way to rule, why shouldn't rationality rule the world? Progressive
+Russian-French emigré Alexandre Kojéve, who helped lay the groundwork for the European Union, engages conservative German-American emigré Leo Strauss in a classic debate about the "universal and homogenous state."
 
 Readings:
 
