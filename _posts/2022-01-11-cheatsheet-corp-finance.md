@@ -9,7 +9,7 @@ author:
 
 ![index](/assets/post_assets/cheatsheet-corp-finance/index.png)
 
-## The Objective
+## The Objective Decision
 > The `Why` - ex. max. value of the business
 
 ![objective](/assets/post_assets/cheatsheet-corp-finance/objective.png)
