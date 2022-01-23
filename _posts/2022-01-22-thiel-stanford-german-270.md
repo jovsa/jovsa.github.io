@@ -2,7 +2,7 @@
 layout: post
 title: "Thiel Stanford: Sovereignty and the Limits of Globalization and Technology"
 categories: notes
-modified_date: Jan 22, 2022
+modified_date: Jan 23, 2022
 author:
 - Jovan Sardinha
 ---
