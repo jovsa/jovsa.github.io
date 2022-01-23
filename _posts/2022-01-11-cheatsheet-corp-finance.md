@@ -51,8 +51,6 @@ author:
 ![E1](/assets/post_assets/cheatsheet-corp-finance/efficiency_example.png)
 
 
-
-
 ### Valuation
 
 ## The Financing Decision
@@ -61,9 +59,7 @@ author:
 
 ### Financing Type
 
-## Financing Mix
-
-### Financial Leverage
+#### Financial Leverage
 
 * Debt can be scaled to overall capital or just to equity
   * Debt to Capital = Debt/ (Debt + Equity): This is a measure of how much of the capital in a company comes from debt.
@@ -87,7 +83,7 @@ author:
 
 ![E1](/assets/post_assets/cheatsheet-corp-finance/debt_example.png)
 
-### Liquidity & Credit Risks
+#### Liquidity & Credit Risks
 
 * Coverage Ratios: These ratios measure how much buffer or coverage a company has in meeting commitments.
   * With interest coverage ratio, the commitment is interest expenses, and it is scaled to operating income.
