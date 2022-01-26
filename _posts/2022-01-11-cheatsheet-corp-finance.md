@@ -2,7 +2,7 @@
 layout: post
 title: "Cheatsheet: Corporate Finance"
 categories: notes
-modified_date: Jan 23, 2022
+modified_date: Jan 26, 2022
 author:
 - Jovan Sardinha
 ---
@@ -25,6 +25,19 @@ I would imagine there is a version where each stakeholder acts out of turn.
 > `What` to invest in? -  Decisions around finding assets that earn a return greater than the minimum acceptable hurdle.
 
 ### Hurdle Rate
+
+* Risk Free Rate
+* Equity Risk Premium
+  * Implied ERP
+  * Country Risk
+  * Company Risk
+* Regression Betas
+  * Top-down betas (regression betas)
+  * Bottom-up betas
+* Debt
+* Financing Weight
+
+
 
 ### Investment Returns
 
@@ -64,6 +77,9 @@ I would imagine there is a version where each stakeholder acts out of turn.
 
 
 ### Valuation
+
+TODO: @jovsa: come up with the same index here as for corporate finance
+
 
 ## The Financing Decision
 > `How` to make it work? - Decisions around the right mix of debt and equity to fund your operations.
