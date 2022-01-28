@@ -2,7 +2,7 @@
 layout: post
 title: "Thiel Stanford: Sovereignty and the Limits of Globalization and Technology"
 categories: notes
-modified_date: Jan 23, 2022
+modified_date: Jan 28, 2022
 author:
 - Jovan Sardinha
 ---
@@ -31,7 +31,7 @@ In the summer of 1989, just as tanks rolled through Tiananmen Square, but just b
 
 Readings:
 
-* Francis Fukuyama, “The End of History?” in The National Interest (1989) ~25pp
+* [Francis Fukuyama, “The End of History?” in The National Interest (1989)](https://pages.ucsd.edu/~bslantchev/courses/pdf/Fukuyama%20-%20End%20of%20History.pdf) ~25pp
 * Kishore Mahbubani, Has the West Lost It? (2018) ~90pp
 * Stephen R. Platt, "How Britain's First Mission to China Went Wrong" (2018) ~5 pp
 * Norman Angell, title chapter from The Great Illusion (first published 1909; fourth American edition 1913) ~25pp
@@ -42,7 +42,7 @@ Would anybody ever have believed in a single destiny for the whole world without
 
 Readings:
 
-* Genesis 11:1-9 (The Tower of Babel) ~1p
+* [Genesis 11:1-9 (The Tower of Babel)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV) ~1p
 * Karl Lowith, Meaning in History (1949) pp iv-207 ~210pp
 * Revelation 17 (Babylon the Great, the Mother of Harlots) ~1p
 
@@ -86,7 +86,8 @@ Austrian author Ingeborg Bachmann's story explores the subjective experience of 
 
 Readings:
 
-* Ingeborg Bachmann, "Three Paths to the Lake" (1972) ~95pp Benedict XVI, the Regensburg Lecture (2006) ~20pp
+* Ingeborg Bachmann, "Three Paths to the Lake" (1972) ~95pp
+* [Benedict XVI, the Regensburg Lecture (2006)](https://familyofsites.bishopsconference.org.uk/wp-content/uploads/sites/8/2019/07/BXVI-2006-Regensburg-address.pdf) ~20pp
 * Barack Obama, the Cairo Speech (2009) ~13pp K. A. Appiah, “There is No Such Thing as Western Civilization” (2016) ~10pp
 * J. D. Davidson & Lord William Rees-Mogg, "Transcending Locality" (1997) ~29pp
 * Kai-fu Lee, Al Superpowers (2018) ~100pp
