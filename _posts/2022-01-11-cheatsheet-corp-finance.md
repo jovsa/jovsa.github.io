@@ -67,7 +67,7 @@ $$\frac{A}{r}$$
 
 Growing Perpetuity
 
-$$\frac{\textup{Expected cash flow next year}}{r-g}$$
+$$\frac{\text{Expected cash flow next year}}{r-g}$$
 
 * NPV
 * IRR
