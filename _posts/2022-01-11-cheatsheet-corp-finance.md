@@ -50,19 +50,24 @@ I would imagine there is a version where each stakeholder acts out of turn.
 #### Time weighted Incremental Cash Flow
 
 Simple Cash Flow
+
 $$\frac{CF_{n}}{(1+r)^{n}}$$
 
 Annuity
+
 $$A[\frac{1-\frac{1}{(1+r)^n}}{r}]$$
 
 Growing Annuity
+
 $$A(1+g)[\frac{1-\frac{(1+g)^n}{(1+r)^n}}{r-g}]$$
 
 Perpetuity
+
 $$\frac{A}{r}$$
 
 Growing Perpetuity
-$$\frac{Expected_cash_flow_next_year}{r-g}$$
+
+$$\frac{\textup{Expected cash flow next year}}{r-g}$$
 
 * NPV
 * IRR
