@@ -64,42 +64,13 @@ $$\frac{A}{r}$$
 Growing Perpetuity
 $$\frac{Expected_cash_flow_next_year}{r-g}$$
 
+* NPV
+* IRR
+  * Accept if IRR > Hurdle Rate
 
-#### Ratios
+Hedging Risk:
+![risk hedging](/assets/post_assets/cheatsheet-corp-finance/risk_hedging_flowchart.png)
 
-![micro measures](/assets/post_assets/cheatsheet-corp-finance/micro_measures.png)
-
-##### Profitability Ratios
-
-![1](/assets/post_assets/cheatsheet-corp-finance/profitability_1.png)
-![2](/assets/post_assets/cheatsheet-corp-finance/profitability_lifecycle.png)
-
----
-
-![E1](/assets/post_assets/cheatsheet-corp-finance/profitability_example.png)
-
-### Accounting Retios
-
-*Consistency Rule*
-
-![1](/assets/post_assets/cheatsheet-corp-finance/ROE_1.png)
-![2](/assets/post_assets/cheatsheet-corp-finance/ROE_2.png)
-
-### Efficiency Ratios
-
-* Efficiency ratios measure the revenue payoff that companies get from reinvesting back in their businesses.
-* Turnover ratios:
-  * Working Capital Turnover = Sales/ Non-cash Working capital (or individual items of working capital, like inventory or receivables)
-  * Asset Turnover = Sales/ Total Assets
-  * Capital Turnover = Sales/ Invested Capital
-
----
-
-![E1](/assets/post_assets/cheatsheet-corp-finance/efficiency_example.png)
-
-### Valuation
-
-TODO: @jovsa: come up with the same index here as for corporate finance
 
 ## The Financing Decision
 
@@ -149,6 +120,42 @@ TODO: @jovsa: come up with the same index here as for corporate finance
 > `What` to do with returns?  - Decisions around how to return the returns to owners of your business. This should bookend the *investment decision*.
 
 ### Divident Policy
+
+### Valuation
+
+TODO: @jovsa: come up with the same index here as for corporate finance
+
+#### Ratios
+
+![micro measures](/assets/post_assets/cheatsheet-corp-finance/micro_measures.png)
+
+##### Profitability Ratios
+
+![1](/assets/post_assets/cheatsheet-corp-finance/profitability_1.png)
+![2](/assets/post_assets/cheatsheet-corp-finance/profitability_lifecycle.png)
+
+---
+
+![E1](/assets/post_assets/cheatsheet-corp-finance/profitability_example.png)
+
+### Accounting Retios
+
+*Consistency Rule*
+
+![1](/assets/post_assets/cheatsheet-corp-finance/ROE_1.png)
+![2](/assets/post_assets/cheatsheet-corp-finance/ROE_2.png)
+
+### Efficiency Ratios
+
+* Efficiency ratios measure the revenue payoff that companies get from reinvesting back in their businesses.
+* Turnover ratios:
+  * Working Capital Turnover = Sales/ Non-cash Working capital (or individual items of working capital, like inventory or receivables)
+  * Asset Turnover = Sales/ Total Assets
+  * Capital Turnover = Sales/ Invested Capital
+
+---
+
+![E1](/assets/post_assets/cheatsheet-corp-finance/efficiency_example.png)
 
 ## Reference
 
