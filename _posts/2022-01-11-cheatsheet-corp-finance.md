@@ -2,7 +2,7 @@
 layout: post
 title: "Cheatsheet: Corporate Finance"
 categories: notes
-modified_date: Jan 26, 2022
+modified_date: Jan 29, 2022
 author:
 - Jovan Sardinha
 ---
@@ -10,10 +10,10 @@ author:
 ![index](/assets/post_assets/cheatsheet-corp-finance/index.png)
 
 ## The Objective Decision
+
 > The `Why` - ex. max. value of the business
 
 ![objective](/assets/post_assets/cheatsheet-corp-finance/objective.png)
-
 
 Some error cases
 
@@ -22,6 +22,7 @@ Some error cases
 I would imagine there is a version where each stakeholder acts out of turn.
 
 ## The Investment Decision
+
 > `What` to invest in? -  Decisions around finding assets that earn a return greater than the minimum acceptable hurdle.
 
 ### Hurdle Rate
@@ -37,8 +38,31 @@ I would imagine there is a version where each stakeholder acts out of turn.
 * Debt
 * Financing Weight
 
-
 ### Investment Returns
+
+#### Cash flows
+
+* To get from accounting earning to cash flows
+  * Add back non-cash expenses (eg. depreciation)
+  * Subtract out cash outflows (eg. capital expenditures)
+  * Make accrual {revenue, expense} into cash. (eg. consider working capital).
+
+#### Time weighted Incremental Cash Flow
+
+Simple Cash Flow
+$$\frac{CF_{n}}{(1+r)^{n}}$$
+
+Annuity
+$$A[\frac{1-\frac{1}{(1+r)^n}}{r}]$$
+
+Growing Annuity
+$$A(1+g)[\frac{1-\frac{(1+g)^n}{(1+r)^n}}{r-g}]$$
+
+Perpetuity
+$$\frac{A}{r}$$
+
+Growing Perpetuity
+$$\frac{Expected_cash_flow_next_year}{r-g}$$
 
 
 #### Ratios
@@ -53,7 +77,6 @@ I would imagine there is a version where each stakeholder acts out of turn.
 ---
 
 ![E1](/assets/post_assets/cheatsheet-corp-finance/profitability_example.png)
-
 
 ### Accounting Retios
 
@@ -74,13 +97,12 @@ I would imagine there is a version where each stakeholder acts out of turn.
 
 ![E1](/assets/post_assets/cheatsheet-corp-finance/efficiency_example.png)
 
-
 ### Valuation
 
 TODO: @jovsa: come up with the same index here as for corporate finance
 
-
 ## The Financing Decision
+
 > `How` to make it work? - Decisions around the right mix of debt and equity to fund your operations.
 
 ### Financing Mix
@@ -120,20 +142,15 @@ TODO: @jovsa: come up with the same index here as for corporate finance
   * Current ratio, measure current assets relative to current liabilities.
   * Quick ratio, looks at only liquid current assets relative to current liabilities. (Inventory is usually excluded.)
 
-
 ![E1](/assets/post_assets/cheatsheet-corp-finance/coverage_and_liquidity_example.png)
 
-
-
-
-
 ## The Dividend Decision
-> `What` to do with returns?  - Decisions around how to return the returns to owners of your business. This should bookend the *investment decision*.
 
+> `What` to do with returns?  - Decisions around how to return the returns to owners of your business. This should bookend the *investment decision*.
 
 ### Divident Policy
 
-
 ## Reference
+
 * [Applied Corporate Finance A. Damodaran Index](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcastcfonline.htm)
 * [Edgar SEC](https://www.sec.gov/edgar/searchedgar/companysearch.html)
