@@ -83,6 +83,16 @@ Hedging Risk:
 
 ### Financing Mix
 
+#### The Tradeoff
+![debt vs. equity](/assets/post_assets/cheatsheet-corp-finance/debt_vs_equity_comparison.png)
+
+#### The Approach
+
+1. Estimate the **Cost of Equity** at different levels of debt
+2. Estimate the **Cost of Debt** at different levels of debt
+3. Estimate the **Cost of Capital** at different levels of debt
+
+
 ### Financing Type
 
 #### Financial Leverage
