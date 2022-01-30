@@ -95,6 +95,48 @@ Hedging Risk:
 
 ### Financing Type
 
+
+## The Dividend Decision
+
+> `What` to do with returns?  - Decisions around how to return the returns to owners of your business. This should bookend the *investment decision*.
+
+### Divident Policy
+
+## Valuation
+> How to measure something from outside in
+
+![valuation flowchart](/assets/post_assets/cheatsheet-corp-finance/valuation_flowchart.png)
+
+#### Ratios
+
+![micro measures](/assets/post_assets/cheatsheet-corp-finance/micro_measures.png)
+
+##### Profitability Ratios
+
+![1](/assets/post_assets/cheatsheet-corp-finance/profitability_1.png)
+![2](/assets/post_assets/cheatsheet-corp-finance/profitability_lifecycle.png)
+
+---
+
+![E1](/assets/post_assets/cheatsheet-corp-finance/profitability_example.png)
+
+### Accounting Ratios
+
+*Consistency Rule*
+
+![1](/assets/post_assets/cheatsheet-corp-finance/ROE_1.png)
+![2](/assets/post_assets/cheatsheet-corp-finance/ROE_2.png)
+
+### Efficiency Ratios
+
+* Efficiency ratios measure the revenue payoff that companies get from reinvesting back in their businesses.
+* Turnover ratios:
+  * Working Capital Turnover = Sales/ Non-cash Working capital (or individual items of working capital, like inventory or receivables)
+  * Asset Turnover = Sales/ Total Assets
+  * Capital Turnover = Sales/ Invested Capital
+
+![E1](/assets/post_assets/cheatsheet-corp-finance/efficiency_example.png)
+
 #### Financial Leverage
 
 * Debt can be scaled to overall capital or just to equity
@@ -130,49 +172,10 @@ Hedging Risk:
 
 ![E1](/assets/post_assets/cheatsheet-corp-finance/coverage_and_liquidity_example.png)
 
-## The Dividend Decision
-
-> `What` to do with returns?  - Decisions around how to return the returns to owners of your business. This should bookend the *investment decision*.
-
-### Divident Policy
-
-### Valuation
-
-TODO: @jovsa: come up with the same index here as for corporate finance
-
-#### Ratios
-
-![micro measures](/assets/post_assets/cheatsheet-corp-finance/micro_measures.png)
-
-##### Profitability Ratios
-
-![1](/assets/post_assets/cheatsheet-corp-finance/profitability_1.png)
-![2](/assets/post_assets/cheatsheet-corp-finance/profitability_lifecycle.png)
-
----
-
-![E1](/assets/post_assets/cheatsheet-corp-finance/profitability_example.png)
-
-### Accounting Retios
-
-*Consistency Rule*
-
-![1](/assets/post_assets/cheatsheet-corp-finance/ROE_1.png)
-![2](/assets/post_assets/cheatsheet-corp-finance/ROE_2.png)
-
-### Efficiency Ratios
-
-* Efficiency ratios measure the revenue payoff that companies get from reinvesting back in their businesses.
-* Turnover ratios:
-  * Working Capital Turnover = Sales/ Non-cash Working capital (or individual items of working capital, like inventory or receivables)
-  * Asset Turnover = Sales/ Total Assets
-  * Capital Turnover = Sales/ Invested Capital
-
----
-
-![E1](/assets/post_assets/cheatsheet-corp-finance/efficiency_example.png)
 
 ## Reference
 
 * [Applied Corporate Finance A. Damodaran Index](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcastcfonline.htm)
+* [Valuation By A. Damodaran Index](https://www.youtube.com/playlist?list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9)
+  * [link to valuation flowchart](https://docs.google.com/presentation/d/1ZNZWoCQE52wd4ZmJ4_RVgyYjVgISkCnluHtkGIWMbWs/edit#slide=id.p)
 * [Edgar SEC](https://www.sec.gov/edgar/searchedgar/companysearch.html)
