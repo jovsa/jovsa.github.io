@@ -2,7 +2,7 @@
 layout: post
 title: "Cheatsheet: Corporate Finance"
 categories: notes
-modified_date: Jan 29, 2022
+modified_date: Feb 2, 2022
 author:
 - Jovan Sardinha
 ---
@@ -59,7 +59,7 @@ $$A[\frac{1-\frac{1}{(1+r)^n}}{r}]$$
 
 Growing Annuity
 
-$$A(1+g)[\frac{1-\frac{(1+g)^n}{(1+r)^n}}{r-g}]$$
+$$A[1+g](\frac{1-\frac{(1+g)^n}{(1+r)^n}}{r-g})$$
 
 Perpetuity
 
@@ -76,7 +76,6 @@ $$\frac{\text{Expected cash flow next year}}{r-g}$$
 Hedging Risk:
 ![risk hedging](/assets/post_assets/cheatsheet-corp-finance/risk_hedging_flowchart.png)
 
-
 ## The Financing Decision
 
 > `How` to make it work? - Decisions around the right mix of debt and equity to fund your operations.
@@ -84,6 +83,7 @@ Hedging Risk:
 ### Financing Mix
 
 #### The Tradeoff
+
 ![debt vs. equity](/assets/post_assets/cheatsheet-corp-finance/debt_vs_equity_comparison.png)
 
 #### The Approach
@@ -92,17 +92,38 @@ Hedging Risk:
 2. Estimate the **Cost of Debt** at different levels of debt
 3. Estimate the **Cost of Capital** at different levels of debt
 
-
 ### Financing Type
-
 
 ## The Dividend Decision
 
-> `What` to do with returns?  - Decisions around how to return the returns to owners of your business. This should bookend the *investment decision*.
+> `What` to do with returns?  - Decisions around how to return the returns to owners of your business. This should bookend the *investment decision*. More specifically, if you cannot find investments that make your minimum acceptable hurdle rate, return the cash to the owners.
 
 ### Divident Policy
 
+#### Trends and Measures
+
+![index](/assets/post_assets/cheatsheet-corp-finance/steps_to_divident_decision.png)
+
+Stock buybacks vs. dividends
+
+1. Dividends are sticky
+2. Dividends tend to follow earnings
+3. Dividends are affected by tax law: Laws change around this all the time.
+4. More firms do buybacks compared to issuing dividends.
+5 Varies across countries and sectors.
+
+Measures of Dividend Policy
+
+* Dividend Payout Ratio = Dividends / Net Income
+* Dividend Yield = Dividends per share / stock price
+  * Becomes part of the ROI for a stock.
+
+#### The trade offs
+
+1.
+
 ## Valuation
+
 > How to measure something from outside in
 
 ![valuation flowchart](/assets/post_assets/cheatsheet-corp-finance/valuation_flowchart.png)
@@ -115,8 +136,6 @@ Hedging Risk:
 
 ![1](/assets/post_assets/cheatsheet-corp-finance/profitability_1.png)
 ![2](/assets/post_assets/cheatsheet-corp-finance/profitability_lifecycle.png)
-
----
 
 ![E1](/assets/post_assets/cheatsheet-corp-finance/profitability_example.png)
 
@@ -171,7 +190,6 @@ Hedging Risk:
   * Quick ratio, looks at only liquid current assets relative to current liabilities. (Inventory is usually excluded.)
 
 ![E1](/assets/post_assets/cheatsheet-corp-finance/coverage_and_liquidity_example.png)
-
 
 ## Reference
 
