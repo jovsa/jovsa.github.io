@@ -2,7 +2,7 @@
 layout: post
 title: "Cheatsheet: Corporate Finance"
 categories: notes
-modified_date: Feb 2, 2022
+modified_date: Feb 5, 2022
 author:
 - Jovan Sardinha
 ---
@@ -76,7 +76,7 @@ $$\frac{\text{Expected cash flow next year}}{r-g}$$
 Hedging Risk:
 ![risk hedging](/assets/post_assets/cheatsheet-corp-finance/risk_hedging_flowchart.png)
 
-## The Financing Decision
+## The Financing Decision``
 
 > `How` to make it work? - Decisions around the right mix of debt and equity to fund your operations.
 
@@ -94,11 +94,13 @@ Hedging Risk:
 
 ### Financing Type
 
+![perfect finace instrument](/assets/post_assets/cheatsheet-corp-finance/designing_perfect_finance_instrument.png)
+
 ## The Dividend Decision
 
 > `What` to do with returns?  - Decisions around how to return the returns to owners of your business. This should bookend the *investment decision*. More specifically, if you cannot find investments that make your minimum acceptable hurdle rate, return the cash to the owners.
 
-### Divident Policy
+### Dividend Policy
 
 #### Trends and Measures
 
