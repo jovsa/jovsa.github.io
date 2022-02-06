@@ -36,11 +36,29 @@ author:
 
 # Part 3: Economic Calculation
 
-## 11. Valution Without Calculation
+## 11. Valuation Without Calculation
 
-## 12. The Sphere of Economic Calculation
+### 1. The gradation of the means
 
-## 13. Monetary Calcualtion a a Tools of Action
+### 2. The Barter-Fiction of the Elementary Theory of Value and Prices
+
+### 3. The Problem of Economic Calculation
+
+### 4. Economics Calculation and the Market
+
+## 12. The Sphere of Economic
+
+### 1. The Character of Monetary Entries
+### 2. The Limits of Economisc Calculation
+### 3. The Changeability of Prices
+### 4. Stabilization
+### 5. The Root of the Stabilization Idea
+
+## 13. Monetary Calculation a a Tools of Action
+
+### 1. Monetary Calculation as a Method of Thinking
+### 2. Economic Calculation and the Science of Human Action
+
 
 # Part 4: Catallactics or Economics of the Market Society
 
@@ -88,7 +106,7 @@ author:
 
 ## 33. Syndicalism and
 
-## 34. The Econommics of War
+## 34. The Economics of War
 
 ## 35. The Welfare Principle Versus the Market Principle
 
