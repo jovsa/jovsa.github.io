@@ -76,7 +76,7 @@ $$\frac{\text{Expected cash flow next year}}{r-g}$$
 Hedging Risk:
 ![risk hedging](/assets/post_assets/cheatsheet-corp-finance/risk_hedging_flowchart.png)
 
-## The Financing Decision``
+## The Financing Decision
 
 > `How` to make it work? - Decisions around the right mix of debt and equity to fund your operations.
 
