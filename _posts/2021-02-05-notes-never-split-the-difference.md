@@ -7,7 +7,7 @@ author:
 - Jovan Sardinha
 ---
 
-#### Chapter 1: The New Rules
+## Chapter 1: The New Rules
 
 * No matter how we dress up negotiation in mathematical theories, we still act like animals, driven by our fears, needs, perceptions, and desires.
 * The book Getting to Yes assumes that the animalistic, emotional brain could be overcome through a rational, joint problem-solving mindset.
@@ -21,7 +21,7 @@ author:
 * Effective negotiation is sizing someone up, influencing their sizing up of you, and using that knowledge to get what you want.
 * Negotiation is the heart of collaboration, and is what makes conflict potentially meaningful and productive for all parties.
 
-#### Chapter 2: Be a Mirror
+## Chapter 2: Be a Mirror
 
 * Good negotiators expect surprises; great negotiators use their skills to reveal the surprises they are certain exist.
 * Great negotiators question the assumptions that others accept on faith, and thus remain more emotionally open and intellectually agile.
@@ -38,7 +38,7 @@ author:
 * To deal with forceful type A personalities, use the late-night FM DJ voice, start with "I'm sorry," mirror, sit in silence, and repeat.
 * Use mirroring to elicit the same response as "What do you mean by that?" while signaling respect and concern for what the other person is saying.
 
-#### Chapter 3: Don't Feel Their Pain, Label It
+## Chapter 3: Don't Feel Their Pain, Label It
 
 * Traditional negotiating advice says to separate people from the problem, but that's hard when their emotions are the problem.
 * Good negotiators precisely label emotions, belonging to others and themselves, and then talk about them without getting wound up.
@@ -64,7 +64,7 @@ author:
 * Following on the heels of an argument is a great position for a negotiator, because your counterpart is desperate for an empathetic connection.
 * The first goal of these tools is human connection; that they might help you extract what you want is a bonus.
 
-#### Chapter 4: Beware "Yes", Master "No"
+## Chapter 4: Beware "Yes", Master "No"
 
 * "Yes" is often a meaningless answer that hides deeper objections.
 * "No" provides an opportunity for both parties to clarify what they don't want, and is a safe choice that maintains the status quo.
@@ -86,7 +86,7 @@ author:
 * If despite all your efforts, the other party won't say "no," then they are indecisive, confused, or have a hidden agenda. Walk away.
 * If your emails are being ignored, provoke a "no" with the one sentence email: "Have you given up on this project?"
 
-#### Chapter 5: Trigger the Two Words That Immediately Transform Any Negotiation
+## Chapter 5: Trigger the Two Words That Immediately Transform Any Negotiation
 
 * Psychologist Carl Rogers proposed unconditional positive regard, or that real change can only come when the therapist accepts the client as he or she really is.
 * But because most of us experience conditional positive regard, we instead calibrate our words to gain approval but disclosing little.
@@ -96,7 +96,7 @@ author:
 * If your adversaries say "you're right," then they won't own the conclusion. Their behavior won't change.
 * "You're right," like "yes," is a social lubricant that is not in any way a substitute for real understanding between two parties.
 
-#### Chapter 6: Bend Their Reality
+## Chapter 6: Bend Their Reality
 
 * Negotiation is never a linear formula. We all have irrational blind spots, hidden needs, and undeveloped notions.
 * There are always ways to bend our counterpart's reality so that it conforms to what we ultimately want to give them, not to what they initially think they deserve.
@@ -129,7 +129,7 @@ author:
 * Once you've negotiated a salary, define success for your position, as well as metrics for your next raise.
 * By selling yourself and your success as a way your boss can validate his own intelligence and sell it to the rest of the company, he'll have a stake in your success.
 
-#### Chapter 7: Create The Illusion Of Control
+## Chapter 7: Create The Illusion Of Control
 
 * Successful negotiation involves the illusion of control: Having your counterpart do the work for you and suggesting your solution himself.
 * The calibrated, or open-ended, question acknowledges the other side openly, while letting you introduce ideas and requests without sounding pushy.
@@ -137,7 +137,7 @@ author:
 * The calibrated question forces the other party to pause and actually think about how to solve the problem.
 * The counterpart solves the problem, and so it gives him the illusion of control. Additionally, there is no reciprocity involved.
 * Giving the illusion of control like this suspends "unbelief," or complete rejection to what the other side is saying.
-* The greatest calibrated question "How am I supposed to do that?" transforms confrontational showdowns into joint problem-solving sessions.
+* The greatest calibrated, open-ended question "How am I supposed to do that?" transforms confrontational showdowns into joint problem-solving sessions.
 * Calibrated questions take the aggression out because they are subject to interpretation by your counterpart instead of being rigidly defined.
 * They have the power to educate your counterpart on what the problem is rather than causing conflict by telling them what the problem is.
 * Calibrated questions avoid "can," "is," "are," "do," or "does," which can be answered with a simple "yes" or "no."
@@ -152,7 +152,7 @@ author:
 * Also, when you are verbally assaulted, do not counterattack. Instead disarm your opponent by asking a calibrated question.
 * The hostage mentality says that in moments of conflict, we react to lack of power by either becoming extremely defensive or lashing out.
 
-#### Chapter 8: Guarantee Execution
+## Chapter 8: Guarantee Execution
 
 * Your job isn't just to get to an agreement, but to get to one that can be implemented and making sure that it happens.
 * "How" questions, correctly used, are gentle and graceful ways to say "no" and guide your counterpart to develop a solution that's your own.
@@ -175,7 +175,7 @@ author:
 * The phrase "I'm sorry but I'm afraid I just can't do that" is a third way, and is a little more direct.
 * The art of closing a deal is staying focused to the very end.
 
-#### Chapter 9: Bargain Hard
+## Chapter 9: Bargain Hard
 
 * The bargaining step produces the most anxiety and unfocused aggression, which is why it's more fumbled and mishandled than any other step.
 * You and your counterpart have habits of mind and behavior, and once you identify them you can leverage them in a strategic manner.
@@ -201,7 +201,7 @@ author:
 * Ackerman bargaining: Set your target price as a nonround number, then offer 65, 85, 95, 100 percent. Use empathy in between offers. On your final offer, throw in a non-monetary item.
 * People getting concessions often feel better about the bargaining process than those who are given a single, firm, "fair" offer.
 
-#### Chapter 10: Find The Black Swan
+## Chapter 10: Find The Black Swan
 
 * Black Swan theory tells us that things happen that were previously thought to be impossible, or never thought of at all.
 * Black Swans are events or pieces of knowledge that sit outside of our regular expectations and therefore cannot be predicted.
