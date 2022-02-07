@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: 3 Act Story Structure"
 categories: notes
-modified_date: Jan 23, 2022
+modified_date: Feb 06, 2022
 author:
 - Jovan Sardinha
 ---
@@ -46,3 +46,15 @@ References:
 ## Examples
 
 * [H&M](https://www.youtube.com/watch?v=kFsI1uK9q44)
+
+
+
+---
+
+Rough notes:
+
+Cold Open: X Is not worth it
+Act 1:
+
+* This thread is long, but here is the main takeaway
+* SCQ: or S [a few YESes], Complication is the main one... and then jump directly to the Proposition
