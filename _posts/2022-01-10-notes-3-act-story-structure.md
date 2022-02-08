@@ -58,3 +58,35 @@ Act 1:
 
 * This thread is long, but here is the main takeaway
 * SCQ: or S [a few YESes], Complication is the main one... and then jump directly to the Proposition
+
+---
+Peter Theil Debate:
+* Challange the problem or reframe it
+* Refrance the problem as "what" and "how" `calibrated questions`.
+* Talk about complication. Everthing before this was `situation`.
+* Propose a Question or state the solution and walk them though.
+
+
+---
+What is a short story?
+* It's all about that specific fix
+
+* Structure:
+  * Milieu
+    * `starts` when chaterter enters a place. `Ends` when character leaves a place.
+    * Anything that prevents the character from leaving the place is **conflict**.
+  * Inquiry:
+    * `starts` Aroo? . Ends `Aha`!
+    * Conflict = Anyting that add more confusion
+  * Character
+    * Starts from a sad point in a character. `Ends` when the character find peace.
+    * This is more an internal conflict.
+  * Event
+    * Similar to `Character`, but here the conflict is external.
+* You can nest `Structure`.
+  * Wizard of oz `<C><E><M><I></I></M></E></C>`
+  * You can even close a story that you haven't started yet. Ex. Lord of the Rings.
+* Detials:
+  * Who: What is the user doing?
+  * Where: The user wants to know where they are. So add some sensory details.
+
