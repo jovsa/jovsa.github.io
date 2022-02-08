@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: 3 Act Story Structure"
 categories: notes
-modified_date: Feb 06, 2022
+modified_date: Feb 07, 2022
 author:
 - Jovan Sardinha
 ---
@@ -64,14 +64,14 @@ Peter Theil Debate:
 * Challange the problem or reframe it
 * Refrance the problem as "what" and "how" `calibrated questions`.
 * Talk about complication. Everthing before this was `situation`.
-* Propose a Question or state the solution and walk them though.
+* Propose a Question or state the solution and walk them though. Should be a pitty twitter quote.
 
 
 ---
 What is a short story?
 * It's all about that specific fix
 
-* Structure:
+* Structure (Mice Threads):
   * Milieu
     * `starts` when chaterter enters a place. `Ends` when character leaves a place.
     * Anything that prevents the character from leaving the place is **conflict**.
@@ -83,10 +83,26 @@ What is a short story?
     * This is more an internal conflict.
   * Event
     * Similar to `Character`, but here the conflict is external.
+    * Change the status quo.
 * You can nest `Structure`.
   * Wizard of oz `<C><E><M><I></I></M></E></C>`
   * You can even close a story that you haven't started yet. Ex. Lord of the Rings.
-* Detials:
-  * Who: What is the user doing?
+* How to start:
+  * Who: What is the user doing? or some reflection.
   * Where: The user wants to know where they are. So add some sensory details.
+* Size:
+  * $$L = \frac{(C+S)750*M}{1.5} $$
+  * where:
+    * L = Length of story
+    * C = Characters
+    * S = Stage
+    * M = Mice Threads
+* Conflict
+  * Try and Fail cycle
+    * Yes, but (going forward); No, and (going backward).
+* Resolution
+  * Start solving in the 3/4 mark.
+  * Yes and, No but.
+* Sanderson Pyramid of abstrction:
+  Ground with concrete then go up.
 
