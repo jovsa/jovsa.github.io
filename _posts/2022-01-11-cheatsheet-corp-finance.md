@@ -2,7 +2,7 @@
 layout: post
 title: "Cheatsheet: Corporate Finance"
 categories: notes
-modified_date: Feb 5, 2022
+modified_date: Feb 9, 2022
 author:
 - Jovan Sardinha
 ---
@@ -35,6 +35,10 @@ I would imagine there is a version where each stakeholder acts out of turn.
 * Regression Betas
   * Top-down betas (regression betas)
   * Bottom-up betas
+    * Lever up an unlevered beta with the debt/equity
+    * Important Ratios:
+      * Firm Value = Market value of Equity + Debt
+      * Enterprise Value = Firm Value - Cash
 * Debt
 * Financing Weight
 
