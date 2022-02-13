@@ -8,19 +8,21 @@ author:
 ---
 
 ### Weekly Update Emails
+
 > Execution tool
 
 * [Exmaple]<https://twitter.com/pvukovic/status/1491319446535028736>()
 
 ### Technical Design Documents
+
 > Execution tool
 
 * [Technical Reports](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB&topic_id=1)
 * [Anatomy of a design doc](https://www.industrialempathy.com/posts/design-docs-at-google/)
   * [Design docs - A design doc](https://www.industrialempathy.com/posts/design-doc-a-design-doc/)
 
-
 ### 6 pagers
+
 > Selling tool
 
 * [OP1 Document](https://medium.com/intrico-io/strategic-tool-op1-document-4cfb6da41d5a)
@@ -40,6 +42,7 @@ author:
 * [6 Pager Example](https://docs.google.com/document/d/1LPh1LWx1z67YFo67DENYUGBaoKk39dtX7rWAeQHXzhg/edit)
 
 ### Pitches
+
 > Selling tool
 
 1. Here's how the world works today.
