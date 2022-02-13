@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: 3 Act Story Structure"
 categories: notes
-modified_date: Feb 07, 2022
+modified_date: Feb 12, 2022
 author:
 - Jovan Sardinha
 ---
@@ -62,10 +62,16 @@ Act 1:
 ---
 Peter Theil Debate:
 * Challange the problem or reframe it
-* Refrance the problem as "what" and "how" `calibrated questions`.
+* Reframe the problem as "what" and "how" `calibrated questions`.
 * Talk about complication. Everthing before this was `situation`.
-* Propose a Question or state the solution and walk them though. Should be a pitty twitter quote.
+* Propose a Question.
+  * What would it take to make television feel like superbowl ever day? [Shishir](https://youtu.be/lbfu6u0EIOE?t=1102)
+* State the solution and walk them though. Should be a pitty twitter quote
 
+
+[Eigenquestions: The Art of Framing Problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
+* Code Open
+*
 
 ---
 What is a short story?
