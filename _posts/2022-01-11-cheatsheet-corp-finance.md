@@ -68,12 +68,6 @@ I would imagine there is a version where each stakeholder acts out of turn.
       * Ex. expenses around sales that go below the revenue and are used in the COGS.
     * Capital Expenses: Expenses designed to create a benefit over many periods (ex. years).
       * If you have a big investment expense you spread them out over many years and write them as depreciation/amortization.
-        * The *depreciation/amortization tax benefit*: The higher the tax rate, the higher the benefit from depreciation/amortization. Hence, most high tax companies delay their expense by putting it into depreciation/amortization.
-        * Two way to depreciate/amortization an asset:
-          * 1. Straight line depreciation
-            * improves EPS
-          * 2. Accelerated depreciation
-            * improves cash flow
     * Financial Expense: Expenses that are associated with the use of debt.
       * These show below *operating income* line and are used to go from *operating income* to *net income*
 
@@ -81,10 +75,27 @@ I would imagine there is a version where each stakeholder acts out of turn.
 
 * To get from accounting earning to cash flows
   * Add back non-cash expenses (eg. depreciation and amortization). Since we haven't incurred this expense.
+    * considerations:
+      * The *depreciation/amortization tax benefit*: The higher the tax rate, the higher the benefit from depreciation/amortization. Hence, most high tax companies delay their expense by putting it into depreciation/amortization.
+        * Two way to depreciate/amortization an asset:
+          * 1. Straight line depreciation
+            * improves EPS
+          * 2. Accelerated depreciation
+            * improves cash flow
   * Subtract out cash outflows (eg. capital expenditures).
+    * considerations:
+      * to expense or capitalize/depreciate/amortization an cap ex?
+        * Expensing will give you tax benefit since you can get the tax cut right away. Capitalize/Depreciate/amortization will improve cash flow.
   * Make accrual accounting into cash.
     * Add back working capital expense - since you haven't incurred it yet.
     * Subtract out working capital income - since your haven't incurred it yet.
+    * considerations:
+      * Increase in working capital reduces cash flow in that year and vice versa.
+  * Other consideration:
+    * Do not consider sunk costs: costs already incurred
+    * Do not consider allocated costs: costs that you would incur irrespective if the project was being done.
+    * Do not include G&A (General and Administrative) costs: Since these are costs that are not part of the investment.
+      * Non G&A costs are costs that increase as part of this investment.
 
 #### Time weighted Incremental Cash Flow
 
@@ -108,9 +119,17 @@ Growing Perpetuity
 
 $$\frac{\text{Expected cash flow next year}}{r-g}$$
 
-* NPV
-* IRR
-  * Accept if IRR > Hurdle Rate
+* Two ways to calculate time weighted returns:
+  * NPV
+    * Accept if NPV > 0
+  * IRR
+    * Accept if IRR > Hurdle Rate
+* Notes:
+  * NPV of a project is the amount of value a project will add to your firm.
+  * If you were to plot the NVP vs. Discount rate to find your IRR. It tells you how sensative your NVP is to your discount rate. Hence, if two projects have the same IRR but one has a steaper line, you pick the one with the flatter line. Hence, this is a secondary measure of risk.
+  * A project can only have one NPV, whereas it can have more than one IRR.
+  * NPV is a dollar surplus, whereas IRR is a % measure of return. Hence, NPV is likely to be larger for "larger projects" while IRR is larger for "smaller projects".
+  * NPV assumes that itermediate cash flow gets invested re-invested at the "hurdle rate", while IRR assumes that these cash flows get re-invested at the hurdle rate.
 
 Hedging Risk:
 ![risk hedging](/assets/post_assets/cheatsheet-corp-finance/risk_hedging_flowchart.png)
