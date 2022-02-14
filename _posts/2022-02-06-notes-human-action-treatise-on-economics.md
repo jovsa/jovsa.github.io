@@ -7,8 +7,25 @@ author:
 - Jovan Sardinha
 ---
 
+[summary from the Mises Institute](https://mises.org/library/human-action-chapter-chapter-summary)
 
 ## Introduction
+
+### 1. Economics and Praxiology
+
+* Out of the political economy of the classical school emerges the general theory of human action, praxeology.
+
+1. The economic or catallactic problems
+2. Are embedded in a more general science, and can no longer be severed from this connection.
+
+* No treatment of economic problems proper can avoid starting from acts of choice; economics becomes a part, although the hitherto best elaborated part, of a more universal science, praxeology.
+
+### 2. The Epistemological Problem of a General Theory of Human Action
+
+
+### 3. Economic Theory and the Practice of Human Action
+
+### 4. Resume
 
 # Part 1: Human Action
 
@@ -49,16 +66,20 @@ author:
 ## 12. The Sphere of Economic
 
 ### 1. The Character of Monetary Entries
+
 ### 2. The Limits of Economisc Calculation
+
 ### 3. The Changeability of Prices
+
 ### 4. Stabilization
+
 ### 5. The Root of the Stabilization Idea
 
 ## 13. Monetary Calculation a a Tools of Action
 
 ### 1. Monetary Calculation as a Method of Thinking
-### 2. Economic Calculation and the Science of Human Action
 
+### 2. Economic Calculation and the Science of Human Action
 
 # Part 4: Catallactics or Economics of the Market Society
 

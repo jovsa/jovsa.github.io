@@ -2,14 +2,14 @@
 layout: post
 title: "Cheatsheet: Corporate Finance"
 categories: notes
-modified_date: Feb 9, 2022
+modified_date: Feb 13, 2022
 author:
 - Jovan Sardinha
 ---
 
 ![index](/assets/post_assets/cheatsheet-corp-finance/index.png)
 
-## The Objective Decision
+## 1. The Objective Decision
 
 > The `Why` - ex. max. value of the business
 
@@ -21,35 +21,70 @@ Some error cases
 
 I would imagine there is a version where each stakeholder acts out of turn.
 
-## The Investment Decision
+## 2. The Investment Decision
 
 > `What` to invest in? -  Decisions around finding assets that earn a return greater than the minimum acceptable hurdle.
 
-### Hurdle Rate
+### 2.1 Hurdle Rate
 
-* Risk Free Rate
-* Equity Risk Premium
-  * Implied ERP
-  * Country Risk
-  * Company Risk
-* Regression Betas
-  * Top-down betas (regression betas)
-  * Bottom-up betas
-    * Lever up an unlevered beta with the debt/equity
-    * Important Ratios:
-      * Firm Value = Market value of Equity + Debt
-      * Enterprise Value = Firm Value - Cash
-* Debt
-* Financing Weight
+#### 2.1.1 Risk Free Rate
 
-### Investment Returns
+#### 2.1.2 Risk Premium
+
+* Implied ERP
+* Country Risk
+* Company Risk
+
+#### 2.1.3 Betas
+
+* Top-down betas (regression betas)
+* Bottom-up betas
+  * Lever up an unlevered beta with the debt/equity
+  * Important Ratios:
+    * Firm Value = Market value of Equity + Debt
+    * Enterprise Value = Firm Value - Cash
+  * Beta_levered = Beta_unlevered(1+[(1-t)D/E])
+    * where:
+      * Beta_levered = Levered or Equity Beta
+      * Beta_unlevered = unlevered or Asset Beta
+      * t = Marginal tax rate
+      * D = Market value of Debt
+      * E = Market value of Equity
+
+#### 2.1.4 Cost of Equity
+
+#### 2.1.5 Cost of Debt
+
+#### 2.1.6 Financing Weight
+
+### 2.2 Investment Returns
+
+* Issues for *Accounting* numbers for investments:
+  * [Issue 1]: Accurual vs. Cash Accounting
+    * Accural Accounting: Recording transaction as they happen irrespective of when you got paid for that transaction.
+    * Cash Accounting: Based on what you actually have.
+  * [Issue 2]: Types of expenses:
+    * Operating Expense: Expenses designed to create a return in the current period (ex. year).
+      * Ex. expenses around sales that go below the revenue and are used in the COGS.
+    * Capital Expenses: Expenses designed to create a benefit over many periods (ex. years).
+      * If you have a big investment expense you spread them out over many years and write them as depreciation/amortization.
+        * The *depreciation/amortization tax benefit*: The higher the tax rate, the higher the benefit from depreciation/amortization. Hence, most high tax companies delay their expense by putting it into depreciation/amortization.
+        * Two way to depreciate/amortization an asset:
+          * 1. Straight line depreciation
+            * improves EPS
+          * 2. Accelerated depreciation
+            * improves cash flow
+    * Financial Expense: Expenses that are associated with the use of debt.
+      * These show below *operating income* line and are used to go from *operating income* to *net income*
 
 #### Cash flows
 
 * To get from accounting earning to cash flows
-  * Add back non-cash expenses (eg. depreciation)
-  * Subtract out cash outflows (eg. capital expenditures)
-  * Make accrual {revenue, expense} into cash. (eg. consider working capital).
+  * Add back non-cash expenses (eg. depreciation and amortization). Since we haven't incurred this expense.
+  * Subtract out cash outflows (eg. capital expenditures).
+  * Make accrual accounting into cash.
+    * Add back working capital expense - since you haven't incurred it yet.
+    * Subtract out working capital income - since your haven't incurred it yet.
 
 #### Time weighted Incremental Cash Flow
 
@@ -80,11 +115,11 @@ $$\frac{\text{Expected cash flow next year}}{r-g}$$
 Hedging Risk:
 ![risk hedging](/assets/post_assets/cheatsheet-corp-finance/risk_hedging_flowchart.png)
 
-## The Financing Decision
+## 3. The Financing Decision
 
 > `How` to make it work? - Decisions around the right mix of debt and equity to fund your operations.
 
-### Financing Mix
+### 3.1 Financing Mix
 
 #### The Tradeoff
 
@@ -96,15 +131,15 @@ Hedging Risk:
 2. Estimate the **Cost of Debt** at different levels of debt
 3. Estimate the **Cost of Capital** at different levels of debt
 
-### Financing Type
+### 3.2 Financing Type
 
 ![perfect finace instrument](/assets/post_assets/cheatsheet-corp-finance/designing_perfect_finance_instrument.png)
 
-## The Dividend Decision
+## 4. The Dividend Decision
 
 > `What` to do with returns?  - Decisions around how to return the returns to owners of your business. This should bookend the *investment decision*. More specifically, if you cannot find investments that make your minimum acceptable hurdle rate, return the cash to the owners.
 
-### Dividend Policy
+### 4.1 Dividend Policy
 
 #### Trends and Measures
 
@@ -128,10 +163,11 @@ Measures of Dividend Policy
 
 1.
 
-## Valuation
+## 5. Valuation
 
 > How to measure something from outside in
 
+TODO (jovsa): Breakdown `5. Valuation` like the other 1-4 sections as per the following chart:
 ![valuation flowchart](/assets/post_assets/cheatsheet-corp-finance/valuation_flowchart.png)
 
 #### Ratios
@@ -200,6 +236,7 @@ Measures of Dividend Policy
 ## Reference
 
 * [Applied Corporate Finance A. Damodaran Index](http://people.stern.nyu.edu/adamodar/New_Home_Page/webcastcfonline.htm)
+  * [Applied Corporate Finance: 3rd Edition](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/ACF3E/appldCF3E.htm)
 * [Valuation By A. Damodaran Index](https://www.youtube.com/playlist?list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9)
   * [link to valuation flowchart](https://docs.google.com/presentation/d/1ZNZWoCQE52wd4ZmJ4_RVgyYjVgISkCnluHtkGIWMbWs/edit#slide=id.p)
 * [Edgar SEC](https://www.sec.gov/edgar/searchedgar/companysearch.html)
