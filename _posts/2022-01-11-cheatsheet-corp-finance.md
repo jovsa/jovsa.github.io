@@ -2,7 +2,7 @@
 layout: post
 title: "Cheatsheet: Corporate Finance"
 categories: notes
-modified_date: Feb 13, 2022
+modified_date: Feb 15, 2022
 author:
 - Jovan Sardinha
 ---
@@ -87,8 +87,7 @@ I would imagine there is a version where each stakeholder acts out of turn.
       * to expense or capitalize/depreciate/amortization an cap ex?
         * Expensing will give you tax benefit since you can get the tax cut right away. Capitalize/Depreciate/amortization will improve cash flow.
   * Make accrual accounting into cash.
-    * Add back working capital expense - since you haven't incurred it yet.
-    * Subtract out working capital income - since your haven't incurred it yet.
+    * Subtract/Add expenses & income that your haven't incurred yet.
     * considerations:
       * Increase in working capital reduces cash flow in that year and vice versa.
   * Other consideration:
