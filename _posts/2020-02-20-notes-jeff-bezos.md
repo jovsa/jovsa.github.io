@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Jeff Bezos"
 categories: notes
-modified_date: "March 05, 2021"
+modified_date: "Feb 15, 2022"
 author:
 - Jovan Sardinha
 ---
@@ -86,10 +86,12 @@ author:
 * Failure should help build judgement that you can use in long term value.
 * [The Structure of 'Unstructured' Decision Process](https://pdfs.semanticscholar.org/699d/a9ee4cc772e8f8a8a273d40b56301487a560.pdf?_ga=2.264513292.2065806509.1615079967-1910542862.1615079967): This is a 1976 paper by Henry Mintzberg et al. where they look at how institutions make "unstructured" decisions as opposed to "operating" decisions.
 
-#### 2006: Nurture your seedlings to build big lines of business
+#### 2006: Nurture your seedlings to build big lines of
 
-
-
+* 3 things required to start a new business, all of which require 10x improvement:
+  * Future Incremental Free Cash Flows
+  * A need that is under-served
+  * You have an advantage to do it better
 
 
 ### Life and Work
