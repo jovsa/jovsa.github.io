@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: 3 Act Story Structure"
 categories: notes
-modified_date: Feb 12, 2022
+modified_date: Feb 18, 2022
 author:
 - Jovan Sardinha
 ---
@@ -68,6 +68,21 @@ Peter Theil Debate:
   * What would it take to make television feel like superbowl ever day? [Shishir](https://youtu.be/lbfu6u0EIOE?t=1102)
 * State the solution and walk them though. Should be a pitty twitter quote
 
+---
+Chamath
+
+* hook = catchphrase or short story
+* How it extend to our world (or the problem that you are trying to solve).
+  * Keep on extending on multiple cases.
+* Key insight:
+  * How this relates to key players
+  * This is the "first" step in something bigger
+* Examples
+* Counter Example
+* Restate insight
+* How this is usefull to think.
+
+---
 
 [Eigenquestions: The Art of Framing Problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
 * Code Open
