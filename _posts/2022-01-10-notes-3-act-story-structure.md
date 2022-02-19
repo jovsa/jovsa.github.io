@@ -59,6 +59,7 @@ Act 1:
 * This thread is long, but here is the main takeaway
 * SCQ: or S [a few YESes], Complication is the main one... and then jump directly to the Proposition
 
+
 ---
 Peter Theil Debate:
 * Challange the problem or reframe it
@@ -82,11 +83,43 @@ Chamath
 * Restate insight
 * How this is usefull to think.
 
+--
+* [public speaking](https://www.youtube.com/watch?v=k8GvTgWtR7o)
+  * Engaging with the audience: you think X, but guess what?
+
+---
+Jordan Peterson
+
+References:
+  * [Ben Shapiro](https://www.youtube.com/watch?v=JY5t6iUzajk&t)
+  * [5 Psychological Tricks To Win Any Argument](https://www.youtube.com/watch?v=IGACRHlzwx8)
+
+* start with agreement
+* Build rapor
+* Snuk premise
+* Reframe the problem away from the personal
+  * don't use "it seem like"
+  * ask, image if you could, or what you are doing
+
+---
+
+Kevin P.
+
+* [Becoming President.](https://www.youtube.com/watch?v=KDIHQ8tbmP0&t)
+* The problem: create fear (or finding fear) or find HOPE
+  * Not doing x is fear of y
+* A representation of the fear: Find a scapegoat
+  * The reason why y-fear or hope does not exist
+* Find conformity (sign of where people can look): Those who support you, can visually see conformity
+  * Visual symbols needed
+* Show how you/solution is the only way to solve the original problem
+  * use short buzzword phrases
+
 ---
 
 [Eigenquestions: The Art of Framing Problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
-* Code Open
-*
+* Code Open is the best here
+
 
 ---
 What is a short story?
