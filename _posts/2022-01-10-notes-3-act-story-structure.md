@@ -86,7 +86,7 @@ Chamath
 --
 * [public speaking](https://www.youtube.com/watch?v=k8GvTgWtR7o)
   * Engaging with the audience: you think X, but guess what?
-    * Provocative question: You think this? Well, guess what
+    * Provocative question: You think this? Well, guess what. Then drop something new
 
 ---
 Jordan Peterson
