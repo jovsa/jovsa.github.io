@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: 3 Act Story Structure"
 categories: notes
-modified_date: Feb 18, 2022
+modified_date: Feb 23, 2022
 author:
 - Jovan Sardinha
 ---
@@ -86,6 +86,7 @@ Chamath
 --
 * [public speaking](https://www.youtube.com/watch?v=k8GvTgWtR7o)
   * Engaging with the audience: you think X, but guess what?
+    * Provocative question: You think this? Well, guess what
 
 ---
 Jordan Peterson
