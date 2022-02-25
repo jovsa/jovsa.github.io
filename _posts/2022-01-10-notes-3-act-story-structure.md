@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: 3 Act Story Structure"
 categories: notes
-modified_date: Feb 23, 2022
+modified_date: Feb 24, 2022
 author:
 - Jovan Sardinha
 ---
@@ -120,6 +120,12 @@ Kevin P.
 
 [Eigenquestions: The Art of Framing Problems](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems)
 * Code Open is the best here
+
+---
+
+
+*[Steve Jobs at MIT](https://www.youtube.com/watch?v=Gk-9Fd2mEnI&t)
+* Simple visual methphor and wrap a story around it
 
 
 ---
