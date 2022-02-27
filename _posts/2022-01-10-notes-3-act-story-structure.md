@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: 3 Act Story Structure"
 categories: notes
-modified_date: Feb 24, 2022
+modified_date: Feb 26, 2022
 author:
 - Jovan Sardinha
 ---
@@ -126,6 +126,43 @@ Kevin P.
 
 *[Steve Jobs at MIT](https://www.youtube.com/watch?v=Gk-9Fd2mEnI&t)
 * Simple visual methphor and wrap a story around it
+
+---
+
+[Ryan Breslow](https://twitter.com/theryanking/status/1491581665419931648)
+
+* Start
+  * Provocative statement
+    * Bet you didn't think so
+    * You though X, I'll prove Y is better
+  * Ensure reader it's worth their time going though this
+* Middle
+  * Make it personal
+  * Conflict -> Adds to the *WHY* *THE PROBLEM*
+    * The Kicker
+    * Reveal forces "Snuk premise"
+  * Why is this different
+  * Pretty bad right? But it gets worse
+  * Truisms
+  * Learnings
+* Call to Action
+  * Show them why you are the solution
+    * Show signs of progress
+  * Show why you are different
+  * "guarente execution"
+
+
+Themes he focuses on:
+
+* Investigatives (Deep dives)
+* Uplifting
+* Practical (Step by step guide)
+* Opinion (Ex. why we did X)
+
+
+
+
+
 
 
 ---
