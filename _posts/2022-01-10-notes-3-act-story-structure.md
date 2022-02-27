@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: 3 Act Story Structure"
 categories: notes
-modified_date: Feb 26, 2022
+modified_date: Feb 27, 2022
 author:
 - Jovan Sardinha
 ---
@@ -159,12 +159,6 @@ Themes he focuses on:
 * Practical (Step by step guide)
 * Opinion (Ex. why we did X)
 
-
-
-
-
-
-
 ---
 What is a short story?
 * It's all about that specific fix
@@ -201,6 +195,23 @@ What is a short story?
 * Resolution
   * Start solving in the 3/4 mark.
   * Yes and, No but.
-* Sanderson Pyramid of abstrction:
+* Sanderson Pyramid of abstraction:
   Ground with concrete then go up.
+
+---
+
+* Average Page = 500 words
+* Average Reading Speed = 250 words a minute
+  * Hence, 1/2 a page a minute or 1 page every 2 minutes.
+* Average attention span = (8-12) seconds. Let's assume its' 10s.
+  * Hence, in 10s you can read ~40 words in one attention span
+* On average, text contains, 5-7 characters per word.
+  * Hence, around 200 - 280 characters per attention span.
+    * That is the limit of a tweet.
+* If one tweet is 200-280 characters, that's  [40, 60] words per tweet.
+* That's 4 - 6 tweets per page -> related to a twitter thread
+  * Calls to actions, don't count.
+  * Setups threads don't count (as much).
+  * Maybe an ideal thread is 4 min read? Hence, 8-12 tweets long?
+
 
