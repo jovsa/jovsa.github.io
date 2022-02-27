@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Never Split the Difference by Chris Voss"
 categories: notes
-modified_date: Feb 05, 2022
+modified_date: Feb 26, 2022
 author:
 - Jovan Sardinha
 ---
@@ -84,6 +84,10 @@ author:
 * No is not an abuse of power, an act of rejection, a manifestation of stubbornness, or the end of a negotiation.
 * If the other party is not listening, antagonize them into "no" by mislabeling their emotions or desires, or by asking what they don't want.
 * If despite all your efforts, the other party won't say "no," then they are indecisive, confused, or have a hidden agenda. Walk away.
+* Strategies
+  * Label what they don't want
+    * "Let's start with things you don't want"
+  * Mislabel their emotions/desires.
 * If your emails are being ignored, provoke a "no" with the one sentence email: "Have you given up on this project?"
 
 ## Chapter 5: Trigger the Two Words That Immediately Transform Any Negotiation
