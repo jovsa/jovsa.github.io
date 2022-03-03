@@ -30,6 +30,7 @@ Offence
         * Future = Choices
       * [Aristotles enthymeme](https://plato.stanford.edu/entries/aristotle-rhetoric/#6.3)
     * arrangement
+      * Ethos -> Logos -> Pathos
     * style
     * memory
     * delivery
