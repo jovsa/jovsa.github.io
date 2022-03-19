@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: The Republic of Science: Its Political and Economic Theory Michael Polanyi"
 categories: notes
-modified_date: Mar 12, 2022
+modified_date: Mar 19, 2022
 author:
 - Jovan Sardinha
 ---
@@ -75,6 +75,7 @@ distinguished scientists of the country, and it decided--in the words officially
 would no longer be conducted for itself as an end in itself. Reports from Soviet Russia describing the successful
 conduct of scientific research according to plans laid down by the Academy of Science with a view to supporting the
 economic Five-Year Plans encouraged this resolution.
+
 I appreciate the generous sentiments which actuate the aspiration of guiding the progress of science into socially
 beneficent channels, but I hold its aim to be impossible and indeed nonsensical.
 An example will show what I mean by this impossibility. In January 1945, Lord Russell and I were together on the
@@ -122,14 +123,15 @@ Committees along with a report of previous discussions of proposals by the Counc
 report acknowledged that the co-ordination of the pursuit of higher studies in the universities was defective
 ('haphazard') and endorsed the project for periodic, most likely annual, surveys of gaps and redundancies by the Royal
 Society. The members of the Sectional Committees were asked to prepare, for consideration by a forthcoming meeting
-of the Council, lists of subjects suffering from neglect. Faced with this request, which I considered at the best pointless, I wrote to the Physical Secretary (the late Sir Alfred
-Egerton) to express my doubts. I argued that the present practice of filling vacant chairs by the most eminent candidate
-that the university can attract was the best safeguard for rational distribution of efforts over rival lines of scientific
-research. As an example (which should appeal to Sir Charles Darwin as a physicist) I recalled the successive
-appointments to the chair of physics in Manchester during the past thirty years. Manchester had elected to this chair
-Schuster, Rutherford, W. L. Bragg and Blackett, in this sequence, each of whom represented at the time a 'rare' section
-of physics: spectroscopy, radioactivity, X-ray crystallography, and cosmicrays, respectively. I affirmed that Manchester
-had acted rightly and that they would have been ill-advised to pay attention to the claims of subjects which had not
+of the Council, lists of subjects suffering from neglect. Faced with this request, which I considered at the best pointless,
+I wrote to the Physical Secretary (the late Sir Alfred Egerton) to express my doubts. I argued that the present practice of
+filling vacant chairs by the most eminent candidate that the university can attract was the best safeguard for rational
+distribution of efforts over rival lines of scientificresearch. As an example (which should appeal to Sir Charles
+Darwin as a physicist) I recalled the successive appointments to the chair of physics in Manchester during the past
+thirty years. Manchester had elected to this chair Schuster, Rutherford, W. L. Bragg and Blackett, in this sequence,
+each of whom represented at the time a 'rare' section of physics: spectroscopy, radioactivity,
+X-ray crystallography, and cosmicrays, respectively. I affirmed that Manchester had acted rightly and that
+they would have been ill-advised to pay attention to the claims of subjects which had not
 produced at the time men of comparable ability. For the principal criterion for offering increased opportunities to a new
 subject was the rise of a growing number of distinguished scientists in that subject and the falling off of creative
 initiative in other subjects, indicating that resources should be withdrawn from them. While admitting that on certain
