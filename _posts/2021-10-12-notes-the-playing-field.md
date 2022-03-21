@@ -42,7 +42,7 @@ I have observed that people who begin on the sell-side or in mutual funds seem t
 
 ## Level 2: Expert  —  Playing the Game You Were Taught
 
-The survivors of a reasonably difficult transition from analyst to senior analyst or portfolio manager reach the second level, usually in their late 20s or early 30s. <mark>The analyst moves from processing other people’s research agendas to generating the ideas.</mark>
+The survivors of a reasonably difficult transition from analyst to senior analyst or portfolio manager reach the second level, usually in their late 20s or early 30s. <mark>The analyst moves from processing other people’s research agendas to generating the ideas. Remember you are competing with an index.</mark>
 
 Many investors plateau at this level, particularly if they practice their craft outside a “cognitively diverse” city like New York or London. <mark>They often have a somewhat static sense of identity, such as “I am a value investor like Warren Buffett.” This puts them in competition with the index, playing a game that is defined entirely by their peers. </mark>
 
@@ -52,7 +52,7 @@ Some Level 2 investors who are traders feel like impostors next to their more an
 
 While traders still need to train themselves to dig deeply, the essential skill is spotting the key drivers of a situation — seeing the underlying reality — not coming up with the raw analysis. Pride of authorship is an obstacle when it comes to making money.
 
-Attrition at this level is high. Each year ten percent or more of this cohort either peels off into non-buy side roles (marketing or operations) or leaves the industry. The system sorts the more relationship-oriented “fast twitch” people into roles as dedicated traders or marketers.
+<mark>Attrition at this level is high since you are always competing with an index. Hence, if you don't feel like it you can get burnt out. You can change the index (ex. IC, EM, director, etc...) but it's still an index. People also jump around a lot here. </mark>. Each year ten percent or more of this cohort either peels off into non-buy side roles (marketing or operations) or leaves the industry. The system sorts the more relationship-oriented “fast twitch” people into roles as dedicated traders or marketers.
 
 > Here you are competing with a index.
 > Notice, that the playing field has gone from 10,000 -> 1,000.
@@ -63,7 +63,7 @@ Attrition at this level is high. Each year ten percent or more of this cohort ei
 
 <mark>At this level, an investor begins to consolidate multiple influences into a unique strategy, going beyond his or her original mentor or area of specialization </mark>. Warren Buffett may have been at this phase of his development in the 1980’s (when he was roughly 50 years old - or after ~40 years of experience) when he said. “I’m now 15% Phil Fisher and 85% Ben Graham.” </mark> He elaborated: “Charlie [Munger] shoved me in the direction of not just buying bargains, as Ben Graham had taught me…it took a powerful force to move me on from Graham’s limiting view. It was the power of Charlie’s mind, he expanded my horizons.”
 
-One game that is currently operative among many skilled investors is buying quality companies in the midst of short-term difficulties.When Rupert Murdoch was forced to split News Corporation into two after the phone-tapping scandal, its high-quality media assets were available at a discount — and smart investors grabbed them. The same playbook worked for Moody’s as it struggled through lawsuits after the financial crisis.
+One game that is currently operative among many skilled investors is buying quality companies in the midst of short-term difficulties. When Rupert Murdoch was forced to split News Corporation into two after the phone-tapping scandal, its high-quality media assets were available at a discount — and smart investors grabbed them. The same playbook worked for Moody’s as it struggled through lawsuits after the financial crisis.
 
 But a game like this will likely work for several years, before it becomes such a common approach that these “quality” stocks will become less volatile during periods of stress (many high-quality consumer stocks in Asia currently seem immune to sell-offs based on macro uncertainty). <mark> So an investor who uses only one game will have less sustainable returns than those who reach the next stage: putting in the time develop new games even while playing the existing one.</mark>
 
