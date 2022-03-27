@@ -76,7 +76,7 @@ Beyond an initial improvement in strength, flexibility and feel, there is little
 In the investing field, there are also sub-worlds. <mark> An analyst who apprentices and then achieves expertise or professionalism within a certain sphere might define what level of game is possible based on how his or her portfolio manager and peers’ portfolio managers define “world class.” But from a higher balcony one might view even excellent process and results as actually just the best at a given level.</mark>.
 
 > A great time to start a business.
-> At this stage they re-define what it mean to operate at world class. You are the index.
+> At this stage they re-define what it mean to operate at world class. You are the index. However, you are not across cycles.
 
 Most managers take in capital in excess of what their game permits them to manage in a world-class way. Only someone with the confidence born of a long-time horizon can resist the urge to make more money in the short term while risking mediocrity in the medium term. <mark> It is only as managers transition into level 4, that their skills allow them to manage capital at scale.</mark>
 
