@@ -2,18 +2,20 @@
 layout: post
 title: "Notes: Rhetoric"
 categories: notes
-modified_date: Mar 26, 2022
+modified_date: April 03, 2022
 author:
 - Jovan Sardinha
 ---
 
-Overall:
+## Notes
+
+### Overall
 
 * Set your goals and the argument's tense
 * Think of whether you want to emphasize the *ethos* (character, gut), *logos* (logic, mind) or *pathos* (emotion, or heart).
 * Make sure the *kairos* (time and medium) are right.
 
-Cicero's outline (speech or presentation):
+### Cicero's outline (speech or presentation)
 
 * Introduction
 * Narration
@@ -22,7 +24,7 @@ Cicero's outline (speech or presentation):
 * Refutation
 * Conclusion
 
-Goals:
+### Goals
 
 * Personal goal
 * Audience goal
@@ -34,7 +36,7 @@ Goals:
   * Values: Demonstrative
   * Choice: Deliberative
 
-Ethos
+### Ethos
 
 * Decorum
   * Code grooming
@@ -69,7 +71,7 @@ Ethos
   * Avoid belittling the victims
   * Don't apologize. Instead, express your feelings about not living up to your own standards.
 
-Pathos
+### Pathos
 
 * Sympathy
 * Belief
@@ -97,7 +99,7 @@ Pathos
   * Verbing: Turns a noun into a verb or vice versa.
   * Like figure: Strips a word of meaning and uses it as a pause or for emphasis.
 
-Logos
+### Logos
 
 * Deduction
 * Induction
@@ -106,7 +108,7 @@ Logos
 * Logical fallacies
 * Rhetorical fouls
 
-Kairos
+### Kairos
 
 * Persuasive moment
   * Moment spotter: Uncertain moods and beliefs - when mids are already beginning to change - signal a persuasive moment.
@@ -114,13 +116,15 @@ Kairos
   * Audience change
 * Senses
 
-Speechmaking
+### Speechmaking
 
 * Invention
 * Arrangement: Use Cicero's outline
 * Style
 * Memory
 * Delivery
+
+### Essay Writing
 
 ---
 
@@ -161,7 +165,7 @@ Defense
 * Seven deadly sins
 * Nixon
 
-### References
+## References
 
 * [Stanford encyclopedia of Rhetoric](https://plato.stanford.edu/entries/aristotle-rhetoric/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Rhetoric)
