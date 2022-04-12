@@ -165,6 +165,8 @@ Defense
 * Seven deadly sins
 * Nixon
 
+
+
 ## References
 
 * [Stanford encyclopedia of Rhetoric](https://plato.stanford.edu/entries/aristotle-rhetoric/)
