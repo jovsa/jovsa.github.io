@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Mark Spitznagel Books"
 categories: notes
-modified_date: July 24, 2022
+modified_date: July 26, 2022
 author:
 - Jovan Sardinha
 ---
@@ -13,10 +13,14 @@ author:
 * "You have to love to lose money and hate to make money to be successful" Klopp
 * Far better to avoid direct, head-on competition and instead, pursue the roundabout path toward an intermediate step that leads to an eventual position of advantage
 * Natural systems – from forests to markets – continuously seek balance.
+* Mises on the evenly rotating economy:
+  * "The same market transactions are repeated again and again. The goods of the higher orders pass in the same quantities through the same stages of processing until ultimately the produced consumers' goods come into the hands of the consumers and are consumed. No changes in the market data occur. Today does not differ from yesterday and tomorrow will not differ from today...Therefore prices--commonly called static or equilibrium prices--remain constant too."
+  *  Here there are no pure profits; rather, everyone earns the same rate of return from investing in marginal land that they could get if they bought a bond.
 * Austrian investing takes a roundabout path to market success by pursuing immediate loss during the investment process so you can gain more advantageously in the future.
 * If investors could use history to predict market movements, they'd never be surprised by them or lose huge amounts of money.
 * The market cannot be understood as predictable and law-abiding since it's unpredictable and chaotic at its core.
 * The roundabout – the pain of positioning and paying now for the advantage and payoff later – only works when we remove our temporal blinders that keep us hyper focused in the moment. Then, and only then, can we pursue those proximal aims intended to give us an intermediate advantage from which the distal ends are more easily and effectively achieved. To say this is extremely challenging is an understatement.
+* “Faustmann’s ratio” LEV/LRV.
 * To succeed with the strategy of Austrian Investing, you must be able to tolerate initial setbacks.
 * A system should naturally achieve balance through internal guidance. Attempts to intervene in the system will usually cause more problems than they solve. The Austrian School of Economics believes this about markets: government intervention doesn't help balance markets, it distorts them.
 * We can only succeed with Austrian investing if we can stop focusing on the short term. This is extremely difficult, but it's also critical to our success in the long run. It's hard because humans are designed to prefer things that benefit them now rather than later.
