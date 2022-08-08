@@ -42,4 +42,4 @@ $$ EV = 1 * 1.05 * 1.5 * 0.5 * 1.05 * 1.05 * 1.05 = 0.912 $$
 
 ![](/assets/post_assets/risk-taking/nietzsche-runs.png)
 
-4 - The hustle of non-ergodicity
+4 - Ergotic vs. Non-Ergotic Situations
