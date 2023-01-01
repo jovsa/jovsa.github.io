@@ -2,7 +2,7 @@
 layout: post
 title: "Book Notes: Human Action - A Treatise on Economics by L.V. Mises"
 categories: notes
-modified_date: Feb 19, 2022
+modified_date: Nov 04, 2022
 author:
 - Jovan Sardinha
 ---
