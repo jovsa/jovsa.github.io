@@ -127,7 +127,7 @@ author:
 * Girard's Unorthodoxy: Historical Christianity
 * Girard's Unorthodoxy: Apocalyptic Ambivalence
 
-## Modernity
+### Modernity
 
 * Introduction
 * Modernity as Rupture
