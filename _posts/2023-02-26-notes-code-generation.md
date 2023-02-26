@@ -9,6 +9,7 @@ author:
 
 
 [Evaluating LLM trained on Code](https://arxiv.org/pdf/2107.03374.pdf)
+
 Why code
 
 * good size corpus [napkin math](https://docs.google.com/spreadsheets/d/1zsahRIxNnXSq9z9tEHbISCkYxsivnDG9V3LbJLJTL90/edit#gid=0)
@@ -19,16 +20,19 @@ Why code
 * A lot of 'context information' - documentation, commits, diffs, PR, etc...
 * Complimentary skills for most other downstream tasks.
 
-![codex scaling loss](/assets/post_assets/code-generation-models/codex_scaling_log.png)
+![codex scaling loss](/assets/post_assets/code-generation-models/codex_scaling_loss.png)
 
 Downstream evaluation
-![codex pass rate vs. model size](/assets/post_assets/code-generation-models/codex_pass_rate_vs_model_size.png)
+
+![codex pass rate vs. model size](/assets/post_assets/code-generation-models/code_pass_rate_vs_model_size.png)
 
 Language modeling vs. code generation
+
 ![codex train from scratch vs. pretrain](/assets/post_assets/code-generation-models/codex_train_from_scratch_vs_pretrain.png)
 
 Fine-tuning: "Effective data transfer"
-![codex effective data transfer](/assets/post_assets/code-generation-models/codex_effective_data_transfer.png)
+
+![codex effective data transfer](/assets/post_assets/code-generation-models/codex_train_vs_pre_train.png)
 
 
 Data Size:
@@ -61,6 +65,7 @@ Discriminators
 ![alphacode overview](/assets/post_assets/code-generation-models/alphacode_overview.png)
 
 Ranking
+
 ![alphacode ranking](/assets/post_assets/code-generation-models/alphacode_ranking.png)
 
 
@@ -85,6 +90,7 @@ Approach:
 
 
 Progress by method:
+
 ![alphacode progress by method](/assets/post_assets/code-generation-models/alphacode_progress_by_method.png)
 ![alphacode progress table](/assets/post_assets/code-generation-models/alphacode_progress_table.png)
 
@@ -93,6 +99,7 @@ Progress by method:
 ![alphacode eval](/assets/post_assets/code-generation-models/alphacode_eval.png)
 
 Filtering and clustering
+
 ![alphacode filtering](/assets/post_assets/code-generation-models/alphacode_filtering.png)
 
 
