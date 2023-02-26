@@ -19,16 +19,16 @@ Why code
 * A lot of 'context information' - documentation, commits, diffs, PR, etc...
 * Complimentary skills for most other downstream tasks.
 
-![codex scaling loss](/assets/post_assets/code_generation_models/codex_scaling_log.png)
+![codex scaling loss](/assets/post_assets/code-generation-models/codex_scaling_log.png)
 
 Downstream evaluation
-![codex pass rate vs. model size](/assets/post_assets/code_generation_models/codex_pass_rate_vs_model_size.png)
+![codex pass rate vs. model size](/assets/post_assets/code-generation-models/codex_pass_rate_vs_model_size.png)
 
 Language modeling vs. code generation
-![codex train from scratch vs. pretrain](/assets/post_assets/code_generation_models/codex_train_from_scratch_vs_pretrain.png)
+![codex train from scratch vs. pretrain](/assets/post_assets/code-generation-models/codex_train_from_scratch_vs_pretrain.png)
 
 Fine-tuning: "Effective data transfer"
-![codex effective data transfer](/assets/post_assets/code_generation_models/codex_effective_data_transfer.png)
+![codex effective data transfer](/assets/post_assets/code-generation-models/codex_effective_data_transfer.png)
 
 
 Data Size:
@@ -42,13 +42,13 @@ Data Size:
   * Just scaling up model size will run into data limitations soon. However what about transfer?
 
 Generate more samples
-![codex generate more samples](/assets/post_assets/code_generation_models/codex_generate_more_samples.png)
+![codex generate more samples](/assets/post_assets/code-generation-models/codex_generate_more_samples.png)
 
 Longer programs
-![codex_longer_programs](/assets/post_assets/code_generation_models/codex_longer_programs.png)
+![codex_longer_programs](/assets/post_assets/code-generation-models/codex_longer_programs.png)
 
 Discriminators
-![antropic ml discriminators](/assets/post_assets/code_generation_models/antropic_ml_discriminators.png)
+![antropic ml discriminators](/assets/post_assets/code-generation-models/antropic_ml_discriminators.png)
 
 * Binary discriminators for "is this code correct?" (is this code valid is easy)
   * These don't do much better than log-probs of code-trained LM
@@ -58,10 +58,10 @@ Discriminators
 
 
 [Alpha code paper](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf)
-![alphacode overview](/assets/post_assets/code_generation_models/alphacode_overview.png)
+![alphacode overview](/assets/post_assets/code-generation-models/alphacode_overview.png)
 
 Ranking
-![alphacode ranking](/assets/post_assets/code_generation_models/alphacode_ranking.png)
+![alphacode ranking](/assets/post_assets/code-generation-models/alphacode_ranking.png)
 
 
 Approach:
@@ -71,13 +71,13 @@ Approach:
 3. Generate a very large number of samples for each problem.
 4. Filter the samples to obtain a small set of high-quality solutions (~10).
 
-![alphacode architecture overview](/assets/post_assets/code_generation_models/alphacode_architecture_overview.png)
+![alphacode architecture overview](/assets/post_assets/code-generation-models/alphacode_architecture_overview.png)
 
-![alphacode dataset sizes](/assets/post_assets/code_generation_models/alphacode_dataset_sizes.png)
+![alphacode dataset sizes](/assets/post_assets/code-generation-models/alphacode_dataset_sizes.png)
 
-![alphacode codeforces ranking](/assets/post_assets/code_generation_models/alphacode_codeforces_ranking.png)
+![alphacode codeforces ranking](/assets/post_assets/code-generation-models/alphacode_codeforces_ranking.png)
 
-![alphacode solve rate](/assets/post_assets/code_generation_models/alphacode_solve_rate.png)
+![alphacode solve rate](/assets/post_assets/code-generation-models/alphacode_solve_rate.png)
 
 
 [Alpha code blog](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
@@ -85,15 +85,15 @@ Approach:
 
 
 Progress by method:
-![alphacode progress by method](/assets/post_assets/code_generation_models/alphacode_progress_by_method.png)
-![alphacode progress table](/assets/post_assets/code_generation_models/alphacode_progress_table.png)
+![alphacode progress by method](/assets/post_assets/code-generation-models/alphacode_progress_by_method.png)
+![alphacode progress table](/assets/post_assets/code-generation-models/alphacode_progress_table.png)
 
-![codex vs. alphacode](/assets/post_assets/code_generation_models/codex_vs_alphacode.png)
+![codex vs. alphacode](/assets/post_assets/code-generation-models/codex_vs_alphacode.png)
 
-![alphacode eval](/assets/post_assets/code_generation_models/alphacode_eval.png)
+![alphacode eval](/assets/post_assets/code-generation-models/alphacode_eval.png)
 
 Filtering and clustering
-![alphacode filtering](/assets/post_assets/code_generation_models/alphacode_filtering.png)
+![alphacode filtering](/assets/post_assets/code-generation-models/alphacode_filtering.png)
 
 
 
