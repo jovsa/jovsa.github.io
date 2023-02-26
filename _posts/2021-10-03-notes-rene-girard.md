@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: René Girard"
 categories: notes
-modified_date: Feb 26, 2022
+modified_date: Feb 26, 2023
 author:
 - Jovan Sardinha
 ---
