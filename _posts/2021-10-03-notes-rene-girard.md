@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: René Girard"
 categories: notes
-modified_date: Dec 31, 2022
+modified_date: Feb 26, 2022
 author:
 - Jovan Sardinha
 ---
@@ -49,6 +49,7 @@ author:
 
 ## Mimesis
 ### Memetic Desire
+git
 * Introduction
 * Mimesis
 * Mimesis and Normativity
@@ -66,6 +67,7 @@ author:
 
 
 ### Memetic Rivalry
+
 * Introduction
 * Internal and External Mediation
 * Mimetic Rivalry
@@ -168,13 +170,3 @@ author:
 * Conversion
 * Holderlin and the Case for Withdrawal
 * The End
-
-
-
-
-
-
-
-
-
-
