@@ -68,4 +68,7 @@ https://www.lesswrong.com/posts/aqTAd7KzsYmHWYdei/why-copilot-accelerates-timeli
 
 
 
+## Other
+* [Scaling Laws Literature Review](https://epochai.org/blog/scaling-laws-literature-review)
+
 
