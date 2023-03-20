@@ -52,7 +52,7 @@ Longer programs
 ![codex_longer_programs](/assets/post_assets/code-generation-models/codex_longer_programs.png)
 
 Discriminators
-![antropic ml discriminators](/assets/post_assets/code-generation-models/antropic_ml_discriminators.png)
+![antropic ml discriminators](/assets/post_assets/code-generation-models/anthropic_ml_discriminators.png)
 
 * Binary discriminators for "is this code correct?" (is this code valid is easy)
   * These don't do much better than log-probs of code-trained LM
@@ -82,7 +82,7 @@ Approach:
 
 ![alphacode codeforces ranking](/assets/post_assets/code-generation-models/alphacode_codeforces_ranking.png)
 
-![alphacode solve rate](/assets/post_assets/code-generation-models/alphacode_solve_rate.png)
+![alphacode solve rates](/assets/post_assets/code-generation-models/alphacode_solve_rates.png)
 
 
 [Alpha code blog](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
