@@ -2,7 +2,7 @@
 layout: post
 title: "Notes: Rhetoric"
 categories: notes
-modified_date: April 03, 2022
+modified_date: March 20, 2023
 author:
 - Jovan Sardinha
 ---
@@ -164,6 +164,47 @@ Defense
 
 * Seven deadly sins
 * Nixon
+
+
+### Rhetorical devices
+
+1. Alliteration: The repetition of similar sounds at the beginning of words to create a rhythm or emphasize a point. Example: "Peter Piper picked a peck of pickled peppers."
+
+2. Anaphora: The repetition of a phrase at the beginning of successive sentences or clauses to create a sense of rhythm and emphasize a point. Example: "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets..."
+
+3. Antanagoge: The juxtaposition of two contrasting ideas to create a sense of balance. Example: "Sure, the car is expensive, but it's worth it in the long run."
+
+4. Chiasmus: The repetition of similar phrases in reverse order to create a balance or emphasize a point. Example: "Ask not what your country can do for you, ask what you can do for your country."
+
+5. Euphemism: The use of a mild or indirect word or phrase in place of one considered to be too harsh or blunt. Example: "He passed away" instead of "He died."
+
+6. Hyperbaton: The rearrangement of the normal order of words to create an emphasis or unexpected effect. Example: "Into the water dove the boy" instead of "The boy dove into the water."
+
+7. Hyperbole: The exaggeration of a statement for emphasis or effect. Example: "I've told you a million times to clean your room!"
+
+8. Irony: The use of words to convey the opposite of their literal meaning, often for humorous or dramatic effect. Example: "Isn't it ironic that the only time I have free time is when I'm sick?"
+
+9. Juxtaposition: The placement of two objects or ideas side by side to create a comparison or contrast. Example: "The beauty of the sunset was juxtaposed with the ugliness of the city skyline."
+
+10. Litotes: The use of a double negative or understatement to create an effect of emphasis or affirmation. Example: "She's not the brightest bulb in the box."
+
+11. Metaphor: The comparison of two dissimilar things to explain a concept or create an image. Example: "Life is a journey."
+
+12. Onomatopoeia: The use of words that imitate sounds to create a vivid image or atmosphere. Example: "The bees buzzed around the flowers."
+
+13. Oxymoron: The juxtaposition of two contradictory terms to create a paradoxical effect. Example: "Jumbo shrimp."
+
+14. Paradox: A statement that appears to be self-contradictory but may in fact be true. Example: "This statement is false."
+
+15. Personification: The attribution of human qualities to non-human things or ideas to create a vivid image or emphasize a point. Example: "The wind whispered through the trees."
+
+16. Rhetorical question: A question asked for effect or emphasis, not for a genuine answer. Example: "Do you think I'm stupid?"
+
+17. Simile: The comparison of two dissimilar things using the words “like” or “as” to explain a concept or create an image. Example: "She ran as fast as a cheetah."
+
+18. Synecdoche: The use of a part to refer to the whole, or vice versa, to create a vivid image. Example: "All hands on deck" instead of "All sailors on deck."
+
+19. Zeugma: The use of a word to modify two or more words, but in different
 
 
 
