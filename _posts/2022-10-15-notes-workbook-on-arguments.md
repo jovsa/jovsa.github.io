@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Notes: Workbook on Arguments"
+title: "Notes: Arguments"
 categories: notes
-modified_date: Oct 16, 2022
+modified_date: Oct 24, 2023
 author:
 - Jovan Sardinha
 ---
+
+## Workbook on Arguments
+
 Link to [book](https://www.amazon.com/Workbook-Arguments-Complete-Critical-Thinking/dp/162466833X)
 
-
----
 * Ch1: Short arguments
   * Rule 1: Identify premise and conclusion
   * Rule 2: Develop you ideas in a natural order
@@ -70,5 +71,113 @@ Link to [book](https://www.amazon.com/Workbook-Arguments-Complete-Critical-Think
   * Rule D2: When terms are contested, work from the clear case
   * Rule D3: Definitions don’t replace arguments
 
----
 ![](/assets/post_assets/arguments/deductive_arguments_notes.png)
+
+---
+
+## Logic 101
+
+[Link to course](https://www.youtube.com/playlist?list=PLKI1h_nAkaQq5MDWlKXu0jeZmLDt-51on)
+
+### Operations
+
+* Negation: `~`
+* OR/Disjunction (inclusive): `v`
+* XOR (exclusive):
+* AND/Conjunction: `^`
+* Conditional: `P=>Q`; `P` is the antecedent, `Q` is the consequent
+* Bi-conditional (if and only if): `P<=>Q`; `P` is the antecedent, `Q` is the consequent
+
+### Truth Tables
+
+### Replacement Rules
+
+> Used to replace one expression with another.
+
+* Double Negation: `P <=> ~~P`
+* Material Implication: `P=>Q <=> ~PvQ`
+  * Helps convert conditionals to disjunctions
+* Contraposition: `P=>Q <=> ~Q=>~P`
+  * Helps convert conditionals to conditionals
+* De Morgan's Law: `~(P^Q) <=> ~Pv~Q`
+  * Helps convert conjunctions to disjunctions
+* Associativity:
+  * with conjunction: `(P^Q)^R <=> P^(Q^R)`
+  * with disjunction: `(PvQ)vR <=> Pv(QvR)`
+* Commutativity
+* Distribution
+  * with conjunction: `P^(QvR) <=> (P^Q)v(P^R)`
+  * with disjunction: `Pv(Q^R) <=> (PvQ)^(PvR)`
+* Idempotence
+  * with conjunction: `P^P <=> P`
+  * with disjunction: `PvP <=> P`
+
+### Rules of Inference
+
+> Help us draw conclusions from premises
+
+* Modus Ponens:
+  1. `P=>Q`
+  2. `P`
+  3. `therefore Q`
+* Modus Tollens:
+  1. `P=>Q`
+  2. `~Q`
+  3. `therefore ~P`
+* Disjunctive Syllogism:
+  1. `PvQ`
+  2. `~P`
+  3. `therefore Q`
+* Hypothetical Syllogism:
+  1. `P=>Q`
+  2. `Q=>R`
+  3. `therefore P=>R`
+* Dilemma:
+  * Constructive:
+    1. `P=>Q`
+    2. `R=>S`
+    3. `PvR`
+    4. `therefore QvS`
+  * Destructive:
+    1. `P=>Q`
+    2. `R=>S`
+    3. `~Qv~S`
+    4. `therefore ~Pv~R`
+* Conjuction introduction
+  1. `P`
+  2. `Q`
+  3. `therefore P^Q`
+* Simplification
+  1. `P^Q`
+  2. `therefore P`
+* Biconditional:
+  * Biconditional elimination
+    1. `P<=>Q`
+    2. `therefore P=>Q` and `therefore Q=>P`
+  * Biconditional introduction
+    1. `P=>Q`
+    2. `Q=>P`
+    3. `therefore P<=>Q`
+* Disjuction introduction
+  1. `P`
+  2. `therefore PvQ`
+
+### Proofs
+
+* Styles:
+  * Proof by contradiction
+  * Conditional proofs
+  * Tautologies
+  * Nested Proofs
+  * Biconditional tautologies
+
+* Proof strategy:
+  1. DeMorgan's Everything
+  2. Working backwards
+  3. Proof by cases
+
+
+### Fallacies
+
+* Affirming the consequent
+* Denying the antecedent
