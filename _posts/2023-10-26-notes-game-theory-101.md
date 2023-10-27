@@ -28,7 +28,7 @@ The Odd Rule
 
 ## Unit 2: Extensive Form Games
 
-Subgame Perfect Equilibrium
+[Subgame Perfect Equilibrium](https://gametheory101.com/courses/game-theory-101/subgame-perfect-equilibrium/)
 Backward Induction
 How NOT to Write a Subgame Perfect Equilibrium
 Multiple Subgame Perfect Equilibria

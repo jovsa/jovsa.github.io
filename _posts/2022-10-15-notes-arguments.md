@@ -77,7 +77,8 @@ Link to [book](https://www.amazon.com/Workbook-Arguments-Complete-Critical-Think
 
 ## Logic 101
 
-[Link to course](https://www.youtube.com/playlist?list=PLKI1h_nAkaQq5MDWlKXu0jeZmLDt-51on)
+[Link to course](https://gametheory101.com/courses/logic-101/)
+[Link to playlist](https://www.youtube.com/playlist?list=PLKI1h_nAkaQq5MDWlKXu0jeZmLDt-51on)
 
 ### Operations
 
