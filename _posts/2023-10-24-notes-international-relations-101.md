@@ -2,10 +2,11 @@
 layout: post
 title: "Notes: International Relations 101"
 categories: notes
-modified_date: Oct 24, 2023
+modified_date: Oct 27, 2023
 author:
 - Jovan Sardinha
 ---
+[link to course](https://gametheory101.com/courses/international-relations-101/)
 [link to playlist](https://www.youtube.com/playlist?list=PLB5965C13F4B0B2DA)
 
 ## Unit 1: What is 'international' about international relations?
@@ -22,6 +23,7 @@ author:
 * [The Strategic World](https://www.youtube.com/watch?v=UVrMQs5VOfE&list=PLB5965C13F4B0B2DA&index=5)
 
 ## Unit 2: Conflict versus cooperation
+
 * [Overview of conflict vs. cooperation](https://www.youtube.com/watch?v=UVrMQs5VOfE&list=PLB5965C13F4B0B2DA&index=6)
   * How can individually rational behavior lead to collectively irrational outcomes?
   * Can the shadow of the future induce two states to play nice with one another?
