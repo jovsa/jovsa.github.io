@@ -8,6 +8,7 @@ author:
 ---
 
 link to playlist: [link](https://www.youtube.com/playlist?list=PLUkh9m2BorqkKMOj0LkU8JCeDlk4k8P-A)
+link to book: [link](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/ACF4E/appldCF4E.htm)
 
 ![index](/assets/post_assets/cheatsheet-corp-finance/index.png)
 
