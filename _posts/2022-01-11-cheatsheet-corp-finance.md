@@ -7,9 +7,13 @@ author:
 - Jovan Sardinha
 ---
 
+link to playlist: [link](https://www.youtube.com/playlist?list=PLUkh9m2BorqkKMOj0LkU8JCeDlk4k8P-A)
+
 ![index](/assets/post_assets/cheatsheet-corp-finance/index.png)
 
 ![index2](/assets/post_assets/cheatsheet-corp-finance/index2.png)
+
+![index3](/assets/post_assets/cheatsheet-corp-finance/index3.png)
 
 ## 1. The Objective Decision
 
