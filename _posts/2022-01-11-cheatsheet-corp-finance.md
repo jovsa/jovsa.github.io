@@ -2,12 +2,14 @@
 layout: post
 title: "Cheatsheet: Corporate Finance"
 categories: notes
-modified_date: Feb 15, 2022
+modified_date: Dec 3, 2023
 author:
 - Jovan Sardinha
 ---
 
 ![index](/assets/post_assets/cheatsheet-corp-finance/index.png)
+
+![index2](/assets/post_assets/cheatsheet-corp-finance/index2.png)
 
 ## 1. The Objective Decision
 
