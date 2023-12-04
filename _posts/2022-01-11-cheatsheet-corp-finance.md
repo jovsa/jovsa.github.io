@@ -15,6 +15,8 @@ link to playlist: [link](https://www.youtube.com/playlist?list=PLUkh9m2BorqkKMOj
 
 ![index3](/assets/post_assets/cheatsheet-corp-finance/index3.png)
 
+![index4](/assets/post_assets/cheatsheet-corp-finance/index4.png)
+
 ## 1. The Objective Decision
 
 > The `Why` - ex. max. value of the business
@@ -26,6 +28,9 @@ Some error cases
 ![error cases](/assets/post_assets/cheatsheet-corp-finance/objective_error_cases.png)
 
 I would imagine there is a version where each stakeholder acts out of turn.
+
+![modified objective function](/assets/post_assets/cheatsheet-corp-finance/modified_objective_function.png)
+
 
 ## 2. The Investment Decision
 
